@@ -1,0 +1,22 @@
+Ley No. 53-07, del 23 de abril de 2007, contra Crímenes y Delitos de Alta Tecnología.
+CONSIDERANDO: Que la Constitución de la República Dominicana establece los derechos y deberes fundamentales de los ciudadanos entre los que se encuentra la libertad de expresión, la integridad e inviolabilidad de la correspondencia y demás documentos privados;
+CONSIDERANDO: Que la Ley General de las Telecomunicaciones No.153-98, del 27 de mayo de 1998, estatuye la obligación de respetar la inviolabilidad de las telecomunicaciones y prohíbe el uso de las telecomunicaciones contrario a las leyes o que tenga por objeto cometer delitos o entorpecer la acción de la justicia;
+CONSIDERANDO: Que las tecnologías de la información y de la comunicación han experimentado un desarrollo impresionante, con lo que brindan un nuevo soporte para la comisión de delitos tradicionales y crean nuevas modalidades de infracciones y hechos no incriminados, afectando los intereses patrimoniales y extrapatrimoniales de las personas físicas y morales, así como del Estado y las instituciones que lo representan;
+CONSIDERANDO: Que estos crímenes y delitos relacionados a las tecnologías de información y comunicación no están previstos en la legislación penal dominicana, por lo que los autores de tales acciones no pueden ser sancionados sin la creación de una legislación previa, y en consecuencia, resulta necesaria su tipificación, y la adopción de mecanismos suficientes para su lucha efectiva, facilitando la cooperación entre el Estado y el sector privado para la detección, investigación y sanción a nivel nacional de estos nuevos tipos de delitos, y estableciendo disposiciones que permitan una cooperación internacional fiable y rápida;
+CONSIDERANDO: Que la tipificación y prevención de los actos delictivos a sancionar han adquirido gran relevancia a nivel internacional, debido a que con el desarrollo de las tecnologías de la información y comunicación se han originado grandes retos de seguridad; y que en la actualidad, la Comisión Interamericana de Telecomunicaciones (CITEL), el Comité Interamericano contra el Terrorismo (CICTE) y la Reunión de Ministro, de Justicia o Procuradores Generales de las Américas (REMJA) están trabajando en la adopción de una estrategia hemisférica para la seguridad cibernética en la región, conforme a lo dispuesto por la Resolución AG/RES. 2004 (XXXIV-0/04) de la Asamblea General de la Organización de Estados Americanos (OEA) de fecha 8 de junio de 2004, para la Adopción de una Estrategia Interamericana Integral para Combatir las Amenazas a la Seguridad Cibernética;
+CONSIDERANDO: Que en la actual era del conocimiento, la información y los instrumentos electrónicos de canalización de la misma se han vuelto cada vez más importantes y trascendentes en los procesos de desarrollo, competitividad y cambios estructurales registrados en las vertientes económicas, políticas, sociales, culturales y empresariales del país.
+VISTA: La Constitución de la República Dominicana;
+VISTA: La Ley General de Telecomunicaciones No.153-98, del 27 de mayo de 1998;
+VISTA: La Ley No.126-02, del 4 de septiembre del 2002, de Comercio Electrónico, Documentos y Firmas Digitales;
+VISTO: El Código Penal de la República Dominicana, del 20 de agosto de 1884, y sus modificaciones;
+VISTO: El Nuevo Código Penal de la República Dominicana, aprobado por la Cámara de Diputados de la República, el 26 de julio del año 2006;
+VISTO: El Código Procesal Penal de la República Dominicana, Ley No.76-02, del 19 de julio del 2002;
+VISTA: La Ley No.20-00, del 8 de mayo del 2000, de Propiedad Industrial;
+VISTA: La Ley No.65-00, del 21 de agosto del 2000, del Derecho de Autor;
+VISTA: La Ley No.136-03, del 7 de agosto del 2003, Código del Menor;
+VISTA: La Ley No.96-04, del 28 de enero del 2004, Institucional de la Policía;
+VISTA: La Declaración Universal de Derechos Humanos de 1948 y la Convención Americana sobre Derechos Humanos, suscrita en San José de Costa Rica, el 22 de noviembre de 1969;
+VISTA: La Ley No.137-03, del 7 de agosto del 2003, sobre Tráfico Ilícito de Migrantes y Trata de Personas;
+VISTA: La Ley No.50-88, del 30 de mayo de 1988, sobre Drogas y Sustancias Controladas de la República Dominicana;
+VISTA: La Resolución AG/RES.2004 (XXXIV-0/04) del 8 de junio del 2004 de la Asamblea General de la Organización de Estados Americanos (OEA);
+VISTO: El Convenio sobre la Ciberdelincuencia del Consejo de Europa, del 23 de noviembre del 2001.

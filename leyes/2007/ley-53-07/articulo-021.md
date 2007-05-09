@@ -1,0 +1,1 @@
+Artículo 21.-Difamación. La difamación cometida a través de medios electrónicos, informáticos, telemáticos, de telecomunicaciones o audiovisuales, se sancionará con la pena de tres meses a un año de prisión y multa de cinco a quinientas veces el salario mínimo.

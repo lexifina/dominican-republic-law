@@ -1,0 +1,1 @@
+Artículo 35.- Capacitación. La Comisión coordinará la capacitación de las autoridades competentes mediante un acuerdo con el Instituto Tecnológico de las Américas (ITLA) o cualquier otra entidad que se considere necesaria.

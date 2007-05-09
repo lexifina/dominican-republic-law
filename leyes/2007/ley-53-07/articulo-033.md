@@ -1,0 +1,1 @@
+Artículo 33.- Reuniones. La Comisión funcionará en pleno o por medio de comisiones delegadas. El pleno se reunirá por lo menos cuatro veces al año en reunión ordinaria o cuantas veces lo convoque su Presidente, por iniciativa propia o a propuesta de más de la mitad de sus miembros.

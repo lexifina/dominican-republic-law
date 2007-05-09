@@ -1,0 +1,1 @@
+Artículo 39.- Personal del DICAT. El personal del DICAT, incluyendo a su comandante, deberá contar con certificaciones de la industria que avalen su pericia en áreas de la informática, la investigación y áreas afines.

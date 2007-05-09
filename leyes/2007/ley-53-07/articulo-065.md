@@ -1,0 +1,1 @@
+Artículo 65.- Tribunal Competente. Los casos sobre crímenes y delitos de alta tecnología serán conocidos por los tribunales ordinarios correspondientes o por el Tribunal de Niños, Niñas y Adolescentes, dependiendo del caso. Los jueces podrán valerse de la presentación de un peritaje para el conocimiento del fondo del caso.

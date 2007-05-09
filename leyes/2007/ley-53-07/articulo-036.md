@@ -1,0 +1,1 @@
+Artículo 36.- Creación del Departamento de Investigación de Crímenes y Delitos de Alta Tecnología (DICAT). Se crea el Departamento de Investigación de Crímenes y Delitos de Alta Tecnología (DICAT), como entidad subordinada a la Dirección Central de Investigaciones Criminales de la Policía Nacional.

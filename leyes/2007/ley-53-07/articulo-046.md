@@ -1,0 +1,1 @@
+Artículo 46.- Personal de la División de Investigación de Delitos Informáticos (DIDI). El personal de la División de Investigación de Delitos Informáticos (DIDI), incluyendo a su encargado, deberá contar con certificaciones de la industria que avalen su pericia en áreas de la informática, la investigación y áreas afines.

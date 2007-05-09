@@ -1,0 +1,1 @@
+Artículo 62.- Pago de Indemnizaciones. Sin perjuicio de las sanciones penales y de las sanciones administrativas que puedan resultar de leyes y reglamentos especiales, las personas físicas o morales podrán ser condenadas al pago de indemnizaciones civiles a favor del sujeto pasivo.

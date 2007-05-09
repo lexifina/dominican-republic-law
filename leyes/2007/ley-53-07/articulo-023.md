@@ -1,0 +1,1 @@
+Artículo 23.-Atentado Sexual. El hecho de ejercer un atentado sexual contra un niño, niña, adolescente, incapacitado o enajenado mental, mediante la utilización de un sistema de información o cualquiera de sus componentes, se sancionará con las penas de tres a diez años de prisión y multa desde cinco a doscientas veces el salario mínimo.

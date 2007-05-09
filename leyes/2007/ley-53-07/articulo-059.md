@@ -1,0 +1,2 @@
+Artículo 59.- Confidencialidad del Proceso Investigativo. Quien colabore con el proceso de investigación, en la recolección, interceptación e intervención de datos de un sistema de información o de sus componentes, o cualquiera otra acción, incluyendo a los proveedores de servicios, mantendrá confidencial el hecho de la ejecución de los actos realizados por parte de la autoridad competente.
+Párrafo.- La violación a los Artículos 51 y 52 será castigada con las penas establecidas para la revelación de secretos en el Código Penal de la República Dominicana.

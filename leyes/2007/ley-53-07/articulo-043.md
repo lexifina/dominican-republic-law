@@ -1,0 +1,1 @@
+Artículo 43.- Creación de la División de Investigaciones de Delitos Informáticos (DIDI). Se crea la División de Investigaciones de Delitos Informáticos (DIDI) como dependencia del Departamento Nacional de Investigaciones (DNI).

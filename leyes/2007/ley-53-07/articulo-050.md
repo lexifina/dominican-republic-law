@@ -1,0 +1,1 @@
+Artículo 50.- Documentación y Tramitación de Investigaciones. Tanto la DIDI como el DICAT contarán con representantes especializados del Ministerio Público, quienes documentarán y tramitarán las investigaciones de estos departamentos.

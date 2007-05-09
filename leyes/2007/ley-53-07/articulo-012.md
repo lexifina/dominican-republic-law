@@ -1,0 +1,1 @@
+Artículo 12.-Atentado contra la Vida de la Persona. Se sancionará con las mismas penas del homicidio intencional o inintencional, el atentado contra la vida, o la provocación de la muerte de una persona cometido utilizando sistemas de carácter electrónico, informático, telemático o de telecomunicaciones, o sus componentes.
