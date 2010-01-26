@@ -1,0 +1,1 @@
+Decimoctava: Las previsiones presupuestarias para la implementación de los órganos que se crean en la presente Constitución deberán estar contenidas en el presupuesto de 2010, de manera que se asegure su plena entrada en vigencia en el año 2011.

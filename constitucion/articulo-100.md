@@ -1,0 +1,1 @@
+Artículo 100.- Efectos de las convocatorias extraordinarias. Las convocatorias extraordinarias realizadas por el Poder Ejecutivo a las cámaras legislativas no surtirán efectos para los fines de la perención de los proyectos de ley en trámite.

@@ -1,0 +1,3 @@
+Artículo 164.- Integración. La Jurisdicción Contencioso Administrativa estará integrada por tribunales superiores administrativos y tribunales contencioso administrativos de primera instancia. Sus atribuciones, integración, ubicación, competencia territorial y procedimientos serán determinados por la ley. Los tribunales superiores podrán dividirse en salas y sus decisiones son susceptibles de ser recurribles en casación.
+Párrafo I.- Las y los jueces de los tribunales superiores administrativos deberán reunir los mismos requisitos exigidos a los jueces de cortes de apelación.
+Párrafo II.- Las y los jueces de los tribunales contencioso administrativos deberán reunir los mismos requisitos exigidos a los jueces de primera instancia.

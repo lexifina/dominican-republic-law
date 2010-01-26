@@ -1,0 +1,1 @@
+Artículo 183.- Escogencia jueces Tribunal Superior Electoral. El Consejo Nacional de la Magistratura al designar los jueces y sus suplentes del Tribunal Superior Electoral dispondrá cuál de ellos ocupará la presidencia.

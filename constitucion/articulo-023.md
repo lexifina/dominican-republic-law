@@ -1,0 +1,1 @@
+Artículo 23.- Pérdida de los derechos de ciudadanía. Los derechos de ciudadanía se pierden por condenación irrevocable en los casos de traición, espionaje, conspiración; así como por tomar las armas y por prestar ayuda o participar en atentados o daños deliberados contra los intereses de la República.

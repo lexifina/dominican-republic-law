@@ -1,0 +1,1 @@
+Artículo 118.- Quórum de la Asamblea Nacional. Las cámaras se reunirán en Asamblea Nacional en los casos indicados en esta Constitución, debiendo estar presentes más de la mitad de los miembros de cada cámara. Sus decisiones se tomarán por mayoría absoluta de votos, excepto cuando se convoque para reformar la Constitución.

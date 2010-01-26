@@ -1,0 +1,1 @@
+Artículo 246.- Control y fiscalización de fondos públicos. El control y fiscalización sobre el patrimonio, los ingresos, gastos y uso de los fondos públicos se llevará a cabo por el Congreso Nacional, la Cámara de Cuentas, la Contraloría General de la República, en el marco de sus respectivas competencias, y por la sociedad a través de los mecanismos establecidos en las leyes.

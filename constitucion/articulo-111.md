@@ -1,0 +1,1 @@
+Artículo 111.- Leyes de orden público. Las leyes relativas al orden público, policía y la seguridad, obligan a todos los habitantes del territorio y no pueden ser derogadas por convenciones particulares.

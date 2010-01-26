@@ -1,0 +1,6 @@
+Artículo 146.- Proscripción de la corrupción. Se condena toda forma de corrupción en los órganos del Estado. En consecuencia:
+1) Será sancionada con las penas que la ley determine, toda persona que sustraiga fondos públicos o que prevaliéndose de sus posiciones dentro de los órganos y organismos del Estado, sus dependencias o instituciones autónomas, obtenga para sí o para terceros provecho económico;
+2) De igual forma será sancionada la persona que proporcione ventajas a sus asociados, familiares, allegados, amigos o relacionados;
+3) Es obligatoria, de acuerdo con lo dispuesto por la ley, la declaración jurada de bienes de las y los funcionarios públicos, a quienes corresponde siempre probar el origen de sus bienes, antes y después de haber finalizado sus funciones o a requerimiento de autoridad competente;
+4) A las personas condenadas por delitos de corrupción les será aplicada, sin perjuicio de otras sanciones previstas por las leyes, la pena de degradación cívica, y se les exigirá la restitución de lo apropiado de manera ilícita;
+5) La ley podrá disponer plazos de prescripción de mayor duración que los ordinarios para los casos de crímenes de corrupción y un régimen de beneficios procesales restrictivo.

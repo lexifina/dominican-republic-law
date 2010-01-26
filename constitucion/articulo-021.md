@@ -1,0 +1,1 @@
+Artículo 21.- Adquisición de la ciudadanía. Todos los dominicanos y dominicanas que hayan cumplido 18 años de edad y quienes estén o hayan estado casados, aunque no hayan cumplido esa edad, gozan de ciudadanía.

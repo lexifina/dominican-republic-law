@@ -1,0 +1,1 @@
+Artículo 227.- Dirección de las políticas monetarias. La Junta Monetaria, representada por el Gobernador del Banco Central, tendrá a su cargo la dirección y adecuada aplicación de las políticas monetarias, cambiarias y financieras de la Nación y la coordinación de los entes reguladores del sistema y del mercado financiero.

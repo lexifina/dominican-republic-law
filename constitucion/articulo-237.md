@@ -1,0 +1,1 @@
+Artículo 237.- Obligación de identificar fuentes. No tendrá efecto ni validez la ley que ordene, autorice un pago o engendre una obligación pecuniaria a cargo del Estado, sino cuando esa misma ley identifique o establezca los recursos necesarios para su ejecución.

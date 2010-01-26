@@ -1,0 +1,1 @@
+Artículo 12.- División político administrativa. Para el gobierno y la administración del Estado, el territorio de la República se divide políticamente en un Distrito Nacional y en las regiones, provincias y municipios que las leyes determinen. Las regiones estarán conformadas por las provincias y municipios que establezca la ley.

@@ -1,0 +1,1 @@
+Artículo 2.- Soberanía popular. La soberanía reside exclusivamente en el pueblo, de quien emanan todos los poderes, los cuales ejerce por medio de sus representantes o en forma directa, en los términos que establecen esta Constitución y las leyes.

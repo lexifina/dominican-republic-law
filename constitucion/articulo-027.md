@@ -1,0 +1,1 @@
+Artículo 27.- Representantes. La República Dominicana tendrá representantes ante los parlamentos internacionales respecto a los cuales haya suscrito acuerdos que le reconozcan su participación y representación.

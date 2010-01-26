@@ -1,0 +1,1 @@
+Artículo 152.- Integración. La Suprema Corte de Justicia es el órgano jurisdiccional superior de todos los organismos judiciales. Estará integrada por no menos de dieciséis jueces y podrá reunirse, deliberar y fallar válidamente con el quórum determinado por la ley que establece su organización. Estará dividida en salas, de conformidad con la ley.

@@ -1,0 +1,1 @@
+Séptima: Los actuales integrantes de la Junta Central Electoral permanecerán en sus funciones hasta la conformación de los nuevos órganos creados por la presente Constitución y la designación de sus incumbentes.

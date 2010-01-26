@@ -1,0 +1,3 @@
+Artículo 79.- Requisitos para ser senador o senadora. Para ser senadora o senador se requiere ser dominicana o dominicano en pleno ejercicio de los derechos civiles y políticos, haber cumplido veinticinco años de edad, ser nativo de la demarcación territorial que lo elija o haber residido en ella por lo menos cinco años consecutivos. En consecuencia:
+1) Las senadoras y senadores electos por una demarcación residirán en la misma durante el período por el que sean electos;
+2) Las personas naturalizadas sólo podrán ser elegidas al Senado diez años después de haber adquirido la nacionalidad dominicana, siempre que hayan residido en la jurisdicción que las elija durante los cinco años que precedan a su elección.

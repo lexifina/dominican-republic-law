@@ -1,0 +1,4 @@
+Artículo 149.- Poder Judicial. La justicia se administra gratuitamente, en nombre de la República, por el Poder Judicial. Este poder se ejerce por la Suprema Corte de Justicia y los demás tribunales creados por esta Constitución y por las leyes.
+Párrafo I.- La función judicial consiste en administrar justicia para decidir sobre los conflictos entre personas físicas o morales, en derecho privado o público, en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado. Su ejercicio corresponde a los tribunales y juzgados determinados por la ley. El Poder Judicial goza de autonomía funcional, administrativa y presupuestaria.
+Párrafo II.- Los tribunales no ejercerán más funciones que las que les atribuyan la Constitución y las leyes.
+Párrafo III.- Toda decisión emanada de un tribunal podrá ser recurrida ante un tribunal superior, sujeto a las condiciones y excepciones que establezcan las leyes.

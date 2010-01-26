@@ -1,0 +1,3 @@
+Artículo 274.- Período constitucional de funcionarios electivos. El ejercicio electivo del Presidente y el Vicepresidente de la República, así como de los representantes legislativos y parlamentarios de organismos internacionales, terminarán uniformemente el día 16 de agosto de cada cuatro años, fecha en que se inicia el correspondiente período constitucional, con las excepciones previstas en esta Constitución.
+Párrafo I.- Las autoridades municipales electas el tercer domingo de febrero de cada cuatro años tomarán posesión el 24 de abril del mismo año.
+Párrafo II.- Cuando un funcionario electivo cese en el ejercicio del cargo por muerte, renuncia, inhabilitación u otra causa, quien lo sustituya permanecerá en el ejercicio del cargo hasta completar el período.

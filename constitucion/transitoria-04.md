@@ -1,0 +1,1 @@
+Cuarta: Los actuales jueces de la Suprema Corte de Justicia que no queden en retiro por haber cumplido los setenta y cinco años de edad serán sometidos a una evaluación de desempeño por el Consejo Nacional de la Magistratura, el cual determinará sobre su confirmación.

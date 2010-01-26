@@ -1,0 +1,5 @@
+Artículo 74.- Principios de reglamentación e interpretación. La interpretación y reglamentación de los derechos y garantías fundamentales, reconocidos en la presente Constitución, se rigen por los principios siguientes:
+1) No tienen carácter limitativo y, por consiguiente, no excluyen otros derechos y garantías de igual naturaleza;
+2) Sólo por ley, en los casos permitidos por esta Constitución, podrá regularse el ejercicio de los derechos y garantías fundamentales, respetando su contenido esencial y el principio de razonabilidad;
+3) Los tratados, pactos y convenciones relativos a derechos humanos, suscritos y ratificados por el Estado dominicano, tienen jerarquía constitucional y son de aplicación directa e inmediata por los tribunales y demás órganos del Estado;
+4) Los poderes públicos interpretan y aplican las normas relativas a los derechos fundamentales y sus garantías, en el sentido más favorable a la persona titular de los mismos y, en caso de conflicto entre derechos fundamentales, procurarán armonizar los bienes e intereses protegidos por esta Constitución.

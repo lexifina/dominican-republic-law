@@ -1,0 +1,1 @@
+Decimoprimera: Las leyes observadas por el Poder Ejecutivo, que no hayan sido decididas por el Congreso Nacional al momento de la entrada en vigencia de esta Constitución, deberán ser sancionadas en las dos legislaturas ordinarias siguientes a la proclamación de la presente Constitución. Vencido este plazo, las mismas se considerarán como no iniciadas.

@@ -1,0 +1,1 @@
+Artículo 38.- Dignidad humana. El Estado se fundamenta en el respeto a la dignidad de la persona y se organiza para la protección real y efectiva de los derechos fundamentales que le son inherentes. La dignidad del ser humano es sagrada, innata e inviolable; su respeto y protección constituyen una responsabilidad esencial de los poderes públicos.

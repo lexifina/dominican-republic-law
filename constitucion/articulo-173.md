@@ -1,0 +1,1 @@
+Artículo 173.- Sistema de carrera. El Ministerio Público se organiza conforme a la ley, que regula su inamovilidad, régimen disciplinario y los demás preceptos que rigen su actuación, su escuela de formación y sus órganos de gobierno, garantizando la permanencia de sus miembros de carrera hasta los setenta y cinco años.

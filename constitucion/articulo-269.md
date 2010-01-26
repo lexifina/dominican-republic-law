@@ -1,0 +1,1 @@
+Artículo 269.- Iniciativa de reforma constitucional. Esta Constitución podrá ser reformada si la proposición de reforma se presenta en el Congreso Nacional con el apoyo de la tercera parte de los miembros de una u otra cámara, o si es sometida por el Poder Ejecutivo.

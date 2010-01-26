@@ -1,0 +1,1 @@
+Artículo 258.- Consejo de Seguridad y Defensa Nacional. El Consejo de Seguridad y Defensa Nacional es un órgano consultivo que asesora al Presidente de la República en la formulación de las políticas y estrategias en esta materia y en cualquier asunto que el Poder Ejecutivo someta a su consideración. El Poder Ejecutivo reglamentará su composición y funcionamiento.

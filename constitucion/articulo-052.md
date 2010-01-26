@@ -1,0 +1,1 @@
+Artículo 52.- Derecho a la propiedad intelectual. Se reconoce y protege el derecho de la propiedad exclusiva de las obras científicas, literarias, artísticas, invenciones e innovaciones, denominaciones, marcas, signos distintivos y demás producciones del intelecto humano por el tiempo, en la forma y con las limitaciones que establezca la ley.

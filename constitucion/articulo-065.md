@@ -1,0 +1,3 @@
+Artículo 65.- Derecho al deporte. Toda persona tiene derecho a la educación física, al deporte y la recreación. Corresponde al Estado, en colaboración con los centros de enseñanza y las organizaciones deportivas, fomentar, incentivar y apoyar la práctica y difusión de estas actividades. Por tanto:
+1) El Estado asume el deporte y la recreación como política pública de educación y salud y garantiza la educación física y el deporte escolar en todos los niveles del sistema educativo, conforme a la ley;
+2) La ley dispondrá los recursos, estímulos e incentivos para la promoción del deporte para todos y todas, la atención integral de los deportistas, el apoyo al deporte de alta competición, a los programas y actividades deportivas en el país y en el exterior.

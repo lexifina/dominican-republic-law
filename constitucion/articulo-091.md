@@ -1,0 +1,1 @@
+Artículo 91.- Rendición de cuentas de los presidentes. Los presidentes de ambas cámaras deberán convocar a sus respectivos plenos la primera semana del mes de agosto de cada año, para rendirles un informe sobre las actividades legislativas, administrativas y financieras realizadas durante el período precedente.

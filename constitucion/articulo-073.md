@@ -1,0 +1,1 @@
+Artículo 73.- Nulidad de los actos que subviertan el orden constitucional. Son nulos de pleno derecho los actos emanados de autoridad usurpada, las acciones o decisiones de los poderes públicos, instituciones o personas que alteren o subviertan el orden constitucional y toda decisión acordada por requisición de fuerza armada.

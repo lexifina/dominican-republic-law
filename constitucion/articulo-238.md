@@ -1,0 +1,1 @@
+Artículo 238.- Criterios para asignación del gasto público. Corresponde al Estado realizar una asignación equitativa del gasto público en el territorio. Su planificación, programación, ejecución y evaluación responderán a los principios de subsidiaridad y transparencia, así como a los criterios de eficiencia, prioridad y economía.

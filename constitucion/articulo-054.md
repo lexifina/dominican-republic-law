@@ -1,0 +1,1 @@
+Artículo 54.- Seguridad alimentaria. El Estado promoverá la investigación y la transferencia de tecnología para la producción de alimentos y materias primas de origen agropecuarios, con el propósito de incrementar la productividad y garantizar la seguridad alimentaria.

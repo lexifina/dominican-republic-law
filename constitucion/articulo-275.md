@@ -1,0 +1,1 @@
+Artículo 275.- Período funcionarios de órganos constitucionales. Los miembros de los órganos constitucionales, vencido el período de mandato para el que fueron designados, permanecerán en sus cargos hasta la toma de posesión de quienes les sustituyan.

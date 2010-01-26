@@ -1,0 +1,1 @@
+Artículo 98.- Discusiones legislativas. Todo proyecto de ley admitido en una de las cámaras se someterá a dos discusiones distintas, con un intervalo de un día por lo menos entre una y otra discusión. En caso de que fuere declarado previamente de urgencia deberá ser discutido en dos sesiones consecutivas.

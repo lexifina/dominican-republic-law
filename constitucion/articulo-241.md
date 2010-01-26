@@ -1,0 +1,1 @@
+Artículo 241.- Estrategia de desarrollo. El Poder Ejecutivo, previa consulta al Consejo Económico y Social y a los partidos políticos, elaborará y someterá al Congreso Nacional una estrategia de desarrollo, que definirá la visión de la Nación para el largo plazo. El proceso de planificación e inversión pública se regirá por la ley correspondiente.

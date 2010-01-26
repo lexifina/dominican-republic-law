@@ -1,0 +1,1 @@
+Artículo 257.- Competencia y régimen disciplinario. La jurisdicción policial sólo tiene competencia para conocer de las infracciones policiales previstas en las leyes sobre la materia. La Policía Nacional tendrá un régimen disciplinario policial aplicable a aquellas faltas que no constituyan infracciones del régimen penal policial.

@@ -1,0 +1,1 @@
+Artículo 202.- Representantes locales. Los alcaldes o alcaldesas del Distrito Nacional, de los municipios, así como las y los directores de los distritos municipales son los representantes legales de los ayuntamientos y de las juntas municipales. Sus atribuciones y facultades serán determinadas por la ley.

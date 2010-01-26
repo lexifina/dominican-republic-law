@@ -1,0 +1,4 @@
+Artículo 81.- Representación y composición. La Cámara de Diputados estará compuesta de la siguiente manera:
+1) Ciento setenta y ocho diputadas o diputados elegidos por circunscripción territorial en representación del Distrito Nacional y las provincias, distribuidos en proporción a la densidad poblacional, sin que en ningún caso sean menos de dos los representantes por cada provincia;
+2) Cinco diputadas o diputados elegidos a nivel nacional por acumulación de votos, preferentemente de partidos, alianzas o coaliciones que no hubiesen obtenido escaños y hayan alcanzado no menos de un uno por ciento (1%) de los votos válidos emitidos. La ley determinará su distribución;
+3) Siete diputadas o diputados elegidos en representación de la comunidad dominicana en el exterior. La ley determinará su forma de elección y distribución.

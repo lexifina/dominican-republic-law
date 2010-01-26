@@ -1,0 +1,1 @@
+Artículo 7.- Estado Social y Democrático de Derecho. La República Dominicana es un Estado Social y Democrático de Derecho, organizado en forma de República unitaria, fundado en el respeto de la dignidad humana, los derechos fundamentales, el trabajo, la soberanía popular y la separación e independencia de los poderes públicos.

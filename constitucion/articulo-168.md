@@ -1,0 +1,1 @@
+Artículo 168.- Jurisdicciones especializadas. La ley dispondrá de la creación de jurisdicciones especializadas cuando así lo requieran razones de interés público o de eficiencia del servicio para el tratamiento de otras materias.

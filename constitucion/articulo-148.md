@@ -1,0 +1,1 @@
+Artículo 148.- Responsabilidad civil. Las personas jurídicas de derecho público y sus funcionarios o agentes serán responsables, conjunta y solidariamente, de conformidad con la ley, por los daños y perjuicios ocasionados a las personas físicas o jurídicas por una actuación u omisión administrativa antijurídica.

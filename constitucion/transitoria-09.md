@@ -1,0 +1,1 @@
+Novena: El procedimiento de designación que se establece en la presente Constitución para los integrantes de la Cámara de Cuentas regirá a partir del 16 de agosto del año 2010. Excepcionalmente, los miembros de este órgano permanecerán en sus cargos hasta el 2016.

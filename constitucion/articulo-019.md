@@ -1,0 +1,1 @@
+Artículo 19.- Naturalización. Las y los extranjeros pueden naturalizarse conforme a la ley, no pueden optar por la presidencia o vicepresidencia de los poderes del Estado, ni están obligados a tomar las armas contra su Estado de origen. La ley regulará otras limitaciones a las personas naturalizadas.

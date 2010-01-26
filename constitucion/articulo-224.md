@@ -1,0 +1,1 @@
+Artículo 224.- Integración de la Junta Monetaria. La Junta Monetaria está integrada por no más de nueve miembros incluyendo el Gobernador del Banco Central, quien la preside, y los miembros ex oficio, cuyo número no será mayor de tres.

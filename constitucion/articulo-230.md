@@ -1,0 +1,1 @@
+Artículo 230.- Fuerza legal y liberatoria de la unidad monetaria. Sólo tendrán circulación legal y fuerza liberatoria los billetes emitidos y las monedas acuñadas por el Banco Central, bajo la garantía ilimitada del Estado y en las proporciones y condiciones que señale la ley.

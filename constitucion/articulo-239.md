@@ -1,0 +1,1 @@
+Artículo 239.- Vigencia Ley de Presupuesto. Cuando el Congreso no haya aprobado el proyecto de Ley de Presupuesto General del Estado a más tardar al 31 de diciembre, regirá la Ley de Presupuesto General del Estado del año anterior, con los ajustes previstos en la Ley Orgánica de Presupuesto, hasta tanto se produzca su aprobación.

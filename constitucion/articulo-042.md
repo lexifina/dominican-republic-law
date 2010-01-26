@@ -1,0 +1,4 @@
+Artículo 42.- Derecho a la integridad personal. Toda persona tiene derecho a que se respete su integridad física, psíquica, moral y a vivir sin violencia. Tendrá la protección del Estado en casos de amenaza, riesgo o violación de las mismas. En consecuencia:
+1) Ninguna persona puede ser sometida a penas, torturas o procedimientos vejatorios que impliquen la pérdida o disminución de su salud, o de su integridad física o psíquica;
+2) Se condena la violencia intrafamiliar y de género en cualquiera de sus formas. El Estado garantizará mediante ley la adopción de medidas necesarias para prevenir, sancionar y erradicar la violencia contra la mujer;
+3) Nadie puede ser sometido, sin consentimiento previo, a experimentos y procedimientos que no se ajusten a las normas científicas y bioéticas internacionalmente reconocidas. Tampoco a exámenes o procedimientos médicos, excepto cuando se encuentre en peligro su vida.

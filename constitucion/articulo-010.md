@@ -1,0 +1,3 @@
+Artículo 10.- Régimen fronterizo. Se declara de supremo y permanente interés nacional la seguridad, el desarrollo económico, social y turístico de la Zona Fronteriza, su integración vial, comunicacional y productiva, así como la difusión de los valores patrios y culturales del pueblo dominicano. En consecuencia:
+1) Los poderes públicos elaborarán, ejecutarán y priorizarán políticas y programas de inversión pública en obras sociales y de infraestructura para asegurar estos objetivos;
+2) El régimen de adquisición y transferencia de la propiedad inmobiliaria en la Zona Fronteriza estará sometido a requisitos legales específicos que privilegien la propiedad de los dominicanos y dominicanas y el interés nacional.

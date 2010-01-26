@@ -1,0 +1,1 @@
+Artículo 5.- Fundamento de la Constitución. La Constitución se fundamenta en el respeto a la dignidad humana y en la indisoluble unidad de la Nación, patria común de todos los dominicanos y dominicanas.

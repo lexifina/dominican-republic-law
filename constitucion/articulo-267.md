@@ -1,0 +1,1 @@
+Artículo 267.- Reforma constitucional. La reforma de la Constitución sólo podrá hacerse en la forma que indica ella misma y no podrá jamás ser suspendida ni anulada por ningún poder o autoridad, ni tampoco por aclamaciones populares.

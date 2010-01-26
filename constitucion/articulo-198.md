@@ -1,0 +1,1 @@
+Artículo 198.- Gobernador civil. El Poder Ejecutivo designará en cada provincia un gobernador civil, quien será su representante en esa demarcación. Para ser gobernador civil se requiere ser dominicano o dominicana, mayor de veinticinco años de edad y estar en pleno ejercicio de los derechos civiles y políticos. Sus atribuciones y deberes serán determinados por la ley.

@@ -1,0 +1,1 @@
+Artículo 130.- Sucesión vicepresidencial. En caso de falta definitiva del Vicepresidente de la República, antes o después de su juramentación, el Presidente de la República, en un plazo de treinta días, presentará una terna a la Asamblea Nacional para su elección. Vencido el plazo sin que el Presidente haya presentado la terna, la Asamblea Nacional realizará la elección.

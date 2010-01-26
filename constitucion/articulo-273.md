@@ -1,0 +1,1 @@
+Artículo 273.- Géneros gramaticales. Los géneros gramaticales que se adoptan en la redacción del texto de esta Constitución no significan, en modo alguno, restricción al principio de la igualdad de derechos de la mujer y del hombre.

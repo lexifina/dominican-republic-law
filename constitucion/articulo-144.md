@@ -1,0 +1,1 @@
+Artículo 144.- Régimen de compensación. Ningún funcionario o empleado del Estado puede desempeñar, de forma simultánea, más de un cargo remunerado, salvo la docencia. La ley establecerá las modalidades de compensación de las y los funcionarios y empleados del Estado, de acuerdo con los criterios de mérito y características de la prestación del servicio.

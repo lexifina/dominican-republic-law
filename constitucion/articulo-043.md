@@ -1,0 +1,1 @@
+Artículo 43.- Derecho al libre desarrollo de la personalidad. Toda persona tiene derecho al libre desarrollo de su personalidad, sin más limitaciones que las impuestas por el orden jurídico y los derechos de los demás.
