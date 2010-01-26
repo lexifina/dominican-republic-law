@@ -1,0 +1,1 @@
+Artículo 226.- Designación de autoridades monetarias. El Gobernador del Banco Central y los miembros de designación directa de la Junta Monetaria serán nombrados por el Poder Ejecutivo, de conformidad con la ley. Durante el tiempo de su designación sólo podrán ser removidos por las causales previstas en la misma.

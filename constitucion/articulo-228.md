@@ -1,0 +1,1 @@
+Artículo 228.- Emisión de billetes y monedas. El Banco Central, cuyo capital es propiedad del Estado, es el único emisor de los billetes y monedas de circulación nacional y tiene por objeto velar por la estabilidad de precios.

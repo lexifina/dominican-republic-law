@@ -1,0 +1,1 @@
+Artículo 182.- Escogencia jueces Tribunal Constitucional. El Consejo Nacional de la Magistratura al conformar el Tribunal Constitucional dispondrá cuál de ellos ocupará la presidencia y designará un primer y segundo sustitutos para reemplazar al Presidente, en caso de falta o impedimento.

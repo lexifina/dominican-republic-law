@@ -1,0 +1,1 @@
+Artículo 190.- Autonomía del Defensor del Pueblo. El Defensor del Pueblo es una autoridad independiente en sus funciones y con autonomía administrativa y presupuestaria. Se debe de manera exclusiva al mandato de esta Constitución y las leyes.

@@ -1,0 +1,8 @@
+Artículo 80.- Atribuciones.- Son atribuciones exclusivas del Senado:
+1) Conocer de las acusaciones formuladas por la Cámara de Diputados contra las y los funcionarios públicos señalados en el artículo 83, numeral 1. La declaración de culpabilidad deja a la persona destituida de su cargo, y no podrá desempeñar ninguna función pública, sea o no de elección popular, por el término de diez años. La persona destituida quedará sujeta, si hubiere lugar, a ser acusada y juzgada por ante los tribunales ordinarios, con arreglo a la ley. Esta decisión se adoptará con el voto de las dos terceras partes de la matrícula;
+2) Aprobar o desaprobar los nombramientos de embajadores y jefes de misiones permanentes acreditados en el exterior que le someta el Presidente de la República;
+3) Elegir los miembros de la Cámara de Cuentas de las ternas presentadas por la Cámara de Diputados, con el voto de las dos terceras partes de los senadores presentes;
+4) Elegir los miembros de la Junta Central Electoral y sus suplentes, con el voto de las dos terceras partes de los presentes;
+5) Elegir al Defensor del Pueblo, sus suplentes y sus adjuntos, a partir de las ternas que le presente la Cámara de Diputados, con el voto de las dos terceras partes de los presentes;
+6) Autorizar, previa solicitud del Presidente de la República, en ausencia de convenio que lo permita, la presencia de tropas extranjeras en ejercicios militares en el territorio de la República, así como determinar el tiempo y las condiciones de su estadía;
+7) Aprobar o desaprobar el envío al extranjero de tropas en misiones de paz, autorizadas por organismos internacionales, fijando las condiciones y duración de dicha misión.

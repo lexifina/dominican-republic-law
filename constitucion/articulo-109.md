@@ -1,0 +1,1 @@
+Artículo 109.- Entrada en vigencia de las leyes. Las leyes, después de promulgadas, se publicarán en la forma que la ley determine y se les dará la más amplia difusión posible. Serán obligatorias una vez transcurridos los plazos para que se reputen conocidas en todo el territorio nacional.

@@ -1,0 +1,2 @@
+Artículo 208.- Ejercicio del sufragio. Es un derecho y un deber de ciudadanas y ciudadanos el ejercicio del sufragio para elegir a las autoridades de gobierno y para participar en referendos. El voto es personal, libre, directo y secreto. Nadie puede ser obligado o coaccionado, bajo ningún pretexto, en el ejercicio de su derecho al sufragio ni a revelar su voto.
+Párrafo.- No tienen derecho al sufragio los miembros de las Fuerzas Armadas y de la Policía Nacional, ni quienes hayan perdido los derechos de ciudadanía o se encuentren suspendidos en tales derechos.

@@ -1,0 +1,5 @@
+Artículo 77.- Elección de las y los legisladores. La elección de senadores y diputados se hará por sufragio universal directo en los términos que establezca la ley.
+1) Cuando por cualquier motivo ocurran vacantes de senadores o diputados, la cámara correspondiente escogerá su sustituto de la terna que le presente el organismo superior del partido que lo postuló;
+2) La terna será sometida a la cámara donde se haya producido la vacante dentro de los treinta días siguientes a su ocurrencia, si estuviere reunido el Congreso y, en caso de no estarlo, dentro de los primeros treinta días de su reunión. Transcurrido el plazo señalado sin que el organismo competente del partido someta la terna, la cámara correspondiente hará la elección;
+3) Los cargos de senador y diputado son incompatibles con otra función o empleo público, salvo la labor docente. La ley regula el régimen de otras incompatibilidades;
+4) Las y los senadores y diputados no están ligados por mandato imperativo, actúan siempre con apego al sagrado deber de representación del pueblo que los eligió, ante el cual deben rendir cuentas.

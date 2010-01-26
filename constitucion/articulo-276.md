@@ -1,0 +1,1 @@
+Artículo 276.- Juramento de funcionarios designados. La persona designada para ejercer una función pública deberá prestar juramento de respetar la Constitución y las leyes, y de desempeñar fielmente los deberes de su cargo. Este juramento se prestará ante funcionario u oficial público competente.

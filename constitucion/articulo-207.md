@@ -1,0 +1,1 @@
+Artículo 207.- Obligación económica de los municipios. Las obligaciones económicas contraídas por los municipios, incluyendo las que tengan el aval del Estado, son de su responsabilidad, de conformidad con los límites y condiciones que establezca la ley.

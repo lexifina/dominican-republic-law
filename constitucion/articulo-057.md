@@ -1,0 +1,1 @@
+Artículo 57.- Protección de las personas de la tercera edad. La familia, la sociedad y el Estado concurrirán para la protección y la asistencia de las personas de la tercera edad y promoverán su integración a la vida activa y comunitaria. El Estado garantizará los servicios de la seguridad social integral y el subsidio alimentario en caso de indigencia.

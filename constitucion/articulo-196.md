@@ -1,0 +1,2 @@
+Artículo 196.- La región. La región es la unidad básica para la articulación y formulación de las políticas públicas en el territorio nacional. La ley definirá todo lo relativo a sus competencias, composición, organización y funcionamiento y determinará el número de éstas.
+Párrafo.- Sin perjuicio del principio de solidaridad, el Estado procurará el equilibrio razonable de la inversión pública en las distintas demarcaciones geográficas de manera que sea proporcional a los aportes de aquéllas a la economía nacional.

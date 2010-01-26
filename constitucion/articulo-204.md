@@ -1,0 +1,1 @@
+Artículo 204.- Transferencia de competencias a los municipios. El Estado propiciará la transferencia de competencias y recursos hacia los gobiernos locales, de conformidad con esta Constitución y la ley. La implementación de estas transferencias conllevará políticas de desarrollo institucional, capacitación y profesionalización de los recursos humanos.

@@ -1,0 +1,1 @@
+Artículo 142.- Función Pública. El Estatuto de la Función Pública es un régimen de derecho público basado en el mérito y la profesionalización para una gestión eficiente y el cumplimiento de las funciones esenciales del Estado. Dicho estatuto determinará la forma de ingreso, ascenso, evaluación del desempeño, permanencia y separación del servidor público de sus funciones.

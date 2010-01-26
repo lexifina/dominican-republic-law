@@ -1,0 +1,1 @@
+Artículo 84.- Quórum de sesiones. En cada cámara es necesaria la presencia de más de la mitad de sus miembros para la validez de las deliberaciones. Las decisiones se adoptan por la mayoría absoluta de votos, salvo los asuntos declarados previamente de urgencia, los cuales, en su segunda discusión, se decidirán por las dos terceras partes de los presentes.

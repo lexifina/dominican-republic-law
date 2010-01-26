@@ -1,0 +1,1 @@
+Artículo 133.- Inmunidad a la privación de libertad. Sin perjuicio de lo dispuesto por el artículo 80, numeral 1) de esta Constitución, el o la Presidente y el Vicepresidente de la República, electos o en funciones, no pueden ser privados de su libertad.

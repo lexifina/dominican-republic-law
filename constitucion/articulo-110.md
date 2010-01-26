@@ -1,0 +1,1 @@
+Artículo 110.- Irretroactividad de la ley. La ley sólo dispone y se aplica para lo porvenir. No tiene efecto retroactivo sino cuando sea favorable al que esté subjúdice o cumpliendo condena. En ningún caso los poderes públicos o la ley podrán afectar o alterar la seguridad jurídica derivada de situaciones establecidas conforme a una legislación anterior.

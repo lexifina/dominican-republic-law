@@ -1,0 +1,2 @@
+Artículo 233.- Elaboración del presupuesto. Corresponde al Poder Ejecutivo la elaboración del proyecto de Ley de Presupuesto General del Estado, el cual contempla los ingresos probables, los gastos propuestos y el financiamiento requerido, realizado en un marco de sostenibilidad fiscal, asegurando que el endeudamiento público sea compatible con la capacidad de pago del Estado.
+Párrafo.- En este proyecto se consignarán de manera individualizada las asignaciones que correspondan a las diferentes instituciones del Estado.

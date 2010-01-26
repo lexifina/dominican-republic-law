@@ -1,0 +1,1 @@
+Artículo 134.- Ministerios de Estado. Para el despacho de los asuntos de gobierno habrá los ministerios que sean creados por ley. Cada ministerio estará a cargo de un ministro y contará con los viceministros que se consideren necesarios para el despacho de sus asuntos.

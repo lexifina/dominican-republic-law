@@ -1,0 +1,1 @@
+Artículo 124.- Elección presidencial. El Poder Ejecutivo se ejerce por el o la Presidente de la República, quien será elegido cada cuatro años por voto directo y no podrá ser electo para el período constitucional siguiente.

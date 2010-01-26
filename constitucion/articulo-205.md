@@ -1,0 +1,1 @@
+Artículo 205.- Ejecución presupuestaria municipal. Los ayuntamientos del Distrito Nacional, de los municipios y las juntas de distritos municipales estarán obligados, tanto en la formulación como en la ejecución de sus presupuestos, a formular, aprobar y a mantener las apropiaciones y las erogaciones destinadas a cada clase de atenciones y servicios, de conformidad con la ley.

@@ -1,0 +1,1 @@
+Decimotercera: Los diputados y diputadas a ser electos en representación de las comunidades dominicanas en el exterior serán electos, excepcionalmente, el tercer domingo de mayo del año 2012 por un período de cuatro años.

@@ -1,0 +1,1 @@
+Artículo 270.- Convocatoria Asamblea Nacional Revisora. La necesidad de la reforma constitucional se declarará por una ley de convocatoria. Esta ley, que no podrá ser observada por el Poder Ejecutivo, ordenará la reunión de la Asamblea Nacional Revisora, contendrá el objeto de la reforma e indicará el o los artículos de la Constitución sobre los cuales versará.

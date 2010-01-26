@@ -1,0 +1,1 @@
+Artículo 115.- Regulación de procedimientos de control y fiscalización. La ley regulará los procedimientos requeridos por las cámaras legislativas para el examen de los informes de la Cámara de Cuentas, el examen de los actos del Poder Ejecutivo, las invitaciones, las interpelaciones, el juicio político y los demás mecanismos de control establecidos por esta Constitución.

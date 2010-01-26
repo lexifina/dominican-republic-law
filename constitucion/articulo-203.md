@@ -1,0 +1,1 @@
+Artículo 203.- Referendo, plebiscitos e iniciativa normativa municipal. La Ley Orgánica de la Administración Local establecerá los ámbitos, requisitos y condiciones para el ejercicio del referendo, plebiscito y la iniciativa normativa municipales con el fin de fortalecer el desarrollo de la democracia y la gestión local.

@@ -1,0 +1,1 @@
+Artículo 265.- Estado de Emergencia. El Estado de Emergencia podrá declararse cuando ocurran hechos distintos a los previstos en los artículos 263 y 264 que perturben o amenacen perturbar en forma grave e inminente el orden económico, social, medioambiental del país, o que constituyan calamidad pública.

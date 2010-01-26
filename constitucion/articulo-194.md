@@ -1,0 +1,1 @@
+Artículo 194.- Plan de ordenamiento territorial. Es prioridad del Estado la formulación y ejecución, mediante ley, de un plan de ordenamiento territorial que asegure el uso eficiente y sostenible de los recursos naturales de la Nación, acorde con la necesidad de adaptación al cambio climático.

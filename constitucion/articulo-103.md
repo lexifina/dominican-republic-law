@@ -1,0 +1,1 @@
+Artículo 103.- Plazo para conocer las observaciones del Poder Ejecutivo. Toda ley observada por el Poder Ejecutivo al Congreso Nacional tiene un plazo de dos legislaturas ordinarias para decidirla, de lo contrario se considerará aceptada la observación.

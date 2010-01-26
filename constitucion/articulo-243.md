@@ -1,0 +1,1 @@
+Artículo 243.- Principios del régimen tributario. El régimen tributario está basado en los principios de legalidad, justicia, igualdad y equidad para que cada ciudadano y ciudadana pueda cumplir con el mantenimiento de las cargas públicas.

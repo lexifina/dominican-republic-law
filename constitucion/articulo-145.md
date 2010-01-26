@@ -1,0 +1,1 @@
+Artículo 145.- Protección de la Función Pública. La separación de servidores públicos que pertenezcan a la Carrera Administrativa en violación al régimen de la Función Pública, será considerada como un acto contrario a la Constitución y a la ley.

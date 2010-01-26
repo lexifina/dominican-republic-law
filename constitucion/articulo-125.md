@@ -1,0 +1,1 @@
+Artículo 125.- Vicepresidente de la República. Habrá un o una Vicepresidente de la República, elegido conjuntamente con el Presidente, en la misma forma y por igual período. Para ser Vicepresidente de la República se requieren las mismas condiciones que para ser Presidente.

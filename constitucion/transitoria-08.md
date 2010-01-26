@@ -1,0 +1,1 @@
+Octava: Las disposiciones relativas a la Junta Central Electoral y al Tribunal Superior Electoral establecidas en esta Constitución entrarán en vigencia a partir de la nueva integración que se produzca en el período que inicia el 16 de agosto de 2010. Excepcionalmente, los integrantes de estos órganos electorales ejercerán su mandato hasta el 16 de agosto de 2016.

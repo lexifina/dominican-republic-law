@@ -1,0 +1,1 @@
+Artículo 6.- Supremacía de la Constitución. Todas las personas y los órganos que ejercen potestades públicas están sujetos a la Constitución, norma suprema y fundamento del ordenamiento jurídico del Estado. Son nulos de pleno derecho toda ley, decreto, resolución, reglamento o acto contrarios a esta Constitución.

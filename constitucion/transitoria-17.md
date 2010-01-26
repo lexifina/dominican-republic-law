@@ -1,0 +1,1 @@
+Decimoséptima: Lo dispuesto en esta Constitución para la elaboración y aprobación de la Ley de Presupuesto General del Estado entrará en plena vigencia a partir del primero de enero de 2010, de tal forma que para el año 2011 el país cuente con un presupuesto acorde con lo establecido en esta Constitución.

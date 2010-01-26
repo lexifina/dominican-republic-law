@@ -1,0 +1,1 @@
+Artículo 116.- Rendición de informe Defensor del Pueblo. El Defensor del Pueblo rendirá al Congreso Nacional el informe anual de su gestión, a más tardar treinta días antes del cierre de la primera legislatura ordinaria.

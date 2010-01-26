@@ -1,0 +1,1 @@
+Artículo 211.- Organización de las elecciones. Las elecciones serán organizadas, dirigidas y supervisadas por la Junta Central Electoral y las juntas electorales bajo su dependencia, las cuales tienen la responsabilidad de garantizar la libertad, transparencia, equidad y objetividad de las elecciones.

@@ -1,0 +1,1 @@
+Artículo 254.- Competencia de la jurisdicción militar y régimen disciplinario. La jurisdicción militar sólo tiene competencia para conocer de las infracciones militares previstas en las leyes sobre la materia. Las Fuerzas Armadas tendrán un régimen disciplinario militar aplicable a aquellas faltas que no constituyan infracciones del régimen penal militar.

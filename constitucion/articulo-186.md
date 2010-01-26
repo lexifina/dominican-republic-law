@@ -1,0 +1,1 @@
+Artículo 186.- Integración y decisiones. El Tribunal Constitucional estará integrado por trece miembros y sus decisiones se adoptarán con una mayoría calificada de nueve o más de sus miembros. Los jueces que hayan emitido un voto disidente podrán hacer valer sus motivaciones en la decisión adoptada.

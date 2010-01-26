@@ -1,0 +1,1 @@
+Artículo 14.- Recursos naturales. Son patrimonio de la Nación los recursos naturales no renovables que se encuentren en el territorio y en los espacios marítimos bajo jurisdicción nacional, los recursos genéticos, la biodiversidad y el espectro radioeléctrico.

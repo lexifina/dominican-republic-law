@@ -1,0 +1,1 @@
+Artículo 235.- Mayoría de excepción. El Congreso Nacional podrá modificar el proyecto de Ley de Presupuesto General del Estado, cuando sea sometido con posterioridad a la fecha a que se refiere el artículo 128, numeral 2), literal g), con la mayoría absoluta de los miembros de la matrícula de cada cámara.

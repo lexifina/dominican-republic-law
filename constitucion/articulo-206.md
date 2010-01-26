@@ -1,0 +1,1 @@
+Artículo 206.- Presupuestos participativos. La inversión de los recursos municipales se hará mediante el desarrollo progresivo de presupuestos participativos que propicien la integración y corresponsabilidad ciudadana en la definición, ejecución y control de las políticas de desarrollo local.

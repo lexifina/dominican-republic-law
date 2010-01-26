@@ -1,0 +1,1 @@
+Artículo 197.- La provincia. La provincia es la demarcación política intermedia en el territorio. Se divide en municipios, distritos municipales, secciones y parajes. La ley definirá todo lo relativo a su composición, organización y funcionamiento y determinará el número de éstas.

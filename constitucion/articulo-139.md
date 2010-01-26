@@ -1,0 +1,1 @@
+Artículo 139.- Control de legalidad de la Administración Pública. Los tribunales controlarán la legalidad de la actuación de la Administración Pública. La ciudadanía puede requerir ese control a través de los procedimientos establecidos por la ley.

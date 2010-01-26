@@ -1,0 +1,3 @@
+Artículo 169.- Definición y funciones. El Ministerio Público es el órgano del sistema de justicia responsable de la formulación e implementación de la política del Estado contra la criminalidad, dirige la investigación penal y ejerce la acción pública en representación de la sociedad.
+Párrafo I.- En el ejercicio de sus funciones, el Ministerio Público garantizará los derechos fundamentales que asisten a ciudadanos y ciudadanas, promoverá la resolución alternativa de disputas, dispondrá la protección de víctimas y testigos y defenderá el interés público tutelado por la ley.
+Párrafo II.- La ley regulará el funcionamiento del sistema penitenciario bajo la dirección del Ministerio Público u otro organismo que a tal efecto se constituya.

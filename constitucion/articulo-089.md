@@ -1,0 +1,1 @@
+Artículo 89.- Duración de las legislaturas. Las cámaras se reunirán de forma ordinaria el 27 de febrero y el 16 de agosto de cada año. Cada legislatura durará ciento cincuenta días. El Poder Ejecutivo podrá convocarlas de forma extraordinaria.

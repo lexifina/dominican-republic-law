@@ -1,0 +1,1 @@
+Artículo 28.- Requisitos. Para ser representante ante los parlamentos internacionales se requiere ser dominicano o dominicana en pleno ejercicio de derechos y deberes civiles y políticos y haber cumplido 25 años de edad.

@@ -1,0 +1,1 @@
+Artículo 215.- Integración. El Tribunal estará integrado por no menos de tres y no más de cinco jueces electorales y sus suplentes, designados por un período de cuatro años por el Consejo Nacional de la Magistratura, quien indicará cuál de entre ellos ocupará la presidencia.

@@ -1,0 +1,1 @@
+Artículo 170.- Autonomía y principios de actuación. El Ministerio Público goza de autonomía funcional, administrativa y presupuestaria. Ejerce sus funciones conforme a los principios de legalidad, objetividad, unidad de actuaciones, jerarquía, indivisibilidad y responsabilidad.

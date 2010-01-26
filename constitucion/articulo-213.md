@@ -1,0 +1,1 @@
+Artículo 213.- Juntas electorales. En el Distrito Nacional y en cada municipio habrá una Junta Electoral con funciones administrativas y contenciosas. En materia administrativa estarán subordinadas a la Junta Central Electoral. En materia contenciosa sus decisiones son recurribles ante el Tribunal Superior Electoral, de conformidad con la ley.

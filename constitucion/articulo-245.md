@@ -1,0 +1,1 @@
+Artículo 245.- Sistema de contabilidad. El Estado dominicano y todas sus instituciones, sean autónomas, descentralizadas o no, estarán regidos por un sistema único, uniforme, integrado y armonizado de contabilidad, cuyos criterios fijará la ley.

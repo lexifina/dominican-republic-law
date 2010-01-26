@@ -1,0 +1,1 @@
+Artículo 122.- Presidente de la República. El Poder Ejecutivo es ejercido en nombre del pueblo por la Presidenta o el Presidente de la República, en su condición de jefe de Estado y de gobierno de conformidad con lo dispuesto por esta Constitución y las leyes.

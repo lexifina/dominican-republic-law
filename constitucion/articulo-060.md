@@ -1,0 +1,1 @@
+Artículo 60.- Derecho a la seguridad social. Toda persona tiene derecho a la seguridad social. El Estado estimulará el desarrollo progresivo de la seguridad social para asegurar el acceso universal a una adecuada protección en la enfermedad, discapacidad, desocupación y la vejez.
