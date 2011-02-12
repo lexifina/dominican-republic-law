@@ -1,0 +1,1 @@
+Artículo 328. En el caso que la sociedad emisora continúe pagando los productos de obligaciones reembolsables como consecuencia de un sorteo, dicha sociedad no podrá repetir esas sumas cuando esas obligaciones se presenten para su reembolso. Toda cláusula contraria se considerará no escrita.

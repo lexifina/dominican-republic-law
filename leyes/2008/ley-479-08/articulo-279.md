@@ -1,0 +1,5 @@
+Artículo 279.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Después de la constitución de la sociedad, para las suscripciones y los pagos de acciones mediante aportes en naturaleza, los interesados deberán hacer sus ofertas al consejo de administración y éste, si lo considera conveniente:
+a) Apoderará del asunto a un contador público autorizado o un tasador debidamente acreditado y/o matriculado en el Instituto de Tasadores Dominicanos o registrado en la Superintendencia de Bancos, de Seguros o de Valores, para que rinda un informe;
+b) En vista de este último, convocará a una asamblea general que tendrá un carácter de extraordinaria; y,
+c) Esta asamblea, si acoge la oferta, modificará los estatutos sociales para que en los mismos se indiquen los aportes en naturaleza aceptados, con su descripción y evaluación.
+Párrafo.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La realización de estos aportes en naturaleza será objeto del cumplimiento de las formalidades correspondientes a las modificaciones de los estatutos sociales, en las sociedades anónimas.

@@ -1,0 +1,4 @@
+Artículo 226. Sin perjuicio de la responsabilidad del administrador interesado, las convenciones indicadas en el Artículo 222 y celebradas sin autorización previa del consejo de administración, podrán ser anuladas si han tenido consecuencias perjudiciales para la sociedad.
+Párrafo I.- La acción en nulidad prescribirá a los tres (3) años a partir de la fecha de la convención. Sin embargo, si ésta ha sido disimulada, la prescripción comenzará a correr el día en que la misma haya sido revelada.
+Párrafo II.- La nulidad podrá ser cubierta por el voto de la asamblea general que intervenga sobre el informe especial de los comisarios de cuentas que exponga las circunstancias en las cuales el procedimiento de autorización no haya sido seguido.
+Párrafo III.- Las disposiciones del Párrafo III del Artículo 224 serán aplicables.

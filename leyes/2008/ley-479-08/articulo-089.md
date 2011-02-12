@@ -1,0 +1,1 @@
+Artículo 89. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La sociedad de responsabilidad limitada es la que se forma por dos o más personas, bajo una denominación social, mediante aportaciones de todos los socios, quienes no responden personalmente de las deudas sociales y cuya responsabilidad por las pérdidas se limita a sus aportes.

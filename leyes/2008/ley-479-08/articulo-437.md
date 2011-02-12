@@ -1,0 +1,1 @@
+Artículo 437. Salvo cláusula contraria de los estatutos, la partición del resto de los capitales propios en exceso del reembolso del valor nominal de las acciones o de las partes sociales, será efectuada entre los socios en las mismas proporciones de su participación en el capital social.

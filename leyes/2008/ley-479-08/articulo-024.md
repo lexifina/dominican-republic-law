@@ -1,0 +1,2 @@
+Artículo 24. El monto del capital social de las sociedades comerciales se constituirá, al momento de su formación, con el valor de todos los aportes y podrá expresarse, tanto su monto como el valor nominal de sus partes, en moneda extranjera de libre convertibilidad.
+Párrafo.- A los fines de realizar la conversión en moneda nacional se tomará en cuenta la tasa de cambio que publique el Banco Central de la República Dominicana.

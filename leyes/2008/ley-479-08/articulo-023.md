@@ -1,0 +1,6 @@
+Artículo 23. Toda aportación se reputará realizada a título de propiedad, salvo que expresamente se estipule de otro modo.
+Párrafo I.- Los bienes aportados y que se encuentren sujetos a gravámenes sólo podrán ser aportados por su valor con deducción del gravamen, el cual deberá ser expresamente consignado en el acto de aporte.
+Párrafo II.- Los aportes en naturaleza estarán sujetos a una valuación determinada en el contrato de sociedad o en los estatutos sociales, o realizada por un perito, conforme al procedimiento establecido por esta ley según el tipo de sociedad.
+Párrafo III.- La suscripción de los aportes en efectivo se constatará mediante escritura, según las formas establecidas en el contrato de sociedad o en los estatutos sociales o dispuestos por esta ley para ciertos tipos de sociedad.
+Párrafo IV.- En ningún caso podrán ser objeto de aportación el trabajo o los servicios personales de los socios, los cuales, sin embargo, podrán ser compensados con prestaciones accesorias.
+Párrafo V.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) A partir de la publicación de la presente ley quedará prohibida la emisión de partes beneficiarias o partes de fundador. Las sociedades que hayan emitido partes beneficiarias o partes de fundador convertirán tales derechos en prestaciones accesorias, según los términos arriba indicados.

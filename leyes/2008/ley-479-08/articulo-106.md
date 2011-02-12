@@ -1,0 +1,1 @@
+Artículo 106. Se reputará no escrita toda cláusula de los estatutos sociales que tenga por efecto subordinar el ejercicio de la acción social a un aviso previo o a la autorización de la asamblea o que comporte una renuncia previa al ejercicio de esta acción.

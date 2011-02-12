@@ -1,0 +1,1 @@
+Artículo 80. Las decisiones se tomarán en las condiciones que fijen los estatutos. La reunión de la asamblea de todos los socios será de derecho siempre que sea demandada por un socio comanditado o por la cuarta parte (1/4) en número y en capital de los socios comanditarios.

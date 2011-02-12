@@ -1,0 +1,2 @@
+Artículo 257.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los comisarios de cuentas deberán informar a la siguiente asamblea general las irregularidades e inexactitudes detectadas en el cumplimiento de sus funciones.
+Párrafo.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los comisarios de cuentas, así como sus colaboradores y expertos, estarán obligados a guardar secreto profesional respecto de los hechos, los actos y las informaciones de los cuales tengan conocimiento en razón de sus funciones.

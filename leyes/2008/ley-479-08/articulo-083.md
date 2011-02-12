@@ -1,0 +1,1 @@
+Artículo 83. No harán solidariamente responsable al socio comanditario las observaciones y consejos, los actos de inspección y vigilancia, el nombramiento y revocación de los gerentes en los casos previstos por la ley y las autorizaciones dadas a los gerentes en los límites del contrato de sociedad que excedan sus facultades.

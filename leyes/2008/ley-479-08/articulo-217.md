@@ -1,0 +1,1 @@
+Artículo 217. Las fianzas, avales y garantías dadas por sociedades que no sean de aquellas que explotan la actividad bancaria o la intermediación financiera, deberán ser objeto de una autorización del consejo, a menos que los estatutos le confieran tal atribución a la asamblea general de accionistas.

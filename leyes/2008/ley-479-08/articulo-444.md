@@ -1,0 +1,1 @@
+Artículo 444.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La transformación se hará constar en escritura pública o privada que se inscribirá en el Registro Mercantil, y que contendrá, en todo caso, las menciones exigidas por esta ley para la constitución de la sociedad cuya forma se adopte, así como el balance y el informe referidos en el artículo anterior.

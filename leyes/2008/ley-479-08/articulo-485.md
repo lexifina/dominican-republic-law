@@ -1,0 +1,1 @@
+Artículo 485. El presidente, los administradores de hecho o de derecho o los funcionarios responsables de una sociedad anónima, que en ocasión de un aumento del capital autorizado, emitan acciones antes de que se hayan cumplido regularmente las formalidades previas al aumento del capital, serán sancionados con multa hasta veinte (20) salarios.

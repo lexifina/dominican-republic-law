@@ -1,0 +1,1 @@
+Artículo 95.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los primeros gerentes y los socios a los cuales la nulidad de la sociedad les sea imputable serán solidariamente responsables frente a los otros socios y a los terceros de los perjuicios resultantes de la anulación. La acción prescribirá en el plazo de dos (2) años.

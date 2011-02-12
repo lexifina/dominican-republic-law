@@ -1,0 +1,1 @@
+Artículo 451. La empresa individual de responsabilidad limitada se constituirá mediante acto otorgado por su fundador, quien además de ser su propietario, tendrá las condiciones legales requeridas para ser comerciante y manifestará, en dicho acto, los aportes que hace para el establecimiento de esa empresa.

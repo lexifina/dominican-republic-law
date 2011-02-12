@@ -1,0 +1,1 @@
+Artículo 459. El capital de la empresa individual de responsabilidad limitada podrá ser aumentado por su propietario, incorporando nuevos aportes al patrimonio de la misma y observando, al efecto, reglas iguales a las previstas para la constitución de la empresa.

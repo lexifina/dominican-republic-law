@@ -1,0 +1,2 @@
+Artículo 457. Desde el inicio de sus operaciones, la empresa deberá abrir y mantener una contabilidad ajustada a las disposiciones legales y reglamentarias aplicables a los comerciantes. Los estados financieros auditados y el informe de gestión anual de la empresa deberán ser preparados en los tres (3) meses que sigan al cierre de cada ejercicio.
+Párrafo.- Después que se practique el inventario y se establezcan las cuentas anuales de la empresa y sólo cuando éstos determinen ganancias realizadas y líquidas, el propietario podrá retirar utilidades de la empresa.

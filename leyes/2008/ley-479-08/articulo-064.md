@@ -1,0 +1,1 @@
+Artículo 64. En caso de pluralidad de gerentes, éstos detentarán separadamente los poderes previstos en el artículo precedente, sin perjuicio del derecho que le asiste a cada uno de ellos de oponerse a toda operación antes que la misma sea concluida.

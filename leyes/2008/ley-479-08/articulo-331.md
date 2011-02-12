@@ -1,0 +1,1 @@
+Artículo 331. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) El mandato para ser representante de la masa sólo podrá ser confiado a personas domiciliadas en el territorio nacional, así como a las sociedades y asociaciones que tengan su domicilio en el mismo.

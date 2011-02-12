@@ -1,0 +1,1 @@
+Artículo 290. La reducción del capital autorizado se realizará mediante modificación de los estatutos sociales. No podrá ser disminuido el capital autorizado a una cifra inferior al suscrito y pagado.

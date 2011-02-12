@@ -1,0 +1,2 @@
+Artículo 140.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La transformación de una sociedad de responsabilidad limitada en otro tipo de sociedad podrá ser decidida por la mayoría requerida para la modificación de los estatutos.
+Párrafo.- La decisión sobre la transformación de la sociedad, deberá ser precedida por el informe del comisario de cuentas, si lo hubiere. Dicho informe deberá contener el detalle de la situación patrimonial de la sociedad. Cualquier transformación efectuada en violación del presente artículo será nula.

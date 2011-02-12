@@ -1,0 +1,3 @@
+Artículo 462. Sólo la empresa individual de responsabilidad limitada responderá por sus obligaciones con su patrimonio; el propietario no tendrá responsabilidad cuando cumpla su obligación de aportar el capital.
+Párrafo I.- El propietario será responsable de las obligaciones de la empresa individual de responsabilidad limitada si no hubiere realizado a la empresa los aportes declarados, en violación de los Artículos 451, 455 Literal c) y 459; si no diere cumplimiento al Artículo 457; y si infringiere los Artículos 461, 463 y 465.
+Párrafo II.- En todos estos casos, los acreedores de la empresa podrán demandar al tribunal la disolución y liquidación de la misma.

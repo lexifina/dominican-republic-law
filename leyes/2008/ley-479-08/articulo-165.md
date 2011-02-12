@@ -1,0 +1,1 @@
+Artículo 165. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Dentro del mes siguiente a la suscripción de los estatutos sociales deberá formularse la solicitud de matriculación en el Registro Mercantil y a la misma deberá anexarse un original y copias de los documentos relativos a la constitución para fines de inscripción.

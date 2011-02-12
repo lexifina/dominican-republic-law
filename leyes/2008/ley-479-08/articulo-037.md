@@ -1,0 +1,1 @@
+Artículo 37.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las informaciones obtenidas en base al artículo anterior, sólo tendrán un valor informativo para las personas a cuyo requerimiento se formularon, pero no podrán ser aducidas como prueba o información oficial en ningún caso, salvo el peritaje que autorice la ley.

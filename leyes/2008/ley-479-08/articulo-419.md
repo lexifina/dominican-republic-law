@@ -1,0 +1,1 @@
+Artículo 419. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las cuentas de los liquidadores serán depositadas en el registro mercantil del domicilio de la sociedad y el aviso de la clausura de la liquidación será publicado en un periódico de circulación nacional.

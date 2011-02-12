@@ -1,0 +1,1 @@
+Artículo 420. El liquidador será responsable, tanto respecto de la sociedad como frente a los terceros, de las consecuencias perjudiciales de las faltas que cometa en el ejercicio de sus funciones. Las acciones en responsabilidad contra los liquidadores prescribirán en las condiciones previstas en el Artículo 240.

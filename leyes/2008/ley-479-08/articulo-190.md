@@ -1,0 +1,9 @@
+Artículo 190.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La asamblea general ordinaria podrá tomar todas las decisiones no mencionadas en el artículo anterior que conciernan al conjunto de los accionistas y las relativas a una categoría de acciones en la forma indicada más adelante en el artículo 191. Deliberará válidamente en la primera convocatoria con accionistas presentes o representados que sean titulares por lo menos de la mitad (1/2) de las acciones suscritas y pagadas; y en la segunda convocatoria con por lo menos la cuarta parte (1/4) de las acciones suscritas y pagadas.
+Párrafo I.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La asamblea general ordinaria se reunirá por lo menos una vez al año, dentro de los ciento veinte (120) días que sigan al cierre del ejercicio social anterior. Deberá ser convocada con por lo menos quince (15) días de anticipación para conocer de los asuntos incluidos en el orden del día, que contendrá siempre, para esta reunión anual, lo siguiente:
+a) Deliberar y estatuir sobre las cuentas anuales, después de oído el informe de los comisarios de cuentas y tomar las medidas que juzgue oportunas;
+b) Nombrar y revocar a los administradores y a los comisarios de cuentas, cuando procediere;
+c) Fijar las retribuciones a los miembros del consejo de administración y los comisarios, si no están determinadas en los estatutos;
+d) Resolver sobre la aplicación de los resultados del ejercicio social;
+e) Tomar acta de las acciones suscritas y pagadas durante el año, con cargo al capital autorizado; y,
+f) Nombrar los auditores externos.
+Párrafo II.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Salvo disposición especial, la asamblea general ordinaria adoptará sus decisiones por mayoría de votos de los miembros presentes o representados.

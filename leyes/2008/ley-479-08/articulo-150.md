@@ -1,0 +1,1 @@
+Artículo 150. Los terceros adquirirán derechos y asumirán obligaciones sólo respecto del gestor, quien con relación a ellos será reputado como único dueño del negocio en las relaciones externas de la participación. La responsabilidad del socio gestor será ilimitada. Si actuara más de un gestor, ellos serán solidariamente responsables.

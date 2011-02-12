@@ -1,0 +1,1 @@
+Artículo 478. Las personas que de manera deliberada impongan trabas o dificultades a cualquier investigación, inspección o fiscalización que realice la Superintendencia de Valores en el ejercicio de su función supervisora, serán sancionados con prisión de hasta dos (2) años y multa de hasta cuarenta (40) salarios.

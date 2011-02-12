@@ -1,0 +1,1 @@
+Artículo 259. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las acciones en responsabilidad contra los comisarios de cuentas prescribirán a los dos (2) años contados a partir del hecho perjudicial; pero si éste es disimulado, dicho plazo correrá a partir de la revelación del mismo.

@@ -1,0 +1,3 @@
+Artículo 247. Los comisarios de cuentas serán designados por la asamblea general ordinaria, después de los primeros que nombran los estatutos o la asamblea general constitutiva.
+Párrafo I.- Cuando sea previsto en los estatutos, la asamblea general podrá designar uno o varios suplentes de los comisarios de cuentas, para reemplazar a los titulares en caso de denegación, impedimento, dimisión o muerte.
+Párrafo II.- Las funciones del comisario de cuentas suplente, llamado a reemplazar al titular, terminarán en la fecha de expiración del mandato confiado a éste, salvo en caso de impedimento temporal, en cuyo caso el titular reasumirá sus funciones después de la siguiente asamblea general que apruebe las cuentas.

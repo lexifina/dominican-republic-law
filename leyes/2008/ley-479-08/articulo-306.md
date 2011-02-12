@@ -1,0 +1,2 @@
+Artículo 306. Frente a la sociedad los títulos que expida serán indivisibles. Los copropietarios de un título deberán designar una sola persona para el ejercicio de los derechos incorporados al título y responderán solidariamente frente a la sociedad de cuantas obligaciones se deriven de la condición de accionista u obligacionista, según sea el caso.
+Párrafo.- La misma regla se aplicará a los demás supuestos de cotitularidad de derechos sobre los títulos.

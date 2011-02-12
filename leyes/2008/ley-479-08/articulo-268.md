@@ -1,0 +1,1 @@
+Artículo 268.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las sociedades anónimas que incursionen en el mercado de valores estarán obligadas a exhibir a la Superintendencia de Valores sus asientos contables y registros sociales, en los límites de la fiscalización correspondiente.

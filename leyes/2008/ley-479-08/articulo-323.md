@@ -1,0 +1,1 @@
+Artículo 323. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) La emisión de obligaciones no será permitida a las sociedades anónimas antes de tener dos (2) años de existencia y de haber establecido dos (2) balances regularmente aprobados por sus accionistas.

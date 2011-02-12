@@ -1,0 +1,3 @@
+Artículo 53. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Se considerarán sucursales los establecimientos de comercio abiertos por una sociedad, dentro o fuera de su domicilio, para el desarrollo de sus negocios o parte de ellos, administrados por mandatarios con facultades para representar la sociedad.
+Párrafo I.- Se considerarán sucursales los establecimientos de comercio abiertos por una sociedad, dentro o fuera de su domicilio, para el desarrollo de sus negocios o parte de ellos, administrados por mandatarios con facultades para representar la sociedad.
+Párrafo II.- Se considerarán agencias de una sociedad sus establecimientos de comercio cuyos administradores carezcan de poder para representarla.

@@ -1,0 +1,2 @@
+Artículo 42. En las sociedades anónimas, el consejo de administración podrá integrar de entre sus miembros un Comité de Auditoría, como órgano de apoyo para el control y seguimiento de las políticas, procedimientos y controles que se establezcan. Los grupos de empresas, consorcios o conglomerados empresariales podrán contar con un único Comité de Auditoría.
+Párrafo: Los comisarios de cuentas serán convocados a las reuniones del Comité de Auditoría.

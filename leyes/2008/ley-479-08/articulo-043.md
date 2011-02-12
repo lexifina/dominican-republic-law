@@ -1,0 +1,9 @@
+Artículo 43. En las sociedades anónimas, el presidente o el ejecutivo principal y el ejecutivo principal de finanzas; en las demás sociedades comerciales, el gerente, serán responsables de que la información financiera sea razonable.
+Párrafo I. Estos representantes o ejecutivos, según sea el caso, deberán prestar una declaración jurada de su responsabilidad sobre los estados financieros, el informe de gestión y el control interno de la sociedad. Tal declaración deberá incluir las siguientes aseveraciones:
+a) Que han revisado la información financiera contenida en el informe de gestión y en los estados financieros;
+b) Que en base a su conocimiento, los estados financieros y otras informaciones financieras no contienen ninguna declaración falsa de un hecho significativo ni omite declaraciones, hechos o circunstancias que permitan hacer estas declaraciones; y
+c) Que basado en su conocimiento, los estados financieros y otras informaciones incluidas en el informe de gestión, presentan razonablemente, en todo aspecto significativo, la situación financiera, los resultados de las operaciones, los cambios en el patrimonio y en los flujos de efectivo de la sociedad por los períodos presentados.
+Párrafo II. Igualmente, los representantes o ejecutivos, según sea el caso, deberán revelar en la aludida declaración:
+a) Todas las deficiencias significativas en el diseño u operación de los controles internos que podrían afectar adversamente la capacidad de la sociedad para registrar, procesar y reportar los datos en sus estados financieros;
+b) Cualquier fraude, significativo o no, que haya ocurrido en la empresa; y
+c) Si con posterioridad al cierre fiscal de la sociedad, hubo o no cambios significativos en los controles internos o en las operaciones reportadas en los estados financieros que pudiesen afectar significativamente la situación financiera, resultados de operaciones, cambios en el patrimonio y en los flujos de efectivo.

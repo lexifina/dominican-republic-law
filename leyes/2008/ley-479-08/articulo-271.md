@@ -1,0 +1,1 @@
+Artículo 271. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) Quince (15) días antes de la celebración de la asamblea general ordinaria anual, toda sociedad anónima de suscripción pública deberá publicar en un periódico de amplia circulación nacional los estados contables anuales debidamente certificados por el comisario de cuentas ordinario.

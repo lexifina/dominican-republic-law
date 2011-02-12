@@ -1,0 +1,1 @@
+Artículo 69. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los gerentes deberán someter a la aprobación de la asamblea general de socios un informe de gestión anual y los estados financieros, dentro del plazo de noventa (90) días contados desde la clausura del ejercicio anual.

@@ -1,0 +1,1 @@
+Artículo 135.- Los comisarios de cuentas serán informados de las asambleas o consultas al mismo tiempo que los socios y tendrán acceso a las asambleas. Los documentos mencionados en el Artículo 110 serán puestos a disposición de los comisarios de cuentas en el domicilio social por lo menos un (1) mes antes de la convocatoria de la asamblea prevista en dicho artículo.

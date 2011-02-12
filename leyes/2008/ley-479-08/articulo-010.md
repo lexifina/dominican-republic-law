@@ -1,0 +1,1 @@
+Artículo 10. Las sociedades comerciales constituidas en la República Dominicana de acuerdo a las leyes nacionales tendrán nacionalidad dominicana, aún cuando no haya sido expresamente contenido en el contrato social.

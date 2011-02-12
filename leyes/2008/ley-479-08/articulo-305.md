@@ -1,0 +1,8 @@
+Artículo 305.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las acciones y las obligaciones representadas por títulos podrán emitirse en forma nominativa, a la orden o al portador.
+Párrafo I.- El título nominativo figurará en un libro registro que llevará la sociedad en el que se inscribirán las sucesivas transferencias de las acciones, con expresión del nombre, apellidos, razón o denominación social, en su caso, nacionalidad y domicilio de los sucesivos titulares, así como la constitución de derechos reales y otros gravámenes sobre aquéllas.
+Párrafo II.- La sociedad sólo reputará como titular a quien se halle inscrito en dicho registro.
+Párrafo III.- Cualquier titular que lo solicite, o su apoderado legítimo, podrá examinar el libro registro de títulos nominativos.
+Párrafo IV.- La sociedad sólo podrá rectificar las inscripciones que repute falsas o inexactas cuando haya notificado a los interesados su intención de proceder en tal sentido y éstos no hayan manifestado su oposición durante los treinta (30) días siguientes a la notificación.
+Párrafo V.- El título nominativo será transmitido, por una declaración debidamente firmada por quien haga la transferencia y por el adquiriente o por sus respectivos apoderados. Ningún acto jurídico relacionado con un título nominativo surtirá efectos respecto de los terceros y de la sociedad, sino cuando sea notificado a la sociedad e inscrito en el registro correspondiente.
+Párrafo VI.- El título a la orden será transmitido por endoso suscrito en el mismo documento, o por cualquier acto otorgado por escrito y la entrega del título.
+Párrafo VII- La cesión del título al portador se efectuará por la entrega del mismo.

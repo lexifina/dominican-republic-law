@@ -1,0 +1,2 @@
+Artículo 159. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) La suscripción y el pago de la acciones en efectivo de la sociedad en formación se constatará a través de un comprobante de suscripción, en las sociedades de suscripción privada; y, mediante un boletín de suscripción, en las sociedades de suscripción pública, siguiendo las formalidades que, para cada tipo de sociedad, establezcan los Artículos 164 y 173 de la presente ley.
+Párrafo.- Las acciones no podrán ser suscritas y adquiridas mediante un pago en efectivo por un monto inferior a su valor nominal.

@@ -1,0 +1,2 @@
+Artículo 402. Por derogación a las disposiciones del artículo precedente, podrá ser estipulado que las sociedades beneficiarias de la escisión sólo estarán obligadas a las partes del pasivo de la sociedad escindida puestas a su cargo, respectivamente, y sin solidaridad entre ellas, siempre que dichas partes sean proporcionales a los elementos del activo que reciban.
+Párrafo.- En este caso, los acreedores no obligacionistas de las sociedades participantes podrán formar oposición en las condiciones y con los efectos previstos en el Artículo 395.

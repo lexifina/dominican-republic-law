@@ -1,0 +1,3 @@
+Artículo 425. En ausencia del comisario de cuentas, y aún en las sociedades que no estén obligadas a designarlo, uno o varios contralores podrán ser nombrados por los socios.
+Párrafo I.- En su defecto, podrán ser designados por auto administrativo del juez presidente de la Cámara Civil y Comercial del Juzgado de Primera Instancia del Distrito Judicial correspondiente al domicilio social, a instancia del liquidador o de cualquier otro interesado.
+Párrafo II.- El auto de designación de los contralores deberá fijar sus poderes, obligaciones y remuneración, así como la duración de sus funciones. Tendrán la misma responsabilidad que los comisarios de cuentas.

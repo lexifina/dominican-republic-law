@@ -1,0 +1,5 @@
+Artículo 407. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Dentro del mes de la aprobación de los proyectos o acuerdos de fusión o de escisión por las asambleas extraordinarias de las sociedades participantes, éstas deberán depositar, según sea el caso, en el Registro Mercantil correspondiente, para fines de matriculación e inscripción, la documentación que se indica a continuación:
+a) Original de las actas de las asambleas generales extraordinarias de las sociedades participantes que aprueban los proyectos o acuerdos de fusión o de escisión;
+b) Toda la documentación que haya sido objeto de ponderación, examen o aprobación por parte de las asambleas generales extraordinarias, tales como los informes de los consejos de administración, los informes de los comisarios, los estatutos sociales de las sociedades nuevas creadas en ocasión de la fusión o de la escisión y cualquier otro documento vinculado a tales procesos;
+c) El proyecto o acuerdo de fusión o escisión; y,
+d) La publicación de su extracto, debidamente certificada por el editor.

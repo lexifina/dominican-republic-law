@@ -1,0 +1,5 @@
+Artículo 107.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La acción en responsabilidad contra los gerentes por la falta cometida en el ejercicio de su mandato sólo podrá extinguirse por una de las siguientes causas:
+a) Mediante aprobación por la asamblea de socios, de la gestión del o los gerentes, o consejo de gerencia, en la cual se discutiera la falta cometida por el o los gerentes o el consejo de gerencia;
+b) Mediante renuncia expresa de la asamblea de socios al ejercicio de la acción en responsabilidad por la falta cometida por el o los gerentes o el consejo de gerencia;
+c) Mediante prescripción extintiva de dos (2) años a partir de la comisión de la falta o de su conocimiento por la asamblea de socios o de los socios de manera individual.
+Párrafo.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las decisiones indicadas en los literales a) y b) del presente artículo no serán válidas si mediare oposición de socios que representen por lo menos la vigésima (1/20) parte del capital social. Adicionalmente, las faltas violatorias de orden penal se extinguirán conforme a las disposiciones de derecho común que se les apliquen.

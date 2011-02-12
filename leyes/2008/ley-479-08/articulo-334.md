@@ -1,0 +1,2 @@
+Artículo 334. En caso de emisión por oferta pública, los representantes de la masa de obligacionistas podrán ser designados en el contrato de emisión. Cuando no lo hayan sido de este modo, serán nombrados en el plazo de un (1) año a partir de la apertura de la suscripción y a más tardar un (1) mes antes de la primera amortización prevista.
+Párrafo.- Esta designación será hecha por la asamblea general de obligacionistas o, en su defecto, por decisión judicial.

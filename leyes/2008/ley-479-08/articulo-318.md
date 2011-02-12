@@ -1,0 +1,1 @@
+Artículo 318. Si la sociedad ha dado su consentimiento a un proyecto de otorgamiento de acciones en prenda, en las condiciones previstas en el Artículo 317, primer párrafo, este consentimiento implicará aprobación del cesionario en caso de ejecución prendaria, salvo que la sociedad prefiera, después de la cesión, recomprar sin demora las acciones.

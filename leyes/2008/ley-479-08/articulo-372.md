@@ -1,0 +1,3 @@
+Artículo 372. El tribunal apoderado de una acción en nulidad podrá, aún de oficio, fijar un plazo que permita cubrir las nulidades.
+Párrafo I.- El tribunal no podrá pronunciar la nulidad antes de que transcurran dos (2) meses desde la fecha de la demanda introductiva de instancia.
+Párrafo II.- Si para cubrir una nulidad deba ser convocada una asamblea o efectuada una consulta a los socios, y se pruebe la convocatoria regular de la asamblea o el envío a los socios de los textos de los proyectos de decisión, acompañados de los documentos que se les deberán comunicar, el tribunal dispondrá por sentencia el plazo necesario para que los socios puedan tomar una decisión.

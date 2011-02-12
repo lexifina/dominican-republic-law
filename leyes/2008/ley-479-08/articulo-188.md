@@ -1,0 +1,1 @@
+Artículo 188.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La asamblea general constitutiva, si la hubiere, tendrá como objetivo comprobar los actos inherentes a la formación de la sociedad y declararla regularmente constituida.

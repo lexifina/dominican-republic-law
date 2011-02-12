@@ -1,0 +1,3 @@
+Artículo 231.- (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) En caso de impedimento temporal o de muerte del presidente, el consejo de administración podrá delegar en un administrador las funciones del presidente. Esta delegación será por una duración limitada y renovable en el primer caso; y con efectos hasta la elección del nuevo presidente, en el segundo.
+Párrafo I.- En caso de muerte o de renuncia del presidente, si el consejo de administración no pudiere reemplazarlo con uno de sus miembros, podrá designar un administrador suplementario para desempeñar las funciones de presidente, bajo reserva de las disposiciones del Artículo 214.
+Párrafo II.- El consejo de administración determinará la retribución de los señalados sustitutos del presidente.

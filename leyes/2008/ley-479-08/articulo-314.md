@@ -1,0 +1,1 @@
+Artículo 314. La anulación de la sociedad o de una emisión de acciones no implicará la nulidad de las negociaciones intervenidas anteriormente a la decisión de anulación, si los títulos son regulares en la forma. En todo caso, el adquiriente podrá ejercer una acción en garantía contra su vendedor.

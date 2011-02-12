@@ -1,0 +1,7 @@
+Artículo 461. El propietario no podrá retirar activos pertenecientes al patrimonio de la empresa individual de responsabilidad limitada excepto en la forma que se indica a continuación.
+Párrafo I.- Para la reducción del capital de la empresa, el propietario deberá hacer la declaración correspondiente en el Registro Mercantil en la cual señale los aportes que se propone retirar; y publicará un extracto de dicha declaración en un periódico de amplia circulación nacional.
+Párrafo II.- Los acreedores de la empresa podrán hacer oposición a dicha reducción mediante demanda incoada en el plazo de un (1) mes contado a partir de la publicación señalada.
+Párrafo III.- El Juzgado de Primera Instancia correspondiente al domicilio de la empresa, en atribuciones comerciales, será competente para conocer esa demanda y cualquier otra que concierna a la empresa.
+Párrafo IV.- El tribunal apoderado podrá rechazar la oposición u ordenar el reembolso de los créditos o la constitución de garantías si la empresa las ofrece y se juzgan suficientes.
+Párrafo V.- Las operaciones de reducción del capital no podrán comenzar durante el plazo establecido para la indicada oposición y, en su caso, antes de que se decida en primera instancia sobre la misma.
+Párrafo VI.- Si el juez acogiese la oposición, el procedimiento de reducción de capital será inmediatamente interrumpido hasta la constitución de garantías suficientes o hasta el reembolso de los créditos; y si rechaza la oposición, las operaciones de reducción podrán comenzar.

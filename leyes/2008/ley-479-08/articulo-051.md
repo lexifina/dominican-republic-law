@@ -1,0 +1,1 @@
+Artículo 51.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Una sociedad será considerada subordinada o controlada cuando su poder de decisión se encuentre sometido, directa o indirectamente, a la voluntad de otra u otras sociedades, que serán su matriz o controlante. Las sociedades subordinadas o controladas serán filiales o subsidiarias.

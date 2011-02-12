@@ -1,0 +1,2 @@
+Artículo 59. La sociedad en nombre colectivo es aquella que existe bajo una razón social y en la que todos los socios tienen la calidad de comerciantes y responden, de manera subsidiaria, ilimitada y solidaria, de las obligaciones sociales.
+Párrafo.- Los acreedores de la sociedad sólo podrán perseguir el pago de las deudas sociales contra un asociado después de haber puesto en mora a la sociedad por acto extrajudicial.

@@ -1,0 +1,1 @@
+Artículo 75. Sociedad en comandita simple es la que existe bajo una razón social y se compone de uno o varios socios comanditados que responden de manera subsidiaria, ilimitada y solidaria de las obligaciones sociales, y de uno o varios comanditarios que únicamente están obligados al pago de sus aportaciones.

@@ -1,0 +1,2 @@
+Artículo 360. La sociedad deudora soportará las costas usuales de convocatoria y de celebración de las asambleas generales y de la publicidad de sus decisiones. Las costas correspondientes a gestiones decididas por la asamblea general de la masa podrán ser retenidas sobre los intereses pagados a los obligacionistas. Estas retenciones no podrán exceder la décima (1/10) del interés anual.
+Párrafo.- El monto de las costas que deberán ser sufragadas por la sociedad podrá ser fijado por decisión judicial.

@@ -1,0 +1,1 @@
+Artículo 333. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) En caso de urgencia, los representantes de la masa podrán ser designados por auto administrativo dictado por el juez presidente de la Cámara Civil y Comercial del Juzgado de Primera Instancia correspondiente al domicilio social de la sociedad deudora a instancia de cualquier interesado.

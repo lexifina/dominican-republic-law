@@ -1,0 +1,1 @@
+Artículo 288. Todos los pagos a realizar, en cualquier caso, para la suscripción de las acciones provenientes de un aumento del capital autorizado, se efectuarán de acuerdo con lo previsto en los Artículos 276 hasta el 279.

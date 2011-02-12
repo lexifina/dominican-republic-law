@@ -1,0 +1,1 @@
+Artículo 27. Cuando una persona jurídica sea administradora, gerente o representante, actuará a través de la persona física que sea designada. La persona jurídica y sus administradores serán solidariamente responsables por la persona física designada y asumirán como propias las obligaciones y responsabilidades derivadas de su condición de administradora, gerente o representante.

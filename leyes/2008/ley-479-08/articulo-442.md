@@ -1,0 +1,2 @@
+Artículo 442. La transformación no modificará la responsabilidad solidaria e ilimitada anterior de los socios, aun cuando se trate de obligaciones que deban cumplirse con posterioridad a la adopción del nuevo tipo, salvo que los acreedores lo consientan expresamente.
+Párrafo.- Si la sociedad que se transforma hubiere emitido obligaciones o bonos se requerirá la autorización previa de los tenedores otorgada en asamblea.

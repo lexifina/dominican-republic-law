@@ -1,0 +1,1 @@
+Artículo 355. Las disposiciones de los Artículos 204, Párrafo II, 205 y 206 serán aplicables a las asambleas de obligacionistas en cuanto a las disposiciones sobre secretaría, nómina de asistencia y actas, con los cambios pertinentes dada la diferente naturaleza de las asambleas.

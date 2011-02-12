@@ -1,0 +1,1 @@
+Artículo 147.- La modificación de los estatutos exigirá, salvo cláusula contraria, el acuerdo de todos los socios comanditados. La modificación de los estatutos que resulte de un aumento de capital será constatada por el gerente.

@@ -1,0 +1,1 @@
+Artículo 369. Las garantías constituidas posteriormente a la emisión de las obligaciones serán conferidas por el presidente del consejo de administración, previa autorización del órgano de la sociedad emisora habilitado al efecto por los estatutos. Estas garantías serán aceptadas por el representante de la masa.

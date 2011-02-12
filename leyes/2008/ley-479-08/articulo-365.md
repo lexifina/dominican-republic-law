@@ -1,0 +1,1 @@
+Artículo 365. En caso de disolución anticipada de la sociedad no provocada por una fusión o por una escisión, la asamblea general de obligacionistas podrá exigir el reembolso de las obligaciones y la sociedad podrá imponerlo.

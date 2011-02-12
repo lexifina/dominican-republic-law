@@ -1,0 +1,7 @@
+Artículo 179. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) Si la aportación en naturaleza consistiese en bienes muebles o inmuebles o derechos asimilados a ellos, el aportante estará obligado a la entrega y saneamiento de la cosa objeto de la aportación en los términos establecidos por el Código Civil para el contrato de compraventa.
+Párrafo I.- Si la aportación consistiere en un derecho de crédito, el aportante responderá de la legitimidad de éste y de la solvencia del deudor.
+Párrafo II.- Si se aportase una empresa o establecimiento, el aportante quedará obligado al saneamiento de su conjunto, si el vicio o la evicción afectasen a la totalidad o a alguno de los elementos esenciales para su normal explotación.
+Párrafo III.- Procederá también el saneamiento individualizado de aquellos elementos de la empresa aportada que sean de importancia por su valor patrimonial.
+Párrafo IV.- La sociedad tendrá, a partir del día de su aprobación, la propiedad y posesión de los aportes en naturaleza, quedando subrogada en todos los derechos y obligaciones de los aportantes sobre estos bienes.
+Párrafo V.- La asamblea general constitutiva decidirá sobre la evaluación de los aportes en naturaleza y la concesión de las ventajas particulares realizadas por los comisarios, que no podrán ser modificadas sino por el voto unánime de los suscriptores.
+Párrafo VI.- No quedará constituida definitivamente la sociedad sin la aprobación relativa a la evaluación de los aportes en naturaleza o la atribución de las ventajas particulares.

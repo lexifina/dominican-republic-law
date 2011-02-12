@@ -1,0 +1,1 @@
+Artículo 47. Las sociedades anónimas y de responsabilidad limitada deberán efectuar una reserva no menor del cinco por ciento (5%) de las ganancias realizadas y líquidas arrojadas por el estado de resultado del ejercicio hasta alcanzar el diez por ciento (10%) del capital social.

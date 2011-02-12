@@ -1,0 +1,1 @@
+Artículo 371. La acción en nulidad se extinguirá cuando la causa de la nulidad haya dejado de existir el día en que el tribunal decida sobre el fondo en primera instancia, excepto si la nulidad estuviese fundada en la violación de una disposición de orden público.

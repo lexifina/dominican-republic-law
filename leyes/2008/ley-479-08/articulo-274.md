@@ -1,0 +1,1 @@
+Artículo 274. Después de la constitución de la sociedad, el capital social suscrito y pagado podrá ser aumentado mediante la suscripción y el pago de acciones todavía no emitidas, de acuerdo con las reglas que a continuación se indican, y hasta completar el capital autorizado que hubiere sido fijado en los estatutos sociales.

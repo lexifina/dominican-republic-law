@@ -1,0 +1,1 @@
+Artículo 516. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) La Superintendencia de Valores tendrá un plazo de quince (15) días para decidir, mediante resolución administrativa, la aprobación o no del plan de adecuación sometido por la sociedad.

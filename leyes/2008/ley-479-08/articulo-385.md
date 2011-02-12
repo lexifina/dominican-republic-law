@@ -1,0 +1,3 @@
+Artículo 385. La fusión o la escisión producirán efectos:
+a) En caso de creación de una o varias sociedades nuevas, en la fecha de inscripción en el Registro Mercantil de la nueva sociedad o de la última de ellas; y,
+b) En los otros casos, en la fecha de la última asamblea general que apruebe la operación, salvo si el contrato previera que la operación surtiría efectos en otra fecha. Ésta no deberá ser ni posterior a la fecha de clausura del ejercicio en curso de la o de las sociedades beneficiarias, ni anterior a la fecha de clausura del último ejercicio terminado de la o de las sociedades que transmitan su patrimonio.

@@ -1,0 +1,4 @@
+Artículo 236. Además de la acción en reparación del perjuicio sufrido personalmente, los accionistas podrán individualmente o en grupo, según las condiciones fijadas a continuación, intentar la acción social en responsabilidad contra los administradores.
+Párrafo I.- Accionistas que representen por lo menos la vigésima parte (1/20) del capital social suscrito y pagado, podrán, en un interés común, encargar a sus expensas a uno o varios de ellos para sustentar tanto por demanda como mediante defensa, la acción social contra los administradores.
+Párrafo II.- Los demandantes quedarán habilitados para perseguir la reparación del perjuicio íntegro sufrido por la sociedad, a la cual, en su caso, las indemnizaciones serán otorgadas.
+Párrafo III.- El retiro en curso de instancia de uno o varios de los accionistas antes señalados, sea por haber perdido la calidad de accionista o por haber voluntariamente desistido, no tendrá efecto sobre la prosecución de la instancia.

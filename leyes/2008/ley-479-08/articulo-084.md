@@ -1,0 +1,1 @@
+Artículo 84. El nombramiento del gerente será por mayoría de todos los socios, salvo cláusula en contrario de los estatutos sociales, pero dicho nombramiento sólo podrá recaer sobre los socios comanditados.

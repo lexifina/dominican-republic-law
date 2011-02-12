@@ -1,0 +1,2 @@
+Artículo 18.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los fundadores de la sociedad, así como los administradores o gerentes, serán responsables del perjuicio causado por las omisiones o irregularidades a que se refiere el artículo precedente.
+Párrafo.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La acción en responsabilidad en contra de las indicadas personas prescribirá a los dos (2) años, contados, según sea el caso, desde la matriculación de la sociedad o la inscripción de la documentación modificativa en el Registro Mercantil.

@@ -1,0 +1,1 @@
+Artículo 86. Las modificaciones de los estatutos sociales deberán ser decididas con el consentimiento de todos los socios comanditados y de la mayoría en número y en capital de los socios comanditarios.

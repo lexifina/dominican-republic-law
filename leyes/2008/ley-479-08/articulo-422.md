@@ -1,0 +1,2 @@
+Artículo 422. A falta de cláusulas estatutarias o de convención expresa entre las partes, la liquidación de la sociedad disuelta será efectuada bajo las disposiciones de esta sección, sin perjuicio de la aplicación de la Sección I del presente capítulo.
+Párrafo.- Podrá ser ordenado por decisión judicial que esta liquidación sea efectuada en las mismas condiciones, ya sea por demanda de socios que representen la décima parte (1/10) del capital social suscrito y pagado, por lo menos, o por demanda de los acreedores sociales.

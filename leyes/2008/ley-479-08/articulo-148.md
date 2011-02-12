@@ -1,0 +1,1 @@
+Artículo 148.- La transformación de la sociedad en comandita por acciones en sociedad anónima o en sociedad de responsabilidad limitada será decidida por la asamblea general extraordinaria de los accionistas con el acuerdo de la mayoría de los socios comanditados.

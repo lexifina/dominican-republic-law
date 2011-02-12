@@ -1,0 +1,2 @@
+Artículo 156.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las sociedades anónimas podrán adoptar expresamente la modalidad de sociedad anónima simplificada. En este caso se denominará “Sociedad Anónima Simplificada (SAS)”, y estará regida por las disposiciones previstas en la Sección VII del Capítulo II del Título I de la presente ley.
+Párrafo.- (Agregado por la Ley 31-11, de fecha 11 de febrero de 2011) Las Sociedades Anónimas Simplificadas no podrán emitir valores objeto de oferta pública.

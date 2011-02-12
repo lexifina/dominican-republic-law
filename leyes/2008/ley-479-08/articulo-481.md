@@ -1,0 +1,3 @@
+Artículo 481. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Serán sancionados con multa de hasta veinte (20) salarios, el presidente, los administradores de hecho o de derecho, o los funcionarios responsables de una sociedad anónima que:
+a) No hayan dado cumplimiento a las disposiciones que sobre los asientos contables y registros sociales contengan esta ley;
+b) No hayan prestado la declaración jurada sobre su responsabilidad sobre los estados financieros, el informe de gestión y el control interno de la sociedad o, habiéndola hecho, no la hayan rendido en las condiciones y términos previstos en el artículo 43 de esta ley.

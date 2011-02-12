@@ -1,0 +1,3 @@
+Artículo 142. El o los primeros gerentes serán designados por los estatutos. En el curso de la existencia de la sociedad, salvo cláusula contraria de los estatutos, el o los gerentes serán designados por la asamblea general ordinaria con el acuerdo de todos los socios comanditados.
+Párrafo I.- El gerente, socio o no, será revocado en las condiciones previstas por los estatutos o por decisión del Juzgado de Primera Instancia en atribuciones comerciales, por causa legítima, por demanda de todo socio. Toda cláusula contraria será reputada no escrita.
+Párrafo II.- Los gerentes estarán sujetos a las reglas relativas a la designación y la duración del mandato de los administradores de las sociedades anónimas.

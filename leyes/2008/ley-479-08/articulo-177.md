@@ -1,0 +1,1 @@
+Artículo 177. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) Estos comisarios apreciarán, bajo su responsabilidad, el valor de los aportes en naturaleza y las causas de las ventajas particulares, comunicando su informe a los interesados.

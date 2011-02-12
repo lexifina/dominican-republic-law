@@ -1,0 +1,1 @@
+Artículo 154. La sociedad anónima es la que existe entre dos o más personas bajo una denominación social y se compone exclusivamente de socios cuya responsabilidad por las pérdidas se limita a sus aportes. Su capital estará representado por títulos esencialmente negociables denominados acciones, las cuales deberán ser íntegramente suscritas y pagadas antes de su emisión.

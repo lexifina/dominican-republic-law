@@ -1,0 +1,1 @@
+Artículo 477. El presidente, los administradores de hecho o de derecho, o los funcionarios de una sociedad anónima que impidan u obstaculicen las investigaciones destinadas a establecer su propia responsabilidad o la de los ejecutivos, en la gestión de la sociedad, serán sancionados con prisión de hasta un (1) año y multa de hasta veinte (20) salarios.

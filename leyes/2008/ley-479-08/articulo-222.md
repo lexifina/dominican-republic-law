@@ -1,0 +1,3 @@
+Artículo 222. Toda convención que intervenga entre la sociedad y uno de sus administradores deberá ser sometida a la autorización previa del consejo de administración.
+Párrafo I.- Así deberá hacerse también respecto de las convenciones a celebrar por la sociedad con terceros en las cuales un administrador esté interesado de cualquier modo; o en las cuales trate con la sociedad mediante persona interpuesta.
+Párrafo II.- Estarán igualmente sometidas a autorización previa las convenciones que intervengan entre la sociedad y otra empresa, si uno de los administradores es propietario o administrador de la última.

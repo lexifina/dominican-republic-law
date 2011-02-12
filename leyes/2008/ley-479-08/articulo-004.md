@@ -1,0 +1,1 @@
+Artículo 4. Se reputarán comerciales todas las sociedades que se constituyan en alguna de las formas reconocidas en el Artículo 3 de esta ley. No obstante, la sociedad accidental o en participación sólo será comercial en función de su objeto.

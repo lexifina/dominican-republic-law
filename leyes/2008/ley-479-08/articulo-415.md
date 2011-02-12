@@ -1,0 +1,1 @@
+Artículo 415. Estará prohibida la cesión de todo o parte del activo de las sociedades en liquidación al liquidador o a sus empleados, o a su cónyuge, ascendientes, descendientes y colaterales hasta el segundo grado y afines en las mismas condiciones.

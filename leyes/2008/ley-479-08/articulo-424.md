@@ -1,0 +1,1 @@
+Artículo 424. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La disolución de la sociedad no pondrá fin a las funciones del comisario de cuentas, ni de los órganos de inspección y vigilancia.

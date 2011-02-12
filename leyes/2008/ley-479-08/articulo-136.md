@@ -1,0 +1,1 @@
+Artículo 136.- La sociedad tendrá una acción en repetición en contra de los socios sobre los dividendos distribuidos en función de beneficios que no hayan sido realmente obtenidos. Esta acción prescribirá a los tres (3) años contados desde la distribución de los dividendos.

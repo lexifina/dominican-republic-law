@@ -1,0 +1,1 @@
+Artículo 438. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La decisión de repartición de fondos será publicada dentro del mes de la rendición de cuentas del liquidador en un periódico de circulación nacional y, además, será comunicada individualmente a los titulares de títulos nominativos.

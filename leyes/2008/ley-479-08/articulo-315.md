@@ -1,0 +1,1 @@
+Artículo 315. Los estatutos sociales podrán restringir la negociabilidad de las acciones nominativas, siempre que esta limitación no implique la prohibición de su transmisibilidad. La disposición estatutaria que restrinja la negociabilidad deberá ser constatada en el certificado correspondiente y en los libros registros de acciones que llevará la sociedad.

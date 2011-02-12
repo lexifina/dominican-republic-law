@@ -1,0 +1,1 @@
+Artículo 35. Los estatutos sociales o el contrato de sociedad establecerán quién o quiénes tendrán la responsabilidad de la preparación y la conservación de dichos registros, los cuales deberán estar disponibles en el domicilio social.

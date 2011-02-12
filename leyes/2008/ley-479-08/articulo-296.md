@@ -1,0 +1,3 @@
+Artículo 296. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La asamblea general extraordinaria que decida una reducción del capital social no motivado en pérdidas podrá autorizar la compra de acciones emitidas y en circulación para anularlas. En ningún caso se deberá atentar contra la igualdad de los accionistas.
+Párrafo I.- Igualmente, la sociedad podrá autorizar una compra de sus propias acciones en virtud de una decisión de la asamblea general ordinaria únicamente con fondos provenientes de beneficios o de reservas distintas a la legal.
+Párrafo II.- En ambos casos, la compra solo podrá hacerse en base a un flujo de efectivo que evidencie que no se violan acuerdos con los socios o que no se afecten intereses de terceros acreedores de la sociedad.

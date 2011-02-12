@@ -1,0 +1,1 @@
+Artículo 2. Habrá sociedad comercial cuando dos o más personas físicas o jurídicas se obliguen a aportar bienes con el objeto de realizar actos de comercio o explotar una actividad comercial organizada, a fin de participar en las ganancias y soportar las pérdidas que produzcan.

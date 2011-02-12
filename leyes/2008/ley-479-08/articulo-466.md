@@ -1,0 +1,3 @@
+Artículo 466. Si las pérdidas constatadas en los asientos contables determinan que los activos propios de la empresa individual de responsabilidad limitada resultasen inferiores a la mitad de su capital fijado en el acto de constitución y en sus modificaciones, el propietario deberá decidir, en los dos (2) meses que sigan a la preparación de las cuentas que establezcan dichas pérdidas, la disolución anticipada de la empresa.
+Párrafo I.- El acto contentivo de la decisión adoptada por el propietario será depositado e inscrito en el Registro Mercantil y publicado en un periódico de amplia circulación nacional.
+Párrafo II.- A falta de decisión del propietario, todo interesado podrá demandar en justicia la disolución y liquidación de la empresa.

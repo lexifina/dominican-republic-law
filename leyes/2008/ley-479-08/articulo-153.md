@@ -1,0 +1,1 @@
+Artículo 153. Las sociedades accidentales o en participación funcionarán, se disolverán y se liquidarán, a falta de disposiciones especiales, de conformidad a las disposiciones de las sociedades en nombre colectivo en cuanto no contraríen lo dispuesto en esta Sección.

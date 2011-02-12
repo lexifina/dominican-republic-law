@@ -1,0 +1,3 @@
+Artículo 389. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Sin perjuicio de lo dispuesto en el artículo 387 párrafos II y III, en las sociedades anónimas la fusión será decidida por la asamblea general extraordinaria de cada una de las sociedades que participen en la operación.
+Párrafo I.- Asimismo, la fusión será sometida, si fuere el caso, en cada una de estas sociedades, a la ratificación de las asambleas especiales de accionistas previstas en el artículo 191.
+Párrafo II.- El consejo de administración de cada una de las sociedades participantes en la operación deberá presentar un informe escrito que será puesto a disposición de los accionistas, junto con los documentos de interés, para el estudio del asunto.

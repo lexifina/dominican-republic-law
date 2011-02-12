@@ -1,0 +1,1 @@
+Artículo 379. La sociedad y los socios no podrán prevalerse de una nulidad frente a los terceros de buena fe. Sin embargo, la nulidad resultante de la incapacidad o de un vicio del consentimiento será oponible aún a los terceros por el incapaz y sus representantes legales, o por el socio cuyo consentimiento haya sido sorprendido por error, dolo o violencia.

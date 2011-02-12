@@ -1,0 +1,2 @@
+Artículo 369-4.- La sociedad sólo podrá emitir acciones nominativas.
+Párrafo.- La sociedad podrá también emitir títulos de deuda de manera privada, en cuyo caso les serán aplicables las disposiciones relativas a la emisión de títulos aplicables a las sociedades anónimas. En ese caso, los accionistas deberán designar un Comisario de Cuentas y estarán sujetos a las disposiciones de los artículos 241 y siguientes de la presente ley, relativos a la supervisión de las sociedades anónimas.

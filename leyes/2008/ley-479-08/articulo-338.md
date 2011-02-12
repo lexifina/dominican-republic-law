@@ -1,0 +1,2 @@
+Artículo 338.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los representantes de la masa no podrán inmiscuirse en la gestión de los asuntos sociales. Ellos tendrán acceso a las asambleas generales de los accionistas, pero sin voz, ni voto.
+Párrafo.- Dichos representantes tendrán derecho a obtener comunicación de los documentos puestos a disposición de los accionistas en las mismas condiciones que éstos.

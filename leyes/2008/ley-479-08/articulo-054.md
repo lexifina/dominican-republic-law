@@ -1,0 +1,2 @@
+Artículo 54. Cuando en el curso de un ejercicio una sociedad haya asumido el control de otra, en las condiciones referidas precedentemente o haya tomado una participación en el capital de otra, se deberá hacer mención de esa situación en el informe de gestión anual.
+Párrafo.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los administradores o gerentes de toda sociedad, cada año respecto del ejercicio social anterior, deberán rendir cuenta, en su informe de gestión anual, de las operaciones y de los resultados de las sociedades subordinadas. .

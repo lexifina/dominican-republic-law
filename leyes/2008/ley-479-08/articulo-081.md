@@ -1,0 +1,2 @@
+Artículo 81. Los socios comanditarios no podrán ser gerentes, representantes ni aún mandatarios ocasionales. Tampoco podrán intervenir en la gestión social.
+Párrafo.- En caso de contravención a las normas precedentes, serán solidariamente responsables como socios comanditados por las obligaciones de la sociedad que resulten de los actos prohibidos. Según el número y la importancia de éstos, podrán ser declarados responsables por todas las obligaciones o por algunas solamente.

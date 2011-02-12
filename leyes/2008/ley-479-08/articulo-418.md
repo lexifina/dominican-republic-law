@@ -1,0 +1,1 @@
+Artículo 418. Si la asamblea de clausura prevista en el artículo precedente no pudiera deliberar o si rehusare aprobar las cuentas del liquidador, se estatuirá al respecto por decisión judicial, sobre la demanda del liquidador o de cualquier otro interesado.

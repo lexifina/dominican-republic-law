@@ -1,0 +1,1 @@
+Artículo 241. Cada sociedad anónima será supervisada por uno o varios comisarios de cuentas que podrán tener suplentes de acuerdo con los estatutos. Serán personas físicas designadas por la asamblea general de accionistas, salvo lo que más adelante se indica.

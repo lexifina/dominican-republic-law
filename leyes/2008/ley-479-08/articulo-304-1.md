@@ -1,0 +1,1 @@
+Artículo 304-1.- (Agregado por la Ley 31-11, de fecha 11 de febrero de 2011) Los valores mobiliarios emitidos por las sociedades anónimas podrán representarse por medio de títulos o por anotaciones en cuenta.

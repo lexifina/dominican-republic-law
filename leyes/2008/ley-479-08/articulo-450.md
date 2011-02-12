@@ -1,0 +1,3 @@
+Artículo 450. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La empresa individual de responsabilidad limitada pertenece a una persona física y es una entidad dotada de personalidad jurídica propia, con capacidad para ser titular de derechos y obligaciones, los cuales forman un patrimonio independiente y separado de los demás bienes de la persona física titular de dicha empresa. Podrá realizar toda clase de operaciones civiles y comerciales, prestación de servicios, actividades industriales y comerciales.
+Párrafo I.- Las personas jurídicas no pueden constituir ni adquirir empresas de esta índole.
+Párrafo II.- La empresa individual de responsabilidad limitada podrá transformarse en sociedad.

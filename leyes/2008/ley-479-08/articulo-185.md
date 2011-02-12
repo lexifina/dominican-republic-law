@@ -1,0 +1,2 @@
+Artículo 185. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) Los fundadores de la sociedad a los cuales la nulidad es imputable, y los administradores que estén en funciones en el momento en el cual se incurra en una nulidad, podrán ser declarados solidariamente responsables de los daños resultantes del pronunciamiento de la nulidad para los accionistas o para los terceros.
+Párrafo.- La misma responsabilidad solidaria podrá ser pronunciada contra los accionistas cuyos aportes o ventajas particulares no hayan sido verificados y aprobados.

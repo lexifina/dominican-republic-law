@@ -1,0 +1,1 @@
+Artículo 170. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) Las personas autorizadas recibirán las suscripciones y el pago de las acciones en efectivo mediante la firma de un boletín de suscripción en el cual se indicará la entidad de intermediación financiera donde serán depositados los fondos.

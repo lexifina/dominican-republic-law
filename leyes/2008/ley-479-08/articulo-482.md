@@ -1,0 +1,4 @@
+Artículo 482.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Serán sancionadas con prisión de hasta dos (2) años y multa de hasta sesenta (60) salarios las personas, que a sabiendas, hayan incurrido en las siguientes actuaciones:
+a) Quienes impidan a un accionista, con legítimo derecho votar en una asamblea;
+b) Quienes se presenten falsamente como propietarios de acciones y hayan participado en las votaciones de una asamblea de accionistas, sea actuando directamente o mediante persona interpuesta; y
+c) Quienes hayan hecho acordar, garantizar o prometer ventajas para votar en cierto sentido o para no participar en las votaciones, así como aquéllos que hayan acordado, garantizado o prometido tales ventajas, cuando estas no hayan sido acordadas en los términos del artículo 194 de la presente ley.

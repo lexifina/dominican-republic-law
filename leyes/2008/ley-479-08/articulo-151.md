@@ -1,0 +1,1 @@
+Artículo 151. Los socios no gestores no tendrán acción contra los terceros ni quedarán obligados solidariamente frente a éstos, a menos que el gestor haya dado a conocer sus nombres con su consentimiento, en este caso los socios no gestores quedarán obligados solidariamente frente a los terceros.

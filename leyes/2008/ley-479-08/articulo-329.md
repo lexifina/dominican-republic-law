@@ -1,0 +1,2 @@
+Artículo 329. Los portadores de las obligaciones de una misma emisión estarán agrupados de pleno derecho, para la defensa de sus intereses comunes, en una masa con personalidad jurídica de carácter civil.
+Párrafo.- Sin embargo, en caso de emisiones sucesivas de obligaciones, la sociedad podrá, cuando una cláusula de cada contrato de emisión lo prevea, agrupar en una masa única los portadores de obligaciones que tengan derechos idénticos.

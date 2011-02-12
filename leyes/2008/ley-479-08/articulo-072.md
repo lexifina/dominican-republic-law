@@ -1,0 +1,1 @@
+Artículo 72. Las partes sociales o intereses no podrán ser representados por títulos negociables ni podrán ser cedidos sin el consentimiento unánime de todos los socios. Toda cláusula contraria se reputará no escrita.

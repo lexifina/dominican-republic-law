@@ -1,0 +1,1 @@
+Artículo 423. Los poderes del consejo de administración y de los gerentes terminarán a partir de la decisión judicial dictada por aplicación del artículo precedente o de la disolución de la sociedad si ésta es posterior.

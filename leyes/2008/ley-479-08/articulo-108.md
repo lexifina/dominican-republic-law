@@ -1,0 +1,1 @@
+Artículo 108.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las acciones en responsabilidad prevista en los artículos 103, párrafo II, y 105, prescribirán a los dos (2) años desde la comisión del hecho perjudicial, o, si éste ha sido disimulado, desde la fecha de su revelación.

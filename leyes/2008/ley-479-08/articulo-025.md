@@ -1,0 +1,1 @@
+Artículo 25. Las sociedades comerciales serán administradas por uno o varios mandatarios, asalariados o gratuitos, que podrán ser o no socios. Esos mandatarios podrán delegar en todo o en parte sus atribuciones, si el contrato de sociedad o los estatutos lo permiten, pero serán responsables frente a la sociedad por actos de las personas a quienes las deleguen.

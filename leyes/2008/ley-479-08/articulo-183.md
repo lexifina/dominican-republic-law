@@ -1,0 +1,2 @@
+Artículo 183. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) Dentro de los diez (10) días calendario que sigan al depósito referido en el artículo anterior, la Superintendencia de Valores emitirá una resolución de conformidad con el programa de constitución y declarará regular y definitivamente constituida la sociedad anónima de suscripción pública en cuestión.
+Párrafo.- La resolución aprobatoria será publicada en un periódico de circulación nacional y en la página web que mantenga la Superintendencia de Valores.

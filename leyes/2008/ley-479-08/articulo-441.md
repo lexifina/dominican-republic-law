@@ -1,0 +1,2 @@
+Artículo 441. La transformación no podrá modificar las participaciones de los socios en el capital de la sociedad. A cambio de las partes sociales que desaparezcan, los antiguos socios tendrán derecho a que se les asignen acciones, cuotas o intereses proporcionales al valor de las poseídas por cada uno de ellos.
+Párrafo.- Tampoco podrán sufrir reducción los derechos especiales distintos de las partes sociales, a no ser que sus titulares lo consientan expresamente.

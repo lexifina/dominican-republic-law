@@ -1,0 +1,3 @@
+Artículo 121. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) En caso de que la modificación estatutaria implique el aumento de capital por suscripciones dinerarias, las disposiciones del Artículo 92 de esta ley se aplicarán respecto de los depósitos de los fondos provenientes del pago de cuotas sociales.
+Párrafo I.- El retiro de los fondos provenientes de estas suscripciones podrá ser efectuado por un mandatario de la sociedad después que el depositario expida una certificación.
+Párrafo II.- Si el aumento del capital no se realiza en el plazo de tres (3) meses a partir del primer depósito de fondos podrán ser ejercidas acciones similares a las previstas en el Párrafo II del Artículo 92.

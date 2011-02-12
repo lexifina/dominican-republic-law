@@ -1,0 +1,1 @@
+Artículo 440. Habrá transformación cuando una sociedad regularmente constituida adopte otro tipo social. La sociedad no se disolverá; mantendrá su personalidad jurídica, sin alterar sus derechos y obligaciones.

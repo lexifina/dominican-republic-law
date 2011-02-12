@@ -1,0 +1,2 @@
+Artículo 99.- La cesión de las partes sociales deberá ser constatada por escrito. Se hará oponible a la sociedad por el depósito de un original del acto de cesión en el domicilio social contra entrega de una certificación del depósito por parte del gerente.
+Párrafo.- La cesión no se hará oponible a los terceros sino mediante el depósito e inscripción del original del acto de cesión en el Registro Mercantil.

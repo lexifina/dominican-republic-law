@@ -1,0 +1,1 @@
+Artículo 421. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Todas las acciones contra los socios no liquidadores, sus cónyuges, herederos u otros causahabientes, prescribirán a los dos (2) años contados desde la inscripción en el Registro Mercantil de la asamblea que decida la disolución de la sociedad.

@@ -1,0 +1,2 @@
+Artículo 369-10.- La Sociedad Anónima Simplificada se disolverá en los términos y condiciones establecidos en los artículos 298 al 303 de esta Ley y su liquidación se hará con arreglo a lo dispuesto en los artículos 408 al 439.
+Párrafo.- La Sociedad Anónima Simplificada podrá disolverse cuando acumule dos ejercicios sociales continuos en desuso. No se entenderá por desuso la tenencia de acciones, cuotas sociales, partes sociales, ser beneficiario de derechos inmobiliarios o el ejercicio de una profesión. Cualquier interesado podrá demandar la disolución en este caso.

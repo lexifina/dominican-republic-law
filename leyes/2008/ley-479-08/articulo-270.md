@@ -1,0 +1,1 @@
+Artículo 270. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) La Superintendencia de Valores podrá designar uno de sus funcionarios para asistir a las asambleas generales extraordinarias de las sociedades anónimas de suscripción pública.

@@ -1,0 +1,2 @@
+Artículo 439. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) En las sociedades anónimas que hayan incursionado en el mercado de valores la documentación concerniente a todo el proceso de liquidación será sometida a los requisitos de depósito y aprobación previstos por esta ley para las operaciones de fusión y escisión.
+Párrafo.- La Superintendencia de Valores, por vía normativa, detallará la referida documentación, independientemente de cualquier otra que pudiera requerir.

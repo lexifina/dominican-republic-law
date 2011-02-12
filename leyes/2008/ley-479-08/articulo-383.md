@@ -1,0 +1,3 @@
+Artículo 383. Las operaciones previstas en el artículo precedente podrán ser realizadas entre sociedades de diferentes clases.
+Párrafo I.- Dichas operaciones serán decididas por cada una de las sociedades interesadas, en las condiciones requeridas para la modificación de sus estatutos, salvo lo que a continuación se indica.
+Párrafo II.- Si la operación proyectada tiene por efecto aumentar las obligaciones de los socios de una o varias de las sociedades involucradas, no podrá ser decidida sino por el voto unánime de dichos socios. Si la operación conlleva la creación de sociedades nuevas, cada una de éstas será constituida según las reglas propias a la forma de la sociedad adoptada.

@@ -1,0 +1,3 @@
+Artículo 343. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) El aviso de convocatoria será insertado en más de un periódico de circulación nacional para las ofertas públicas, sin embargo para el de las ofertas privadas se hará mediante comunicación escrita con acuse de recibo.
+Párrafo I.- El plazo entre la fecha de la convocatoria y la de la asamblea deberá ser de quince (15) días por lo menos en la primera convocatoria y de seis (6) días en la convocatoria siguiente. En caso de convocatoria por decisión judicial, el juez podrá fijar un plazo diferente.
+Párrafo II.- Cuando una asamblea no pueda deliberar regularmente, por falta del quórum requerido, la segunda asamblea será convocada en la forma arriba prevista haciendo mención de la fecha de la primera.

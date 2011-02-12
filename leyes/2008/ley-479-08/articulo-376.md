@@ -1,0 +1,2 @@
+Artículo 376. La nulidad de una operación de fusión o de escisión sólo podrá resultar de la nulidad de la deliberación de una de las asambleas que haya decidido la operación o de la falta del depósito y la publicidad a que se refieren los Párrafos I y II del Artículo 386.
+Párrafo.- Cuando sea posible remediar la irregularidad susceptible de acarrear la nulidad, el tribunal apoderado de la acción en nulidad de una fusión o una escisión acordará a las sociedades interesadas un plazo para regularizar la situación.

@@ -1,0 +1,1 @@
+Artículo 15. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Dentro del mes siguiente a la suscripción del acto constitutivo o celebración de la asamblea de la sociedad y la empresa individual de responsabilidad limitada, según corresponda, deberá formularse la solicitud de matriculación en el Registro Mercantil.

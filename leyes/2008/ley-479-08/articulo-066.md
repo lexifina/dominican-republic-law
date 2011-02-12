@@ -1,0 +1,1 @@
+Artículo 66. Si a pesar de la oposición, se verificare el acto, contrato u operación con un tercero de buena fe, los socios quedarán obligados solidariamente a cumplirlo sin perjuicio de las acciones que procedan en contra del socio o de los socios que lo hubieren ejecutado.

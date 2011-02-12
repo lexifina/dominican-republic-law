@@ -1,0 +1,2 @@
+Artículo 225. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) Las convenciones aprobadas por la asamblea, así como las que ésta desapruebe, producirán sus efectos respecto de los terceros, salvo si son anuladas en caso de fraude.
+Párrafo.- Aún en ausencia de fraude, las consecuencias perjudiciales para la sociedad resultantes de las convenciones desaprobadas podrán ser puestas a cargo del administrador interesado y de los otros miembros del consejo de administración.

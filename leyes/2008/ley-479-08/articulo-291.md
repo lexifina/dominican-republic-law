@@ -1,0 +1,2 @@
+Artículo 291. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La reducción del capital suscrito y pagado deberá ser dispuesta por una asamblea general extraordinaria, la cual tendrá la facultad de delegar en el consejo de administración los poderes para realizar dicha medida. En ningún caso se deberá atentar contra la igualdad de los accionistas.
+Párrafo.- La resolución que aprueba el proyecto de reducción de capital suscrito y pagado, deberá ser publicada en un diario de circulación nacional, dentro de los diez (10) días de adoptada la misma.

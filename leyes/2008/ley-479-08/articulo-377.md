@@ -1,0 +1,2 @@
+Artículo 377. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las acciones en nulidad de la sociedad o de los actos y deliberaciones posteriores a su constitución prescribirán a los dos (2) años contados desde el día en que se incurrió en la nulidad, sin perjuicio de la caducidad prevista en el artículo 374.
+Párrafo.- Sin embargo, la acción en nulidad de una fusión o de una escisión de sociedades prescribirá a los seis (6) meses contados desde la fecha de la última inscripción en el Registro Mercantil que sea necesaria para la operación.

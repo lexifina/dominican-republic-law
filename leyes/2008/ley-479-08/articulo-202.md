@@ -1,0 +1,1 @@
+Artículo 202. En todo momento, cualquier accionista también tendrá derecho a obtener, en el domicilio social, la comunicación de los documentos e informaciones indicadas en el artículo anterior, concernientes a los tres (3) últimos ejercicios sociales, así como de las actas y las nóminas de presencias de las asambleas correspondientes a esos períodos.

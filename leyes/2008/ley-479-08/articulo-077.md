@@ -1,0 +1,2 @@
+Artículo 77. La razón social se formará con los nombres de uno o más comanditados, seguidos de las palabras “y compañía” u otros equivalentes, cuando en ella no figuren los nombres de todos los socios comanditados. A la razón social se le agregarán siempre las palabras “Sociedad en Comandita” o su abreviatura “S. en C.”
+Párrafo.- Los nombres de los socios comanditarios no podrán ser parte de la razón social. El socio comanditario cuyo nombre figure en la razón social responderá por las obligaciones sociales como si fuera socio comanditado.

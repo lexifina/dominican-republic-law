@@ -1,0 +1,2 @@
+Artículo 428. Si la disolución de la sociedad fuese pronunciada por decisión judicial, esta decisión designará uno o varios liquidadores. Si son varios, la decisión determinará si deberán actuar conjuntamente o podrán hacerlo por separado.
+Párrafo.- La remuneración de los liquidadores será fijada por decisión de quienes los designen. En su defecto, lo será posteriormente por el presidente de la Cámara Civil y Comercial del Juzgado de Primera Instancia del Distrito Judicial correspondiente al domicilio social a instancia del liquidador interesado.

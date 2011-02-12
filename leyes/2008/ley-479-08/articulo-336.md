@@ -1,0 +1,1 @@
+Artículo 336. Salvo restricción decidida por la asamblea general de obligacionistas, los representantes de la masa tendrán la facultad de realizar, en nombre de la misma, todos los actos de gestión para la defensa de los intereses comunes de los obligacionistas.

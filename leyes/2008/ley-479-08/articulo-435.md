@@ -1,0 +1,3 @@
+Artículo 435. Las decisiones previstas en el Artículo 433, serán tomadas según los requisitos dispuestos en los estatutos sociales o en las condiciones de quórum y de mayoría previstas para las asambleas generales extraordinarias, según la forma de la sociedad. Si la mayoría requerida no pudiere ser reunida, se estatuirá por auto dictado a instancia del liquidador o de cualquier interesado elevada al juez presidente de la Cámara Civil y Comercial del Juzgado de Primera Instancia del Distrito Judicial correspondiente al domicilio social.
+Párrafo I.- Cuando la deliberación implicase modificación de los estatutos, deberá ser tomada en las condiciones prescritas al efecto para cada forma de sociedad.
+Párrafo II.- Los socios liquidadores podrán tomar parte en el voto.

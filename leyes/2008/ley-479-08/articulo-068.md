@@ -1,0 +1,1 @@
+Artículo 68. Las decisiones que excedan los poderes reconocidos a los gerentes, la transferencia de partes de interés, el ingreso de nuevos socios, así como cualquier otra modificación estatutaria y la enajenación de la totalidad o de la mayor parte de los activos sociales serán tomadas por la unanimidad de los socios.

@@ -1,0 +1,1 @@
+Artículo 5. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las sociedades comerciales gozarán de plena personalidad jurídica a partir de su matriculación en el Registro Mercantil, a excepción de las sociedades accidentales o en participación

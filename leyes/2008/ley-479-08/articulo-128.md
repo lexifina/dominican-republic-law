@@ -1,0 +1,1 @@
+Artículo 128.- En caso de que exista un comisario de cuentas, se le comunicará el proyecto de reducción del capital, por lo menos cuarenta y cinco (45) días antes de la fecha en que se reúna la asamblea de socios convocada para decidir sobre este proyecto. El comisario dará a conocer a la asamblea su opinión sobre las causas y condiciones de la reducción.

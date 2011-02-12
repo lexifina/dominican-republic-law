@@ -1,0 +1,3 @@
+Artículo 117. La asamblea general extraordinaria de socios podrá acordar la modificación de los estatutos de la sociedad.
+Párrafo I.- En la convocatoria se expresarán, con la debida claridad, el texto que haya de modificarse. Cuando la modificación implique nuevas obligaciones para los socios o una categoría de ellos o afecte a sus derechos individuales, deberá adoptarse con el consentimiento de los interesados o afectados.
+Párrafo II.- La modificación se hará constar en el acta de la asamblea general extraordinaria que habrá de conocer la modificación estatutaria, y la misma se inscribirá en el Registro Mercantil.

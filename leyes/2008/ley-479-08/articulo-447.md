@@ -1,0 +1,1 @@
+Artículo 447. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las sociedades anónimas podrán transformarse en sociedades en nombre colectivo, comanditarias, de responsabilidad limitada o en anónima simplificada.

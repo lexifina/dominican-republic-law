@@ -1,0 +1,1 @@
+Artículo 60. La sociedad en nombre colectivo explotará su objeto social al amparo de una razón social compuesta por el nombre de uno o varios asociados seguida por las palabras “y compañía” o su abreviatura si en ella no figurasen los nombres de todos los socios.

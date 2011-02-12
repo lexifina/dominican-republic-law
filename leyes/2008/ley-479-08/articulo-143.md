@@ -1,0 +1,5 @@
+Artículo 143. La asamblea general ordinaria nombrará, en las condiciones fijadas por los estatutos, un consejo de vigilancia, compuesto por lo menos de tres (3) socios comanditarios. A pena de nulidad de su nombramiento, un socio comanditado no podrá ser miembro del consejo de vigilancia ni podrá participar en la designación de los miembros de dicho consejo.
+Párrafo I.- El consejo de vigilancia asumirá el control permanente de la gestión de la sociedad y dispondrá, a ese efecto, de los mismos poderes que los comisarios de cuentas.
+Párrafo II.- Este consejo deberá rendir a la asamblea general ordinaria anual un informe en el cual señalará las irregularidades e inexactitudes de las cuentas anuales.
+Párrafo III.-El consejo de vigilancia, en circunstancias de urgencia, podrá convocar la asamblea general de socios.
+Párrafo IV.- Los miembros del consejo de vigilancia serán responsables de las faltas personales cometidas en la ejecución de su mandato. Podrán ser declarados civilmente responsables de los delitos cometidos por los gerentes, si teniendo conocimiento de ellos, no lo hubieren revelado a la asamblea general.

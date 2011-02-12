@@ -1,0 +1,4 @@
+Artículo 361. Si la asamblea general de obligacionistas no aprobara las proposiciones indicadas en los Literales a) y d) del Artículo 351, el consejo de administración podrá proseguir con la oferta de rembolsar las obligaciones como a continuación se indica.
+Párrafo I.- Esta decisión del consejo de administración será publicada en las mismas condiciones en que se hizo la convocatoria de la asamblea, con la mención del órgano de publicidad y la fecha en la cual se insertó dicha convocatoria.
+Párrafo II.- El reembolso deberá ser reclamado por los obligacionistas en el plazo de tres (3) meses a contar de la publicación de la decisión del consejo de administración señalada en el párrafo precedente.
+Párrafo III.- La sociedad deberá rembolsar cada obligación en el plazo de treinta (30) días a partir de la reclamación del obligacionista.

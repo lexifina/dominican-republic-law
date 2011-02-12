@@ -1,0 +1,1 @@
+Artículo 453.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) El propietario deberá hacer las indicadas declaraciones y depósitos en el Registro Mercantil, dentro del mes siguiente a la fecha en que se haya otorgado el acto o documento correspondiente.

@@ -1,0 +1,1 @@
+Artículo 303. Respecto de los socios, la disolución producirá sus efectos a partir de su aprobación regular por la asamblea general extraordinaria o de su declaración en virtud de decisión judicial con el carácter de la cosa juzgada. Respecto de los terceros, desde su depósito e inscripción en el Registro Mercantil.

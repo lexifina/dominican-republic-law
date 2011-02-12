@@ -1,0 +1,1 @@
+Artículo 73. Consentida la cesión de las partes sociales, ésta deberá ser constatada por escrito y resultará oponible a la sociedad por el depósito de un original del acto de cesión en el domicilio social, debidamente acusado por el gerente. Frente a los terceros, la cesión de las partes sociales se hará oponible mediante la inscripción del acto en el Registro Mercantil.

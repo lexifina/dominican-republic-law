@@ -1,0 +1,1 @@
+Artículo 488. Las personas que acepten o conserven las funciones de comisarios de aportes no obstante las incompatibilidades e interdicciones previstas en la presente ley, serán sancionadas con multa de hasta sesenta (60) salarios.

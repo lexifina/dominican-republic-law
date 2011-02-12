@@ -1,0 +1,2 @@
+Artículo 194. Los pactos entre accionistas celebrados con el objeto de reglamentar, entre ellos, y por un período determinado, el control de la sociedad, la compra y venta de acciones, el ejercicio de los derechos de preferencia, la conducción de los negocios sociales, el voto colectivo, la composición del capital social o cualquier otro interés legítimo serán válidos cuando no sean contrarios a una regla de orden público, a una disposición imperativa de los estatutos o al interés social.
+Párrafo.- Estos convenios no podrán estipularse a perpetuidad.

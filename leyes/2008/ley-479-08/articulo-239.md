@@ -1,0 +1,1 @@
+Artículo 239. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Se considerará no escrita toda cláusula de los estatutos que tenga por propósito subordinar el ejercicio de la acción social a la opinión o la autorización de la asamblea general o que conlleve por adelantado renuncia al ejercicio de tal acción.

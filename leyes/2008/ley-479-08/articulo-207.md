@@ -1,0 +1,1 @@
+Artículo 207. Las copias de las actas de las asambleas de accionistas serán expedidas y certificadas válidamente por el presidente y el secretario del consejo de administración, o por sus sustitutos, de acuerdo con los estatutos de la sociedad. En caso de liquidación de la sociedad, serán válidamente certificadas por un solo liquidador.

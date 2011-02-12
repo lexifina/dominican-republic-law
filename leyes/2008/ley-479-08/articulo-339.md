@@ -1,0 +1,1 @@
+Artículo 339.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La remuneración de los representantes de la masa, deberá constar en el contrato de emisión, y quedará a cargo de la sociedad deudora.

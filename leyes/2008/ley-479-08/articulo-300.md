@@ -1,0 +1,2 @@
+Artículo 300. El juez de primera instancia, en atribuciones comerciales, en ocasión de demanda de cualquier interesado, podrá pronunciar la disolución de la sociedad anónima si el número de accionistas se ve reducido a menos de dos (2) desde hace más de un año.
+Párrafo.- Dicho tribunal podrá acordar a la sociedad un plazo máximo de seis (6) meses para regularizar la situación; y no podrá pronunciar la disolución si antes de que decida sobre el fondo la regularización se haya realizado.

@@ -1,0 +1,1 @@
+Artículo 282. El aumento del capital podrá realizarse por emisión de nuevas acciones o por el incremento del valor nominal de las ya existentes. La reserva legal no podrá ser objeto de incorporación al capital.

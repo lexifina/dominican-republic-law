@@ -1,0 +1,1 @@
+Artículo 525. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Una vez concluido el procedimiento de adecuación o transformación o expirado el plazo establecido por el artículo 521 para dichos procesos, las sociedades quedarán sujetas a las disposiciones de la presente ley.

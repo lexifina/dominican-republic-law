@@ -1,0 +1,1 @@
+Artículo 489. El comisario de cuentas que a sabiendas haya dado o confirmado informaciones falsas sobre la situación de la sociedad, será sancionado con prisión de hasta tres (3) años y multa de hasta sesenta (60) salarios.

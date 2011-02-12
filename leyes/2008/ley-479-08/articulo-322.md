@@ -1,0 +1,1 @@
+Artículo 322.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las obligaciones son títulos negociables que, en una misma emisión, confieren los mismos derechos de crédito para igual valor nominal.

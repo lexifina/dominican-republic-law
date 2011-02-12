@@ -1,0 +1,1 @@
+Artículo 408. Bajo reserva de las disposiciones del presente capítulo, la liquidación de las sociedades estará regida por las estipulaciones contenidas en los estatutos sociales o en el contrato de sociedad.

@@ -1,0 +1,2 @@
+Artículo 45. En las sociedades anónimas, cuando existan diferentes categorías de acciones, la distribución de dividendos en acciones será realizada conforme a la misma categoría que las acciones que hayan dado derecho al dividendo.
+Párrafo.- El incremento por reevaluación formará parte del patrimonio social y no será distribuible como dividendo hasta tanto se haya realizado la venta o disposición del activo reevaluado.

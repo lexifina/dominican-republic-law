@@ -1,0 +1,2 @@
+Artículo 467. El presente Título consagra los actos u omisiones que en la vida de toda sociedad comercial y empresa individual de responsabilidad limitada constituyen infracciones, sin perjuicio de las que otras leyes especiales puedan contemplar.
+Párrafo: Las penas en multas que en este Título se expresen en salarios, se deberán entender por el monto del salario mínimo del sector público vigente para la fecha en que esta pena se imponga en cada caso.

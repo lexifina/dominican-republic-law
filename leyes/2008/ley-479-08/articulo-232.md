@@ -1,0 +1,3 @@
+Artículo 232. Sobre proposición del presidente, el consejo de administración podrá dar mandato a una persona física para asistir al presidente como delegado del mismo; establecerá su remuneración y fijará la extensión y la duración de sus poderes, que respecto de los terceros, serán los mismos del presidente. Será revocable en cualquier momento por el consejo de administración, sobre proposición del presidente.
+Párrafo I.- El consejo de administración podrá conferir a uno o varios de sus miembros o a terceros, accionistas o no, mandatos especiales para uno o varios objetos determinados.
+Párrafo II.- Asimismo, el consejo podrá crear comisiones encargadas de estudiar los asuntos que para su examen y opinión les sean sometidos por dicho consejo o su presidente.

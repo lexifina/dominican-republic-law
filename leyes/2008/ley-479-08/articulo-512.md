@@ -1,0 +1,3 @@
+Artículo 512. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) El propietario a sabiendas que los activos propios de la empresa resultaren inferiores a la mitad (1/2) del capital de la misma, en razón de las pérdidas constatadas en los asientos contables, será sancionado con prisión de hasta un (1) año o multa de hasta cuarenta (40) salarios cuando:
+a) No haya decidido la disolución anticipada de la empresa en los dos (2) meses que sigan a la elaboración de las cuentas que constaten esas pérdidas;
+b) No haya depositado en la secretaría del tribunal, inscrito en el Registro Mercantil y publicado en un periódico de amplia circulación nacional, el acto contentivo de la decisión prevista en el literal anterior.

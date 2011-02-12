@@ -1,0 +1,2 @@
+Artículo 370. La nulidad de una sociedad o de un acto modificativo de los estatutos sólo podrá resultar de una disposición expresa de esta ley o de las que rijan la nulidad de los contratos. La nulidad de la sociedad no podrá resultar de la nulidad de las cláusulas prohibidas toda vez que se considerarán no escritas.
+Párrafo I.- La nulidad de los actos o deliberaciones no previstos en el párrafo anterior, sólo podrá resultar de la violación de una disposición imperativa de esta ley o de las que rijan los contratos.

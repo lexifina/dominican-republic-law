@@ -1,0 +1,1 @@
+Artículo 49. La oferta de pago de dividendos en partes sociales o acciones deberá ser comunicada simultáneamente a todos los socios, con la información del aumento del capital social autorizado que para esos fines haya sido realizado, si fuere el caso.

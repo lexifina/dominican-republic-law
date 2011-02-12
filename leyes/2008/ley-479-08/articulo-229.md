@@ -1,0 +1,1 @@
+Artículo 229. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) La retribución de los administradores deberá ser fijada en los estatutos o, en su defecto, dispuesta por resolución de una asamblea ordinaria.

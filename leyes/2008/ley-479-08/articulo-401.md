@@ -1,0 +1,1 @@
+Artículo 401. Las sociedades beneficiarias de los aportes resultantes de la escisión serán deudoras solidarias de los obligacionistas y de los acreedores no obligacionistas de la sociedad escindida, en lugar de ésta, sin que esta sustitución implique novación al respecto.

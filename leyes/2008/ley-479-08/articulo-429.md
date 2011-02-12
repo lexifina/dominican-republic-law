@@ -1,0 +1,3 @@
+Artículo 429. La duración del mandato del liquidador no podrá exceder de tres (3) años. Sin embargo, este mandato podrá ser renovado por los socios o por el presidente de la Cámara Civil y Comercial del Juzgado de Primera Instancia del Distrito Judicial correspondiente al domicilio social, según que el liquidador haya sido nombrado por aquellos o por decisión judicial.
+Párrafo I.- Si la asamblea de los socios no ha podido reunirse válidamente, el mandato será renovado por decisión judicial, a instancia del liquidador.
+Párrafo II.- Al solicitar la renovación de su mandato, el liquidador indicará las razones por las cuales la liquidación no ha podido ser clausurada, las medidas que considere pertinentes efectuar y los plazos que precisará la clausura de la liquidación.

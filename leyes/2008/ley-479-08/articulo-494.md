@@ -1,0 +1,1 @@
+Artículo 494.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Las personas que incurran en las prohibiciones señaladas en el artículo 332 serán sancionados con multa de hasta veinte (20) salarios.

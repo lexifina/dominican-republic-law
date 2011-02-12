@@ -1,0 +1,3 @@
+Artículo 295. El juez de los referimientos correspondiente al domicilio social podrá rechazar la oposición u ordenar el reembolso de los créditos o la constitución de garantías si la sociedad las ofrece y se juzgan suficientes.
+Párrafo I.- Las operaciones de reducción del capital no podrán comenzar durante el plazo establecido para la indicada oposición y, en su caso, antes de que se decida en primera instancia sobre la misma.
+Párrafo II.- Si el juez de los referimientos acoge la oposición, el procedimiento de reducción de capital será inmediatamente interrumpido hasta la constitución de garantías suficientes o hasta el reembolso de los créditos; si rechaza la oposición, las operaciones de reducción podrán comenzar.

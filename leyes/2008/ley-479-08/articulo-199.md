@@ -1,0 +1,1 @@
+Artículo 199. El presidente del consejo de administración deberá poner a disposición de los accionistas, a partir de la convocatoria, en el domicilio social, los documentos relacionados con los asuntos a tratar por la asamblea, de manera que los accionistas puedan emitir su juicio con conocimiento de causa.

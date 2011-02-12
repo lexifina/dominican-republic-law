@@ -1,0 +1,1 @@
+Artículo 348. Los obligacionistas no podrán ser representados en las asambleas generales por los miembros del consejo de administración, los comisarios de cuentas o los empleados de la sociedad deudora o de sociedades garantes de la totalidad o de parte de los compromisos de dicha sociedad, así como sus ascendientes, descendientes y cónyuges.

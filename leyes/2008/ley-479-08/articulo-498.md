@@ -1,0 +1,1 @@
+Artículo 498. Las disposiciones de los Artículos 487, 488, 489 y 490 serán aplicables a los gerentes de hecho o de derecho o a los comisarios de cuentas, si los hubiere, de las sociedades de responsabilidad limitada, según sea el caso.

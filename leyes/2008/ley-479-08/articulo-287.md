@@ -1,0 +1,1 @@
+Artículo 287. Las acciones resultantes del aumento del capital podrán ser emitidas por su valor nominal o por éste incrementado con una prima de emisión a pagar, si así lo dispone la asamblea general extraordinaria de accionistas. El importe de esa prima será recibido por los administradores para ser incorporado a los activos sociales.

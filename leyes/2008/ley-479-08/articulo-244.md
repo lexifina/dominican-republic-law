@@ -1,0 +1,1 @@
+Artículo 244.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los comisarios de cuentas no podrán ser nombrados administradores de la sociedad y sus subordinadas, ni de aquellas otras previstas en el literal c) del artículo 243, hasta después de que hayan transcurrido dos (2) años desde la cesación en sus funciones.

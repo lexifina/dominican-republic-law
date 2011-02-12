@@ -1,0 +1,1 @@
+Artículo 158. (Derogado por la Ley 31-11, de fecha 11 de febrero de 2011) Serán de suscripción privada aquellas sociedades anónimas no incluidas en las enunciaciones previstas en el artículo anterior.

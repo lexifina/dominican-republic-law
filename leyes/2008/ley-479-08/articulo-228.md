@@ -1,0 +1,1 @@
+Artículo 228. Los administradores estarán obligados a guardar reserva respecto de los negocios de la sociedad y de la información social a la que tengan acceso en razón de su cargo y que a la vez no haya sido divulgada oficialmente por la sociedad, salvo requerimiento de cualquier autoridad pública o judicial competente.

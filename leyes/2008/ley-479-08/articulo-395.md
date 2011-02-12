@@ -1,0 +1,6 @@
+Artículo 395. La sociedad absorbente será deudora de los acreedores no obligacionistas de la sociedad absorbida en lugar de ésta, sin que esta sustitución implique novación al respecto.
+Párrafo I.- Los acreedores no obligacionistas de las sociedades participantes en la operación de fusión y cuyos créditos sean anteriores a la publicidad dada al proyecto de fusión, podrán formar oposición a éste en el plazo de treinta (30) días a partir de la señalada publicación.
+Párrafo II.- La oposición deberá ser llevada ante el juez de los referimientos correspondiente al domicilio social de cualquiera de las sociedades participantes. Esta decisión podrá rechazar la oposición u ordenar el reembolso de los créditos o la constitución de garantías, si la sociedad absorbente las ofrece y sean juzgadas suficientes.
+Párrafo III.- A falta del reembolso de los créditos o de la constitución de las garantías ordenadas, la fusión será inoponible al acreedor.
+Párrafo IV.- La oposición formulada por un acreedor no tendrá por efecto ni suspender ni prohibir la continuación de las operaciones de fusión.
+Párrafo V.- No obstante lo anterior, serán válidos los acuerdos que autoricen al acreedor a exigir el reembolso inmediato de su crédito en caso de fusión de la sociedad deudora con otra sociedad.

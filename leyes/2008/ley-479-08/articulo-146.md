@@ -1,0 +1,1 @@
+Artículo 146.- Toda otra remuneración distinta a aquella prevista en los estatutos sólo podrá ser otorgada al gerente por asamblea general ordinaria. Ella sólo podrá ser reconocida con el acuerdo unánime de todos los socios comanditados, salvo cláusula en contrario.

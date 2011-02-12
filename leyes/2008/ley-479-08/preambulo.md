@@ -1,0 +1,12 @@
+Ley General de las Sociedades Comerciales y Empresas Individuales de Responsabilidad Limitada, No. 479-08.
+Ley No. 479-08
+CONSIDERANDO PRIMERO: Que las normas que sustancialmente organizan y rigen la vida de las sociedades comerciales dominicanas datan de principios del siglo XIX, siendo escasas las modificaciones operadas desde entonces;
+CONSIDERANDO SEGUNDO: Que en el contexto de una economía cada vez más abierta, global y competitiva constituye un imperativo ineludible la actualización de nuestra legislación societaria a partir de las corrientes reguladoras vigentes en el mundo;
+CONSIDERANDO TERCERO: Que en el marco de la legislación societaria actual, los principales procesos corporativos, especialmente aquellos que sustentan las concentraciones empresariales, se encuentran huérfanos de una regulación cónsona con los estándares normativos internacionales;
+CONSIDERANDO CUARTO: Que igualmente resulta imperativo la incorporación a nuestra legislación y prácticas corporativas de nuevas figuras societarias y esquemas empresariales como instrumentos idóneos para la organización y operación de negocios y la planificación patrimonial estratégica;
+CONSIDERANDO QUINTO: Que el país cuenta con un mercado de valores operativo e institucionalmente organizado, pero sin una ley que regule adecuadamente las sociedades que cotizan en ese mercado, habida cuenta que son las sociedades comerciales las que generan los productos financieros que sustentan el mismo; y
+CONSIDERANDO SEXTO: Que las disposiciones societarias contenidas en el Código de Comercio y en leyes complementarias deben ser sustituidas íntegramente por un nuevo instrumento legal que responda a los requerimientos presentes y futuros de la nación, en consistencia con los acuerdos, convenios y tratados suscritos y ratificados por la República Dominicana.
+VISTOS: • La Constitución de la República Dominicana de fecha 25 de julio del 2002;
+• El Título Tercero del Código de Comercio de la República Dominicana de fecha 16 de abril de 1884, relativo a las compañías, que comprende los artículos desde el 18 hasta el 64, tal como resultó modificado por las leyes 262 del 21 de febrero de 1919; 1041 del 21 de noviembre de 1935; 1145 del 21 de agosto de 1936; 813 del 19 de febrero de 1945 y la 127 del 9 de abril de 1980;
+• El Código Penal de la República Dominicana de fecha 20 de agosto de 1884; y
+• El Código Civil de la República Dominicana de fecha 17 de abril de 1884.

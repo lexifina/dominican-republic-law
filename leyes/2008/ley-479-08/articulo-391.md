@@ -1,0 +1,1 @@
+Artículo 391. Los comisarios para la fusión estimarán también, bajo su responsabilidad, el valor de los aportes en naturaleza y las ventajas particulares, si los hubieren, respecto de los cuales harán el correspondiente informe.

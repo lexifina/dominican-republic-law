@@ -1,0 +1,6 @@
+Artículo 200. (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Durante los quince (15) días precedentes a la celebración de cualquier asamblea, todo accionista tendrá derecho a obtener comunicación de:
+a) La lista de los accionistas de la sociedad, que debe estar certificada por el presidente del consejo de administración, y,
+b) Los proyectos de resolución que serán sometidos a la asamblea por quien convoca.
+Párrafo I.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Además, antes de los cinco (5) días precedentes a la asamblea, uno o varios accionistas que representen por los menos la vigésima parte (1/20) del capital social suscrito y pagado, tendrán la facultad de depositar, para su conocimiento y discusión, proyectos de resoluciones relativos a los asuntos del orden del día.
+Párrafo II.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Los accionistas podrán obtener comunicación de los proyectos mencionados en el párrafo anterior desde que sean depositados.
+Párrafo III.- (Modificado por la Ley 31-11, de fecha 11 de febrero de 2011) Todos los accionistas tendrán la facultad de plantear por escrito, con cinco (5) días de antelación a la asamblea, preguntas que el consejo de administración estará obligado a contestar en el curso de la sesión de la asamblea.

@@ -1,0 +1,6 @@
+Artículo 74. La sociedad se disolverá por la muerte de uno de los socios, a menos que:
+a) Se haya estipulado que en caso de muerte de uno de ellos, la sociedad pueda continuar con sus herederos o solamente con los socios sobrevivientes, salvo previsión que para convertirse en socio el heredero deba ser aceptado por la sociedad.
+b) Se haya estipulado que la sociedad pueda continuar, sea con el cónyuge sobreviviente, sea con uno o varios de los herederos, sea cualquiera persona designada por los estatutos o por disposición testamentaria, si así lo autorizaren los estatutos sociales.
+Párrafo I.- Cuando la sociedad continúe con los socios sobrevivientes, el heredero será solamente acreedor de la sociedad y sólo tendrá derecho al valor de los derechos de su causante. El heredero tendrá igualmente derecho a ese valor si se ha estipulado que para convertirse en socio deba ser aceptado por la sociedad y si esa aceptación le haya sido rechazada.
+Párrafo II.- Cuando la sociedad continúe en las condiciones previstas en el párrafo arriba indicado, el beneficiario de la estipulación deberá a la sucesión el valor de los derechos que le sean atribuidos.
+Párrafo III.- En todos los casos previstos en el presente artículo, el valor de los derechos sociales será determinado al día del fallecimiento del socio.

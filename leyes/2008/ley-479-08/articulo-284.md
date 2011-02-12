@@ -1,0 +1,3 @@
+Artículo 284. En los aumentos del capital con emisión de nuevas acciones, ordinarias o preferidas, los antiguos accionistas podrán ejercer el derecho a suscribir un número de acciones proporcional a la cantidad que le pertenezcan dentro del capital suscrito y pagado.
+Párrafo I.- Este derecho de suscripción preferente podrá ser renunciable por su titular y transferible; no podrá ser afectado sin su consentimiento expreso, con las excepciones que se indicarán más adelante.
+Párrafo II.- En caso de aumento con cargo a las reservas, la misma regla de distribución se aplicará para la asignación de los derechos sobre las nuevas acciones.
