@@ -1,0 +1,2 @@
+Artículo 98. El Certificado de Deuda contendrá: el nombre y domicilio del deudor; el período a que corresponde; origen y monto de la deuda tributaria o de las sanciones pecuniarias en su caso; número de registro del contribuyente o responsable, si lo hubiere; referencia al documento que determinó la deuda, así como cualesquiera otras indicaciones que la Administración Tributaria estime necesarias.
+Párrafo I. El Certificado de Deuda podrá incluir varios deudores morosos sin que por ello el título pierda su naturaleza y efectos jurídicos.

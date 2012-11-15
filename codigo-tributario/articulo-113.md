@@ -1,0 +1,1 @@
+Artículo 113. Todas las excepciones deberán oponerse en un mismo escrito, expresando con claridad y precisión los hechos y medios de pruebas que se harán valer por el ejecutado, acompañándose los documentos que sirvan de fundamento a las excepciones.

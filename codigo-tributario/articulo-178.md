@@ -1,0 +1,1 @@
+Artículo 178. Abandono De Procedimientos. Cuando las partes abandonen expresamente un procedimiento, éste será sobreseído por un simple acto. Cuando se abstengan de ampliar sus instancias o defensas, se dictará sentencia sobre el caso.

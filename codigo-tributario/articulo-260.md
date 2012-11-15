@@ -1,0 +1,2 @@
+Artículo 260. En los casos de los incisos 4) y 5) del artículo precedente, el funcionario o empleado se sancionará con una pena pecuniaria que no excederá del 25% de su sueldo mensual, según la gravedad del caso, la que será descontada por la Tesorería Nacional.
+Párrafo I. En los demás casos procederá la suspensión sin disfrute de sueldo hasta por tres meses o la destitución de su cargo, de acuerdo con la gravedad del caso.

@@ -1,0 +1,1 @@
+Artículo 75. Para evitar que desaparezcan los antecedentes que prueben la infracción o que se consumen los hechos que la constituyen o para garantizar el cumplimiento de la sanción, podrá ordenarse durante el procedimiento, entre otras, las medidas que autoriza el Artículo 44, así como cualquier otra medida que se estime necesaria.

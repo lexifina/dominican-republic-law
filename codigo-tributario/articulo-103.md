@@ -1,0 +1,1 @@
+Artículo 103. Cuando el funcionario actuante encontrare oposición por parte del embargado o terceras personas que hagan impracticable o insuficiente el embargo, podrá aquél requerir directamente el auxilio de la fuerza pública para trabar del mismo.

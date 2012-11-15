@@ -1,0 +1,2 @@
+Artículo 223. Si no fuere posible el comiso por no poder aprehenderse las mercancías o efectos, será reemplazado por una sanción pecuniaria igual al valor de éstos.
+Párrafo I. Si a juicio del órgano que aplica la sanción, existiere una diferencia apreciable de valor entre las mercancías en infracción y los objetos utilizados para cometerla, se sustituirá el comiso de éstos por una sanción pecuniaria de dos a cinco veces el valor de las mercancías en infracción, siempre que los responsables no sean reincidentes en el mismo tipo de infracción.

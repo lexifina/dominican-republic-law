@@ -1,0 +1,1 @@
+Artículo 201. Cuando este Código califica determinados hechos como casos constitutivos de infracciones, se entenderá que ellas se han configurado cualquiera que haya sido la intención, causa o motivo tenido por el autor al ejecutarlos. El presunto infractor, sólo se librará de responsabilidad probando que no se produjo el hecho constitutivo de la infracción.

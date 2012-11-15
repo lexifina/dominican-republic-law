@@ -1,0 +1,1 @@
+Artículo 229. La prescripción de la acción para perseguir la aplicación de sanciones por infracciones, sólo se suspenderá hasta que recaiga resolución firme, en el procedimiento para la aplicación de sanciones.

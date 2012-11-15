@@ -1,0 +1,1 @@
+Artículo 18. De La Compensación. Cuando los sujetos activo y pasivo de la obligación tributaria son deudores recíprocos uno del otro, podrá operarse entre ellos una compensación parcial o total que extinga ambas deudas hasta el límite de la menor.

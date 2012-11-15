@@ -1,0 +1,1 @@
+Artículo 152. El Procurador General Tributario tendrá los Abogados Ayudantes, requeridos para el mejor desempeño de sus funciones, que podrán hacer sus veces en todos los casos de ausencia o impedimento de aquél.

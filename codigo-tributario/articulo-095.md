@@ -1,0 +1,1 @@
+Artículo 95. Luego de iniciado el juicio de ejecución no procederá excepción o recurso del contribuyente o responsable, sino por la vía de la acción de repetición o reembolso y previo pago de las costas, gastos e intereses que correspondan.

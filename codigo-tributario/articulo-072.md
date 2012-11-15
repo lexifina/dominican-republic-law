@@ -1,0 +1,1 @@
+Artículo 72. El acta se remitirá a quien corresponda conocer del procedimiento, el cual oportunamente dispondrá su notificación al imputado y ordenará todas las medidas y diligencias que considere necesarias para mejor resolver.

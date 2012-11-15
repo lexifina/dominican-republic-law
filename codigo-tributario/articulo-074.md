@@ -1,0 +1,2 @@
+Artículo 74. Notificada el acta al imputado, por constancia administrativa éste podrá en el plazo de 5 días contados desde la notificación, formular los alegatos que estime procedentes, para hacer valer sus derechos.
+Párrafo I. Estos alegatos sólo serán referidos a probar la inexistencia de los hechos que se le imputan o alguna de las causales de excusabilidad a que se refiere el Artículo 222, debiendo indicar con claridad y precisión los medios de pruebas que piensa hacer valer.

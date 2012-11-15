@@ -1,0 +1,1 @@
+Artículo 36. Las normas de carácter general que dicte la Administración Tributaria, siempre que se ajusten a la constitución y las leyes, no son susceptibles de recurso en sede administrativa ni en sede jurisdiccional, por vía principal; pero podrán ser impugnadas por vía de excepción por ante los tribunales cuando contravengan la constitución y la presente ley.

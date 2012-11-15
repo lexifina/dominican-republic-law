@@ -1,0 +1,1 @@
+Artículo 211. Los sujetos de las obligaciones tributarias que tengan la calidad de patronos o empleadores, serán responsables de las sanciones pecuniarias aplicadas a sus dependientes por su actuación como tales.

@@ -1,0 +1,1 @@
+Artículo 191. Procederá el mandamiento de arresto contra aquel que fuere sorprendido violando cualquiera de las disposiciones de las leyes tributarias, que se presuman delitos, cuando la urgencia, gravedad y naturaleza del hecho así lo requieran, salvo el caso en que se haya establecido un procedimiento judicial distinto.

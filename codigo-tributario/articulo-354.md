@@ -1,0 +1,1 @@
+Artículo 354.- Forma De Pago En Caso De Importaciones. En el caso de la importación de bienes el impuesto se liquidará y pagará conjuntamente con los impuestos aduaneros correspondientes, en la forma y condiciones que establezcan los Reglamentos.

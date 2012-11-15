@@ -1,0 +1,1 @@
+Artículo 235. Cuando se trate de personas jurídicas, sucesiones indivisas y demás entidades colectivas o en el caso de los incapaces, la pena de prisión se ejecutará en las personas de sus representantes.

@@ -1,0 +1,3 @@
+Artículo 214. Incurren en responsabilidad, los que actuando en el ejercicio de su profesión, participen dolosamente en una infracción de tipo delictual, en cualquiera de las formas previstas en el artículo anterior.
+Párrafo I. Se consideran profesionales, a los efectos del presente artículo, las personas que por título, oficio o actividad habitual, sean personas especializadas o versadas en materia tributaria.
+Párrafo II. Sin perjuicio de la que les corresponda por su responsabilidad de acuerdo con el artículo anterior, podrá aplicárseles accesoriamente a los profesionales, la inhabilitación para el ejercicio de la profesión por el término que se fije, de acuerdo con la gravedad del hecho.

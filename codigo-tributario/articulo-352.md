@@ -1,0 +1,2 @@
+Artículo 352.- Registro. Los contribuyentes de este impuesto deberán inscribirse en el Registro Nacional de Contribuyentes. La Secretaría de Estado de Finanzas o la Dirección General de Impuestos Internos, si así le fuere delegado por la primera, establecerá y mantendrá al día un Registro que contenga una relación de todos los contribuyentes a que se refiere el artículo 337.
+a) Plazo para inscribirse en el Registro. Los contribuyentes de este impuesto deberán inscribirse en dicho registro dentro de los 30 días a partir del inicio de sus actividades gravadas.

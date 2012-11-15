@@ -1,0 +1,1 @@
+Artículo 171. Todo asunto sometido al Tribunal Contencioso Tributario deberá ser fallado de modo definitivo dentro de los sesenta días del apoderamiento del Tribunal, salvo en los asuntos considerados nuevos o de especial importancia por el Presidente, o cuando se hayan dictado sentencias disponiendo medidas de instrucción, en lo que el plazo será de noventa días.

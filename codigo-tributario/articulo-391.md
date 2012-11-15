@@ -1,0 +1,1 @@
+Artículo 391. La prescripción de que trata este Código, iniciada bajo el imperio de una ley anterior, y que no se hubiere completado aún al momento de su entrada en vigencia, se regirá por aquella ley.

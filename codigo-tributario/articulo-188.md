@@ -1,0 +1,1 @@
+Artículo 188. La persona afectada interpondrá este recurso mediante instancia en que especificará las gestiones realizadas y el perjuicio que le pudiere ocasionar la demora. Presentará además copia de los escritos mediante los cuales se ha urgido el trámite.

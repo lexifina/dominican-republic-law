@@ -1,0 +1,1 @@
+Artículo 193. El representante del Ministerio Público una vez apoderado dictará mandamiento de conducencia o arresto, pudiendo suspenderlos si del interrogatorio que haga se desprenden motivos justificados.

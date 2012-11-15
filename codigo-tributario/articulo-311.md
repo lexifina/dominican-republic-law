@@ -1,0 +1,1 @@
+Artículo 311.- Deber De Entregar Prueba De La Retención Efectuada. Los Agentes de Retención deberán entregar a los contribuyentes por cuya cuenta paguen el impuesto, una prueba de la retención efectuada, en la forma que indique el Reglamento.

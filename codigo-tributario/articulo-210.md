@@ -1,0 +1,1 @@
+Artículo 210. Cuando un mandatario, representante, administrador o encargado incurriere en infracción será responsable de ésta, sin perjuicio de la responsabilidad por sanciones no privativas de libertad, tales como el comiso y la clausura, que deba soportar el representado y de la responsabilidad solidaria de ambos por las sanciones pecuniarias.

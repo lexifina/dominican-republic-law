@@ -1,0 +1,1 @@
+Artículo 374. Responsabilidad De Los Intermediarios. Los intermediarios entre los responsables y los consumidores, son deudores del tributo por la mercadería gravada cuya adquisición no fuere fehacientemente justificada mediante la documentación pertinente, que posibilite asimismo la correcta identificación del enajenante.

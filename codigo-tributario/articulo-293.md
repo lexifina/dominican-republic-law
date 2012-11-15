@@ -1,0 +1,1 @@
+Artículo 293.- TRATAMIENTO DE LAS DIFERENCIAS CAMBIARIAS. Las diferencias cambiarias no realizadas al cierre del ejercicio fiscal, derivadas de los ajustesen la tasa de cambio, sobre las divisas propiedad de una empresa o sobre obligaciones en moneda extranjera se considerarán como renta imputable a los fines del impuesto o como gastos deducibles del negocio según fuere el caso.

@@ -1,0 +1,1 @@
+Artículo 387. Aprobación Del Reglamento Para La Aplicación De Este Impuesto. El Poder Ejecutivo dictará el Reglamento para la aplicación de este impuesto, dentro de los noventa (90) días siguientes a la promulgación de este Código.

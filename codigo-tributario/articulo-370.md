@@ -1,0 +1,1 @@
+Artículo 370. Registro Nacional De Contribuyentes. Los contribuyentes de este impuesto deberán inscribirse en el Registro Nacional de Contribuyentes, en la forma y condiciones que establezca el Reglamento.

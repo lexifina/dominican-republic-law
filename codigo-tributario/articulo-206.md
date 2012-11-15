@@ -1,0 +1,1 @@
+Artículo 206. Cuando un mismo hecho configure más de una de las faltas señaladas en este Código, se sancionará independientemente cada una de ellas, si se trata de falta. En materia delictual se aplicará el principio de no cúmulo de pena y se castigará con la pena mayor, salvo disposición contraria de esta Ley.

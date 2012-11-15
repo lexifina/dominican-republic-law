@@ -1,0 +1,1 @@
+Artículo 165. Cuando una parte alegue la incompetencia del Tribunal Contencioso Tributario, el Tribunal dictará sentencia en la cual deberá decidir sobre la cuestión de la competencia o incompetencia, previo dictamen del Procurador General Tributario, dentro de los quince días de recibir la instancia.

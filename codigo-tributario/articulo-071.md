@@ -1,0 +1,1 @@
+Artículo 71. El acta a que se refiere el artículo anterior se presume verdadera hasta tanto no se pruebe lo contrario, salvo que el funcionario actuante esté investido de fe pública, caso en el cual el acta deberá ser, atacada mediante el procedimiento legal aplicable a este caso.

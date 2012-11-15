@@ -1,0 +1,1 @@
+Artículo 369.Importaciones. En el caso de importación de bienes el impuesto se liquidará y pagará conjuntamente con los impuestos aduaneros correspondientes, en la forma y condiciones que establezca el Reglamento.

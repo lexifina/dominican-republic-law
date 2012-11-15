@@ -1,0 +1,1 @@
+Artículo 116. Vencido el término para rendir las pruebas, o cumplidas las medidas para mejor resolver que se hubiesen decretado, el Ejecutor Administrativo, dentro del plazo de cinco días, deberá pronunciarse sobre la oposición.

@@ -1,0 +1,1 @@
+Artículo 173. Dentro de los cinco días de recibir la notificación el Procurador General Tributario comunicará la sentencia a la Administración Tributaria cuya representación hubiere tenido en el caso de que se tratare.

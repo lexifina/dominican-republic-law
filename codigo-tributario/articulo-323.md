@@ -1,0 +1,5 @@
+Artículo 323.- Aprobación Previa Para El Traslado De Derechos Y Obligaciones Fiscales. Cuando se reorganicen sociedades y en general empresas de cualquier naturaleza, los resultados que pudieran surgir como consecuencia de la reorganización no estarán alcanzados por el impuesto de esta ley y los derechos y obligaciones fiscales correspondientes a los sujetos que se reorganizan, serán trasladados a las entidades continuadoras. En todo caso, la reorganización deberá efectuarse conforme a las normas que establezca el Reglamento, y el traslado de los derechos y obligaciones fiscales quedará acreditado supeditado a la aprobación previa de la Administración.
+Se entiende por reorganización:
+a) La fusión de empresas, pre-existentes a través de una tercera que se forme o por absorción de una de ellas.
+b) La escisión o división de una empresa en otras que continúen en conjunto las operaciones de la primera.
+c) Las ventas y transferencias de una entidad a otra que, a pesar de ser jurídicamente independientes, constituyan un conjunto económico.

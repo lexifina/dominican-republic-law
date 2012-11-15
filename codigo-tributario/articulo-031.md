@@ -1,0 +1,1 @@
+Artículo 31. Fe Pública.(Modificado por la Ley No.227-06, de fecha 19 de junio del 2006, de Autonomía de la DGII). Los funcionarios de los órganos de la Administración Tributaria autorizados de manera explícita por éste Código y las leyes tributarias, tendrán fe pública respecto a las actuaciones en que intervengan en ejercicio de sus funciones propias.

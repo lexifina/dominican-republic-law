@@ -1,0 +1,3 @@
+Artículo 146. El Tribunal Contencioso Tributario tendrá su asiento en Santo Domingo, y se compondrá de un Juez Presidente, un Juez Vicepresidente y tres jueces, elegidos por el Senado de la República.
+NOTA I: (La Ley No.13-07, del 2007, sobre Tribunal Contencioso Tributario y Administrativo, dispuso lo siguiente en su Artículo 2.- Creación de Salas. La Suprema Corte de Justicia, en atención al número de asuntos, podrá dividir el Tribunal Contencioso Tributario y Administrativo en Salas integradas por no menos de tres (3) magistrados, entre los cuales habrá un Presidente.)
+NOTA 2: (De acuerdo con la Constitución de la República actual, los jueces son nombrados por el Consejo de la Magistratura, no por el Senado).

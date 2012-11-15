@@ -1,0 +1,1 @@
+Artículo 122. La subasta se hará bajo la presencia de un funcionario designado al efecto por la Administración ejecutante, quien firmará el acta de adjudicación junto con el adjudicatario y la persona indicada por la Caja de Ahorros para Obreros y Monte de Piedad para llevar a cabo la subasta.

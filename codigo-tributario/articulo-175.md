@@ -1,0 +1,1 @@
+Artículo 175. En ningún caso, sin embargo, las entidades públicas podrán ser objeto de embargos, secuestros o compensaciones forzosas. El Tribunal podrá dictar medidas administrativas en ejecución de sus propias sentencias.

@@ -1,0 +1,3 @@
+Artículo 14. Domicilio De Elección. Los contribuyentes y responsables podrán fijar un domicilio de elección con la aprobación expresa de la Administración Tributaria. El domicilio así constituido es válido para los efectos tributarios.
+Párrafo I. En todas las actuaciones ante la administración deberá consignarse este domicilio, el cual se considerará legalmente existente mientras la Administración Tributaria no apruebe expresamente el cambio de él.
+Párrafo II. La Administración Tributaria podrá en cualquier momento requerir la constitución de un nuevo domicilio, cuando fuere conveniente para sus fines.

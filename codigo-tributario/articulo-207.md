@@ -1,0 +1,2 @@
+Artículo 207. Habrá reincidencia siempre que el sancionado por sentencia o resolución firme, cometiere una nueva infracción del mismo tipo específico, dentro del plazo de prescripción establecido para sancionar el hecho ilícito cometido.
+Párrafo I. Habrá reiteración de infracciones cuando el imputado incurriere en nueva infracción del mismo tipo específico dentro del plazo de prescripción, sin que mediare aplicación de sanciones.

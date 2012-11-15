@@ -1,0 +1,2 @@
+Artículo 212. Las personas jurídicas y demás entidades podrán ser sancionadas por faltas tributarias sancionadas con sanciones pecuniarias directa o indirectamente, sin necesidad de establecer la responsabilidad de una persona física.
+Párrafo I. Sin perjuicio de la responsabilidad de las personas jurídicas o entidades, sus representantes, directores, gerentes, administradores o mandatarios podrán ser sancionados por su actuación personal en la infracción.

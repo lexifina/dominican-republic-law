@@ -1,0 +1,1 @@
+Artículo 145. A los efectos del artículo anterior ninguna persona será recibible en un recurso contencioso tributario si no reside en el país, o ha constituido en él, antes del recurso, un apoderado formalmente conocido por la jurisdicción o administración contra la cual se recurre.

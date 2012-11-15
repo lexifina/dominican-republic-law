@@ -1,0 +1,1 @@
+Artículo 177. Notificación. Todas las notificaciones a que se refiere esta ley se harán por correo certificado de entrega especial. Las partes podrán utilizar el ministerio de alguaciles, a sus propias expensas, cuando así lo deseen. Estos actos no requerirán registro.

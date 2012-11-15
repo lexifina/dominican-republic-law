@@ -1,0 +1,1 @@
+Artículo 258. Incumplimiento De Los Deberes Formales De Los Funcionarios Y Empleados De La Administración Tributaria. Incurre en esta infracción el funcionario o empleado de la Administración Tributaria que violando los deberes de su cargo, en especial los establecidos en este Código, provoque un perjuicio económico al fisco o al contribuyente o responsable.

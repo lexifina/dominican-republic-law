@@ -1,0 +1,1 @@
+Artículo 215. Los autores, coautores, cómplices y encubridores, responden solidariamente por las costas y demás gastos procesales, sin perjuicio de la responsabilidad en el pago de la obligación tributaria, que pudiere corresponderles.

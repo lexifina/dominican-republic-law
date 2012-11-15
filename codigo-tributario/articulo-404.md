@@ -1,0 +1,1 @@
+Artículo 404. Tasa. (Renumerado por el Artículo 20 de la Ley 557-05 de fecha 13 de diciembre del año 2005). La tasa del impuesto será del uno por ciento (1%) anual, calculado sobre el monto total de los activos imponibles.

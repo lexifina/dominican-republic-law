@@ -1,0 +1,1 @@
+Artículo 43. La Administración Tributaria podrá cambiar de criterio respecto a una materia consultada. Este nuevo criterio deberá recogerse en una norma general publicada de acuerdo con el Artículo 37 y surtirá efecto respecto de todos los hechos generadores pendientes a la fecha de dicha publicación o posteriores a ella.

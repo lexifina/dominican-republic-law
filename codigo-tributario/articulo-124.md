@@ -1,0 +1,1 @@
+Artículo 124. Podrán hacerse posturas por escrito antes de la fecha fijada para la subasta, debiendo acompañarse conjuntamente con dicho escrito el recibo del diez por ciento del valor que se ofrece, depositado en la forma indicada en el artículo anterior; suma que se abonará al precio de la subasta o se le restituirá al depositante en caso de no resultar adjudicatario.

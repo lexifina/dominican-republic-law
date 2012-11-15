@@ -1,0 +1,1 @@
+Artículo 181. Inhibición Y Recusación De Los Jueces. Los Jueces del Tribunal Contencioso Tributario podrán inhibirse y serán recusables por las mismas causas de inhibición o recusación de los Jueces del orden judicial. El propio Tribunal decidirá esos casos.

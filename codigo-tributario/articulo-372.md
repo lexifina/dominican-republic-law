@@ -1,0 +1,1 @@
+Artículo 372. La Administración Tributaria podrá imponer a los responsables, con o sin cargo, una intervención en sus establecimientos, como asimismo, establecer un régimen de inventario permanente. El Reglamento, determinará las causas o circunstancias en razón de las cuales se podrán adoptar tales medidas.

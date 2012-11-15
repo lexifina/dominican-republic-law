@@ -1,0 +1,1 @@
+Artículo 73. El procedimiento será secreto hasta tanto se notifique el acta al afectado. La notificación del acta producirá la suspensión de la prescripción de la acción sancionatoria, hasta tanto haya decisión firme sobre el caso.

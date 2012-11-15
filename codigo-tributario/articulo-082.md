@@ -1,0 +1,1 @@
+Artículo 82. La Administración Tributaria fundamentado el riesgo y comprobado la existencia del crédito o por lo menos una presunción grave de la existencia del mismo, por documentos emanados del contribuyente o por actos o documentos de la misma administración, podrá realizar las medidas cautelares establecidas en el artículo anterior.

@@ -1,0 +1,1 @@
+Artículo 68. El pago indebido o en exceso de tributos, recargos, intereses o sanciones pecuniarias, dará lugar al procedimiento administrativo de reembolso por ante la Administración Tributaria. En caso de que el contribuyente no se sintiere satisfecho en sus pretensiones, podrá incoar la acción de repetición o reembolso del mismo.

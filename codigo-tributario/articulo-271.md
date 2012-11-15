@@ -1,0 +1,1 @@
+Artículo 271.- Rentas Gravadas Del Que Pase A Ser Residente. Las personas naturales nacionales o extranjeras que pasen a residir en la República Dominicana, sólo estarán sujetas al impuesto sobre sus rentas de fuente extranjera, apartir del tercer año o período gravable a contar de aquel en que se constituyeron en residentes.

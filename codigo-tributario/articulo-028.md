@@ -1,0 +1,1 @@
+Artículo 28. Los créditos por tributos, recargos, intereses y sanciones pecuniarias gozan del derecho general de privilegio sobre todos los bienes del deudor y tendrán aun en caso de quiebra o liquidación prelación para el pago sobre los demás créditos, con excepción de las pensiones alimenticias debidas por ley y de los salarios.

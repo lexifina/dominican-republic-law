@@ -1,0 +1,1 @@
+Artículo 245. En caso de que en relación con la materia tributaria, se incurriere en delitos comunes, previstos y sancionados en la Legislación Penal Común, la responsabilidad por éstos se perseguirá independientemente de la que corresponda por infracciones pecuniarias.

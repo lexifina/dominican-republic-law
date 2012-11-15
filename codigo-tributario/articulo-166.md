@@ -1,0 +1,1 @@
+Artículo 166. Las sentencias de los Tribunales del orden judicial tendrán autoridad de cosa juzgada entre las partes ante el Tribunal Contencioso a excepción de la materia tributaria propiamente dicha.

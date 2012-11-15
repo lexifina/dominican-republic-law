@@ -1,0 +1,1 @@
+Artículo 183. Licencias, Vacaciones Y Pensiones. En materia de licencias, vacaciones y pensiones, los jueces del Tribunal Contencioso Tributario, el Procurador General Tributario y los funcionarios y empleados de ambos, se regirán por las leyes y Reglamentos correspondientes.

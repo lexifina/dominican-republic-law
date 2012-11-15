@@ -1,0 +1,23 @@
+Artículo 299.- No estarán sujetas a este impuesto:
+a) Las rentas del Estado, del Distrito Nacional, de los Municipios, de los Distritos Municipales y de los establecimientos públicos en cuanto no provengan de actividades empresariales de naturaleza comercial o industrial, desarrolladas con la participación de capitales particulares o no.
+b) Las rentas de las Cámaras de Comercio y Producción.
+c) Las rentas de las instituciones religiosas, cuando se obtengan por razón directa del culto.
+d) Las rentas que obtengan las entidades civiles del país de asistencia social, caridad, beneficencia, y los centros sociales, literarios, artísticos, políticos, gremiales y científicos, siempre que tales rentas y el patrimonio social se destinen a los fines de su creación y en ningún caso se distribuyan directa o indirectamente entre los asociados. Cuando estas entidades generen rentas provenientes de actividades de naturaleza distinta a los propósitos para los cuales fueron creadas, dichas rentas estarán sujetas a este impuesto. Quedan excluidas de esta exención aquellas entidades organizadas jurídicamente como compañías por acciones u otra forma comercial, así como aquellas que obtienen sus recursos, en todo o en parte, de la explotación de espectáculos públicos, juegos de azar, carreras de caballos y actividades similares.
+e) Las rentas de las asociaciones deportivas, y de los inmuebles de su propiedad en que funcionan sus campos de deportes e instalaciones inherentes a sus propósitos, siempre que tales asociaciones no persigan fines de lucro o exploten o autoricen juegos de azar.
+f) Los sueldos y otros emolumentos percibidos por los representantes diplomáticos o consulares y otros funcionarios o empleados extranjeros de gobiernos extranjeros, por el ejercicio de esas funciones en la República. Esta exclusión se concede a base de reciprocidad de los gobiernos extranjeros y se aplica igualmente a representantes, funcionarios y empleados extranjeros de los Organismos Internacionales de que forma parte la República Dominicana, y a las agencias de cooperación técnica de otros gobiernos.
+g) Las indemnizaciones por accidentes del trabajo.
+h) Las sumas percibidas por el beneficiario en cumplimiento de contratos de seguros de vida en razón de la muerte del asegurado.
+i) Los aportes al capital social recibidos por las sociedades. Sin embargo, en el caso de aportes en especie, el mayor valor del bien aportado, resultante de la comparación del valor de costo de adquisición o producción, ajustado por inflación, correspondiente al mismo bien al momento del aporte, estará gravado con este impuesto en cabeza del socioo aportante.
+j) La adquisición de bienes por sucesión por causa de muerte o donación. Sin embargo,en el caso de donación, el mayor valor de costo de adquisición o producción con el correspondiente a ese mismo bien al momento de la donación, estará gravado con el impuesto de esta ley en cabeza del donante.
+k) Las indemnizaciones de pre-aviso y auxilio de cesantía, conforme a lo establecido enel Código de Trabajo y las leyes sobre la materia.
+l) Las asignaciones de traslado y viáticos, conforme se establezca en el Reglamento.
+m) El beneficio obtenido hasta la suma de RD$500,000.00 en la enajenación de la casa habitación, cuando se cumplan acumulativamente las siguientes condiciones:
+1) Que haya sido propiedad del enajenante en los tres años anteriores a contar del momento de la enajenación.
+2) Que haya constituido su residencia principal por ese mismo período.
+n) Los dividendos pagados en acciones provenientes de una sociedad de capital a sus accionistas.
+ñ) Los dividendos pagados en efectivo, provenientes de una sociedad de capital a sus accionistas, siempre que se haya efectuado la retención a que se refiere el artículo 308 de este Código.
+o) (Adecuado de conformidad con el Artículo 3 de la Ley 557-05, de fecha 13 de diciembre del año 2005).- La renta neta anual de las personas naturales residentes en la República Dominicana, hasta la suma de RD$257,280.00, ajustables por inflación.
+p) Los bienes, servicios o beneficios proporcionados por un patrono a una persona física por su trabajo en relación de dependencia que no constituyan remuneraciones en dinero,en tanto estén gravados con el impuesto sobre retribuciones complementarias contemplado en el Capítulo XI de este Título.
+q) La compensación por enfermedad o lesión pagadera en virtud de un seguro de salud o invalidez.
+r) Las pensiones alimenticias determinadas por sentencia o por ley.
+Artículo 12. Se deroga el literal s) del artículo 299 del Código Tributario de la República Dominicana y sus modificaciones.

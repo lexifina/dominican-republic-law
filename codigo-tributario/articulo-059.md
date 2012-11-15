@@ -1,0 +1,1 @@
+Artículo 59.(Modificado por la Ley No.227-06, de fecha 19 de junio del 2006, de Autonomía de la DGII). La Administración Tributaria, cuando se trate de hechos sustanciales y pertinentes, podrá conceder al interesado un término no mayor de treinta días, para hacer la prueba, indicando la materia sobre la cual deba recaer la prueba y el procedimiento para rendirla.

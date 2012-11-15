@@ -1,0 +1,1 @@
+Artículo 49. Cuando a Juicio de la Administración Tributaria ofrezcan interés general, las resoluciones particulares podrán ser dadas a conocer al público mediante su publicación en un periódico de circulación nacional u otro medio adecuado.

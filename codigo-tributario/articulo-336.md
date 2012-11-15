@@ -1,0 +1,8 @@
+Artículo 336.- Definiciones. A los fines de este impuesto, los términos y conceptos que se indican a continuación, tienen el siguiente significado:
+1) Bienes industrializados. Aquellos bienes corporales muebles, que hayan sido sometidos a algún proceso de transformación.
+2) Transferencia de bienes industrializados. La transmisión de bienes industrializados nuevos o usados a título oneroso a título gratuito. Se incluye dentro de este concepto, el retiro de bienes para el uso o consumo personal del dueño, administradores y empleados de la empresa para cualquier fin diferente al de su actividad. Se asimilan al concepto de transferencia los contratos, acuerdos, convenciones y, en general, todos los actos que tengan por objeto, o se utilicen para la transmisión de dominio o la propiedad de bienes gravados por este impuesto, independientemente del lugar en que se celebre el contrato, convención o acto respectivo, ni de la forma o denominación que adopte.
+3) Importación. La introducción al territorio aduanero de bienes para uso o consumo definitivo.
+4) Persona. Cualquier persona natural, sociedad o empresa, nacional o extranjera.
+5) Alquiler. El arrendamiento de bienes corporales muebles, con o sin promesa de venta.
+6) Actividad Gravada. Cualquier transferencia, importación, servicio, alquiler de bienes corporales muebles u otra actividad especificada en el artículo 335.
+Párrafo. (Agregado por Art.18 Ley 495-06) En ningún caso podrán deducirse del impuesto bruto del periodo, el ITBIS pagado en la adquisición de bienes que serán incorporados o para formar parte de un bien de Categoría 1.

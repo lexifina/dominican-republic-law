@@ -1,0 +1,1 @@
+Artículo 358.- Aprobación Del ReglamentoPara La Aplicación De Este Impuesto. El Poder Ejecutivo dictará el reglamento para la aplicación de este impuesto dentro de los noventa (90) días siguientes a la promulgación de este Código.

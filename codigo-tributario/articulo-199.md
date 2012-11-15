@@ -1,0 +1,1 @@
+Artículo 199. Para que la infracción denominada falta tributaria que de configurada no es requisito esencial la existencia de culpa o dolo ni del perjuicio fiscal, salvo cuando este Código lo disponga expresamente.

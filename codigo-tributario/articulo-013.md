@@ -1,0 +1,1 @@
+Artículo 13. Personas Domiciliadas En El Extranjero. Las personas domiciliadas en el extranjero, si tienen establecimiento permanente en el país, se regirán por las normas generales; en los demás casos, tendrán el domicilio de su representante o si no lo tienen, tendrán como domicilio el lugar donde ocurra el hecho generador de la obligación tributaria.

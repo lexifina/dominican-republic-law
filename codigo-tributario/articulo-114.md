@@ -1,0 +1,1 @@
+Artículo 114. Cuando el título ejecutorio incluya a varios deudores, se procederá, respecto de aquellos que hayan formulado oposición, al desglose del expediente principal, agregando el escrito de excepciones y demás piezas que se estimen necesarias.

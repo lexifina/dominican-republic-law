@@ -1,0 +1,1 @@
+Artículo 192. Para los efectos de lo dispuesto en el artículo precedente, la Administración Tributaria enviará los antecedentes respectivos al Ministerio Público de la Jurisdicción correspondiente, requiriéndole librar las medidas de apremio que procedieren.

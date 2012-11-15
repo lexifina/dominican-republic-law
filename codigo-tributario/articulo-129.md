@@ -1,0 +1,2 @@
+Artículo 129. La adjudicación se hará, mediante acta, al mejor postor en pago al contado.
+Párrafo I. Dicha acta de adjudicación deberá ser inscrita en las oficinas del Registrador de Títulos, cuando se trate de terrenos registrados. En caso contrario, deberá ser transcrita en la Conservaduría de Hipotecas del Distrito Judicial donde radiquen los bienes embargados, cuya inscripción o transcripción extinguirá todas las hipotecas o gravámenes, y los terceros acreedores no tendrán más acción que la que les pudiere corresponder sobre el producto de la subasta.
