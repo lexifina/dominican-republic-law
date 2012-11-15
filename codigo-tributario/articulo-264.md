@@ -1,0 +1,1 @@
+Artículo 264. Las mismas sanciones previstas en el artículo anterior, se impondrán al Banco Central, Bancos Comerciales, Asociaciones de Ahorros y Préstamos y demás instituciones financieras, así como a los síndicos y liquidadores de las quiebras, que infrinjan las obligaciones que les imponen este Código o leyes especiales tributarias.

@@ -1,0 +1,2 @@
+Artículo 234. La Administración Tributaria, en los casos que tome conocimiento de hechos constitutivos de delito, deberá iniciar ante la justicia ordinaria la acción penal. Una vez iniciado el proceso, éste se tramitará conforme a las normas de los delitos comunes.
+Párrafo I. Cuando los hechos constituyen a la vez infracciones y delitos, sin perjuicio de sancionar aquéllas, la administración iniciará la acción penal con respecto a estos últimos.

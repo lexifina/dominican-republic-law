@@ -1,0 +1,2 @@
+Artículo 137. Interpuesta la demanda incidental de tercería, el Ejecutor Administrativo notificará al ejecutado para que conteste en el plazo de tres días, vencido el cual fijará el término para rendir prueba, que no podrá exceder de diez días, señalando, además, la materia sobre la cual debe recaer y el procedimiento para rendirla.
+Párrafo I. El Ejecutor Administrativo podrá dictar cualesquiera otras medidas que considere convenientes para mejor resolver.

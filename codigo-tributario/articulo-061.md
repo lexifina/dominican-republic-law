@@ -1,0 +1,1 @@
+Artículo 61. La Administración Tributaria rechazará las pruebas que considere improcedentes, explicando el motivo, sin perjuicio de que el interesado las haga valer, si fuere admisible, en el procedimiento jurisdiccional a que pudiere dar lugar la actuación administrativa.

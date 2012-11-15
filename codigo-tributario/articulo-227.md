@@ -1,0 +1,1 @@
+Artículo 227. La acción para perseguir la sanción, así como para hacerla cumplir, por delitos tributarios contemplados en este Código, en leyes especiales tributarias o en la Ley Penal Común, prescribirá en los términos y de acuerdo con las normas del Derecho Penal.

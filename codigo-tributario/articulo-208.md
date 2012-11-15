@@ -1,0 +1,1 @@
+Artículo 208. Existe infracción continuada cuando haya incumplimiento repetido de una obligación tributaria como consecuencia de una misma conducta ilícita, debiendo aplicarse la sanción que corresponda a la infracción configurada.

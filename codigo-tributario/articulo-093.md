@@ -1,0 +1,1 @@
+Artículo 93. De La Orden De Embargo. Vencido el plazo del requerimiento, sin que el deudor haya obtemperado al pago ni haya opuesto excepciones, el Ejecutor Administrativo, mediante providencia que constará en el expediente respectivo, ordenará trabar embargo sobre los bienes del deudor.

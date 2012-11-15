@@ -1,0 +1,1 @@
+Artículo 26. De La Mora. El no cumplimiento oportuno de la obligación tributaria constituye en mora al sujeto pasivo, sin necesidad de requerimiento o actuación alguna de la Administración Tributaria.

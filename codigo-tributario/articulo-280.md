@@ -1,0 +1,1 @@
+Artículo 280.- Contabilidad Insuficiente O Inexacta. A falta de contabilidad suficiente, o cuando la misma no refleje exactamente la renta neta de fuente dominicana, la Administración Tributaria podrá considerar que los entes del país y del exterior, a que se refiere el artículo anterior, forman una unidad económica y determinan la ganancia neta sujeta al impuesto.

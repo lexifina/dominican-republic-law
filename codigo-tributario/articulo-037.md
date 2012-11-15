@@ -1,0 +1,1 @@
+Artículo 37. Estas normas comenzarán a regir a partir de la fecha de su publicación en un periódico de amplia circulación nacional, o en la fecha que en las mismas se señale y subsistirán mientras no sean modificadas o derogadas.

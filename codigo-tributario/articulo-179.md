@@ -1,0 +1,1 @@
+Artículo 179. Intervención De Terceros. En los casos de intervención de terceros, de incidentes, o en cualquier otro cuya resolución no haya sido regulada por esta ley, el Tribunal Contencioso Tributario podrá dictar reglas especiales de procedimiento para el caso de que se trate únicamente, comunicando estas reglas a las partes interesadas.

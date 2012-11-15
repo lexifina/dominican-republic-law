@@ -1,0 +1,1 @@
+Artículo 157. Apoderamiento. El apoderamiento del Tribunal Contencioso Tributario, para el conocimiento y decisión de todo caso se hará por una instancia del recurrente dirigido al Presidente del Tribunal, o del Procurador General Tributario cuando se trate de un recurso en revisión.

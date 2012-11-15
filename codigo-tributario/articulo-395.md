@@ -1,0 +1,1 @@
+Artículo 395. Fechas De Cierre. Las sociedades y demás empresas y negocios excepto los de único dueño, que cerraban su ejercicio en fecha distinta del 31 de diciembre, deberán adoptar uno de los cierres establecidos, de tal manera que al 31 de diciembre de 1992, hayan fijado definitivamente su fecha de cierre.

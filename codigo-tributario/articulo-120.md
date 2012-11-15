@@ -1,0 +1,1 @@
+Artículo 120. El remate de los bienes embargados se verificará en el lugar que al efecto designe la Caja de Ahorros para Obreros y Monte de Piedad, previa publicación de dos avisos por lo menos en días distintos, en un periódico de la localidad o de circulación nacional; copia de los cuales se fijarán en el local donde deba realizarse la subasta.

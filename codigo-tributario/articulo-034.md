@@ -1,0 +1,2 @@
+Artículo 34.(Modificado por la Ley No.227-06, de fecha 19 de junio del 2006, de Autonomía de la DGII). La Administración Tributaria goza de facultades para dictar las normas generales que sean necesarias para la administración y aplicación de los tributos, así como para interpretar administrativamente este Código y las respectivas normas tributarias.
+Párrafo I. Estas normas tendrán carácter obligatorio respecto de los contribuyentes, responsables del cumplimiento de obligaciones tributarias y terceros y para los órganos de la Administración Tributaria.

@@ -1,0 +1,2 @@
+Artículo 109. Practicado el embargo, habrá lugar a la ampliación del mismo, siempre que a juicio del funcionario actuante hayan justos motivos para temer que los bienes embargados no basten para cubrir las deudas de tributos, recargos, intereses, sanciones, costas y gastos.
+Párrafo I. El deudor puede, en cualquier etapa del procedimiento, sustituir los bienes embargados, consignando una cantidad de dinero efectivo suficiente u ofreciendo otros bienes de valores equivalentes a los embargados. Toda sustitución deberá ser aprobada por el Ejecutor Administrativo.

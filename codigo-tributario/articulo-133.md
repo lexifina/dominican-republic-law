@@ -1,0 +1,1 @@
+Artículo 133. DE LA LIQUIDACION DEL CREDITO Y PAGO DE LA DEUDA. El Ejecutor Administrativo practicará la liquidación del crédito con recargos, intereses, costas y gastos y procederá al pago del mismo, aplicando para este efecto el producto líquido obtenido en la Subasta.

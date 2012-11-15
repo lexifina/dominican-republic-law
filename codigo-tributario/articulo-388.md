@@ -1,0 +1,1 @@
+Artículo 388. Los plazos para introducir las acciones o recursos, de que trata el Capítulo XI del Título I, de este Código, serán los que regirán al momento en que comenzaron a correr si ello hubiere ocurrido con anterioridad a su vigencia.

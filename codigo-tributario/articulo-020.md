@@ -1,0 +1,1 @@
+Artículo 20. De La Confusión. La obligación tributaria se extingue por confusión cuando el sujeto activo de la obligación, como consecuencia de la transmisión de bienes o derechos objetos del tributo, quedare colocado en la situación del deudor, produciéndose iguales efectos que el pago.

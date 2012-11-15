@@ -1,0 +1,1 @@
+Artículo 89. El acta que se levante al practicar cualquier medida conservatoria deberá contener las menciones señaladas en el Artículo 104, y será notificada al interesado y al tercero en poder de quien se hayan encontrado los respectivos bienes.

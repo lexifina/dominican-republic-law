@@ -1,0 +1,1 @@
+Artículo 172. Notificación De Las Sentencias Y Sus Efectos. Toda sentencia del Tribunal Contencioso Tributario será notificada por el Secretario dentro de los cinco días de su pronunciamiento al Procurador General Tributario y a la otra parte o partes.

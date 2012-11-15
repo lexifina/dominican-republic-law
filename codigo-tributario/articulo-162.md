@@ -1,0 +1,1 @@
+Artículo 162. Si el Procurador General Tributario o la parte contraria la acompañaren de nuevos alegatos, el Presidente del Tribunal por auto hará comunicar dichos alegatos a la otra parte para que amplíe su defensa si lo cree pertinente, enviándola al Presidente del Tribunal dentro de los diez días de la comunicación.

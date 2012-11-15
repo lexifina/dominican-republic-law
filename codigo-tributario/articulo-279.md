@@ -1,0 +1,1 @@
+Artículo 279.- Contabilidad Separada Por Fuente. Las sucursales y demás establecimientos permanentes de empresas, personas o entidades del extranjero, deberán efectuar sus registraciones contables en forma separada de sus casas matrices, filiales (subsidiarias) de éstas, y demás sucursales en el exterior para determinar el resultado impositivo de fuente dominicana.

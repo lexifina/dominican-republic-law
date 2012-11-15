@@ -1,0 +1,1 @@
+Artículo 356.- Mantenimiento De Responsabilidades. Las responsabilidades porimpuestos o sanciones establecidas en virtud de la Ley No.74, de fecha 15 de enero de 1983, para cualquier período anterior a la fecha de derogación, se regirán por la Ley 74, susmodificaciones, reglamentos y demás disposiciones vigentes, hasta su liquidación final.

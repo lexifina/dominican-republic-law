@@ -1,0 +1,7 @@
+Artículo 330.- Quienes Deben Presentar Declaración Jurada De Rentas. Deberán presentar declaración jurada ante la Administración Tributaria y pagar el impuesto correspondiente:
+a) Las personas físicas.
+b) Los administradores o representantes legales de los menores y de los interdictos, en cuanto a las rentas que correspondan a sus representados.
+c) Los presidentes, directores, gerentes, administradores, apoderados y demás representantes de personas jurídicas y de toda otra entidad, o patrimonio, en cuanto a las rentas de éstos.
+d) Los síndicos de quiebras, los representantes de las sociedades en liquidación y los secuestrarios en cuanto a las rentas de empresas o explotaciones bajo secuestro.
+e) Los administradores legales o judiciales de las sucesiones y a falta de éstos, el cónyuge superviviente y los herederos, en cuanto a las rentas que pertenecieron al decujus, y a las rentas correspondientes a la sucesión.
+f) El marido, excepto en los casos de separación de bienes, en cuanto a los bienes comunes y propios. Sin embargo, cuando la esposa ejerza una profesión, oficio, empleo, comercio o industria, se liquidarán como ingresos propios de ella, los que obtuviere en el ejercicio de la actividad a que se dedique, y los que provinieren de bienes adquiridos con el producto de dicha actividad, siempre que haya hecho constar en la escritura de adquisición que el dinero proviene de los indicados conceptos y esto no sea impugnado,las rentas respectivas de los esposos casados bajo el régimen de separación de bienes se liquidarán como propias de cada uno.

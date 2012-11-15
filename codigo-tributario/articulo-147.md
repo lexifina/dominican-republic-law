@@ -1,0 +1,1 @@
+Artículo 147. Para ser Juez del Tribunal Contencioso Tributario se requiere ser dominicano en el pleno ejercicio de los derechos civiles y políticos, haber cumplido la edad de treinta años y ser doctor o licenciado en derecho y tener conocimientos y/o experiencia en materia tributaria.

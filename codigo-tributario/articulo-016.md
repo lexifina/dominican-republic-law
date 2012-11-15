@@ -1,0 +1,2 @@
+Artículo 16. Del Pago. El pago es el cumplimiento de la prestación del tributo debido y debe ser efectuado por los sujetos pasivos.
+Párrafo I. Los terceros pueden efectuar el pago por los sujetos pasivos, con su conformidad expresa o tácita, subrogándose en los derechos del sujeto activo para reclamar el reembolso de lo pagado a título de tributos, intereses, recargos y sanciones, con las garantías legales, preferencias y privilegios sustanciales del crédito tributario que establece el Artículo 28 de este Código.

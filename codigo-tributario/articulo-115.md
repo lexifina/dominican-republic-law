@@ -1,0 +1,3 @@
+Artículo 115. Recibido el escrito de oposición, el Ejecutor Administrativo examinará su contenido y se pronunciará sobre la admisibilidad de las excepciones opuestas.
+Párrafo I. Si las estimarme inadmisibles dictará la Resolución correspondiente en el término de tres días. En caso contrario, procederá a fijar el plazo para que el oponente rinda la prueba ofrecida, la materia sobre la cual debe recaer la prueba y procedimiento para recibirla. Este plazo no podrá exceder de 10 días.
+Párrafo II. El Ejecutor Administrativo podrá ordenar medidas para mejor resolver, las cuales deberán cumplirse en el plazo que él mismo señale.

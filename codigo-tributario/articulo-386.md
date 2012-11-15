@@ -1,0 +1,1 @@
+Artículo 386. Normas Generales, Procedimientos, Infracciones Y Sanciones. Las normas generales, procedimientos, infracciones y sanciones aplicables a las diferentes modalidades de incumplimiento de las obligaciones sustantivas y deberes formales establecidos para facilitar la aplicación de este impuesto, están regidos por el Título I de este Código.

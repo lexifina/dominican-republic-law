@@ -1,0 +1,1 @@
+Artículo 64. Concepto De Determinación. La determinación de la obligación tributaria es el acto mediante el cual se declara la ocurrencia del hecho generador y se define el monto de la obligación; o bien, se declara la inexistencia, exención o inexigibilidad de la misma.

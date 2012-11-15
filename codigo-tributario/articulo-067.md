@@ -1,0 +1,1 @@
+Artículo 67. Determinación De Oficio De Impuestos Retenidos O Trasladados. En los casos de impuestos retenidos o trasladados, que no hayan sido declarados oportunamente, la Administración Tributaria podrá determinar y requerir de inmediato y sin otro trámite previo el pago de los impuestos correspondientes.

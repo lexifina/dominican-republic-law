@@ -1,0 +1,2 @@
+Artículo 121. Los avisos deberán contener las siguientes menciones: nombre y domicilio del ejecutado; naturaleza de los bienes embargados; fecha, hora y lugar en que se llevará a efecto el remate, así como cualquiera otra mención que la Caja de Ahorros para Obreros y Monte de Piedad estimare conveniente.
+Párrafo I. Tratándose de bienes inmuebles embargados deberán indicarse en dichos avisos las menciones contenidas en el inciso 5to. del Artículo 104 de este Código.

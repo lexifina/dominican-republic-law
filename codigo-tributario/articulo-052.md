@@ -1,0 +1,3 @@
+Artículo 52. Los funcionarios de la Administración Pública e instituciones y empresas públicas o autónomas, estarán obligados a proporcionar todos los datos y antecedentes que solicite cualquier órgano de la Administración Tributaria para la fiscalización y control de los tributos.
+Párrafo I. Los funcionarios y autoridades, además, deberán informar a la Administración Tributaria, en el más breve plazo, de los hechos que conozcan en el ejercicio de sus funciones y que puedan entrañar infracciones a las normas tributarias.
+Esta misma obligación de denunciar las infracciones tributarias pesa sobre todos los funcionarios de la propia Administración Tributaria.

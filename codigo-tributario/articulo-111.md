@@ -1,0 +1,1 @@
+Artículo 111. De Las Excepciones Del Embargado. El embargado podrá oponerse a la ejecución, ante el Ejecutor Administrativo, dentro del plazo señalado en el requerimiento de pago practicado conforme el Artículo 91.

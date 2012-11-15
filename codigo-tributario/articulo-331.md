@@ -1,0 +1,1 @@
+Artículo 331.- Deber De Probar La Calidad En Que Se Actúa. Las personas que están obligadas a presentar las declaraciones por las rentas obtenidas y sujetas a la aplicación del presente impuesto, deberán presentar las pruebas de las calidades en que actúen, cuando así lo requiera la Administración Tributaria.

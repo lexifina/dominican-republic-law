@@ -1,0 +1,2 @@
+Artículo 100. Del Embargo Y Del Procedimiento De Apremio. Se procederá a practicar el embargo de los bienes del deudor, sin necesidad de ningún orden de prelación.
+Párrafo I. Si hubiera dinero en efectivo, se hará constar la cantidad y clase de moneda. El funcionario actuante lo depositará en una institución bancaria, a menos que entre el embargante y el embargado convengan elegir otro depositario.

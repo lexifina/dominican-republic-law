@@ -1,0 +1,1 @@
+Artículo 326.- Empresas En Proceso De Liquidación. Las empresas en liquidación, mientras no efectúen la liquidación final, continuarán sujetas a las disposiciones de esta ley y su Reglamento. Al hacerse la distribución definitiva de lo quese obtuviere en la liquidación, se cumplirá lo dispuesto en el artículo anterior.

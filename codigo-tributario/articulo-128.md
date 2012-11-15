@@ -1,0 +1,2 @@
+Artículo 128. Se prohíbe adquirir los bienes objeto de la subasta, por sí o por interposición de persona, a los funcionarios de la Administración Tributaria ejecutante y a todas las personas que hubieren participado en cualquier forma en el procedimiento de cobro compulsivo.
+Párrafo I. El remate efectuado en contravención de este precepto, acarreará la nulidad del mismo y configurará la infracción de incumplimiento de deberes formales establecidos para los funcionarios de la Administración Tributaria.

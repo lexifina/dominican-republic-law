@@ -1,0 +1,7 @@
+Artículo 104. El acta de embargo contendrá:
+1ro. Fecha, hora y lugar donde se practique el embargo, así como el nombre y domicilio del deudor y del tercero en cuyo poder se encontraren los bienes embargados.
+2do. Individualización de los bienes y firma del funcionario actuante, así como de los testigos requeridos al efecto y generales de estos.
+3ro. Referencia a la providencia que ordena el embargo, así como indicación de la suma por la cual se verifique.
+4to. Descripción precisa y detallada de los bienes embargados, según su naturaleza, peso y medida, si esto último fuere necesario para su individualización.
+5to. Tratándose de bienes inmuebles, contendrá además la descripción del inmueble en los siguientes términos: número del solar o parcela, designación catastral, número de manzana, linderos, superficie, designación de las mejoras y contenencias, indicando calle y número, provincia, municipio o sección donde los bienes radiquen; certificado de título o documento que ampara el derecho de propiedad, así como mención de los gravámenes existentes.
+6to. La designación del depositario de los bienes que se embarguen la cual podrá recaer en el propio ejecutado o en otras personas o entidades que cumplan funciones ajenas a la Administración Tributaria. Los depositarios tendrán el carácter legal de administradores de los bienes embargados o de interventores en las empresas embargadas.

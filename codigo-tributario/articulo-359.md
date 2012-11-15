@@ -1,0 +1,1 @@
+Artículo 359.- Ajuste De Valores Monetarios. Los valores expresados en moneda nacional en este título, se reajustarán según la variación ocurrida en el índice de precios al consumidor que elabora el Banco Central. La Administración Tributaria en base a la evolución de los índices de precios publicará los valores actualizados en moneda nacional.

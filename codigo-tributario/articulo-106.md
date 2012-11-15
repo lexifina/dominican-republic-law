@@ -1,0 +1,1 @@
+Artículo 106. Los ejecutados deberán proporcionar a los funcionarios actuantes una declaración jurada actualizada de sus bienes, cuando les fuese solicitada por éstos. Cualquier rebeldía o negativa, salvo causa de fuerza mayor, de parte de los ejecutados configura la infracción por incumplimiento de deberes formales.

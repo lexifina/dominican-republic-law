@@ -1,0 +1,1 @@
+Artículo 294.- RENTA DE BIENES BAJO REGIMEN DE COPROPIEDAD. La renta derivada de bienes poseídos en forma de copropiedad, será tratada como perteneciente a los copropietarios en proporción a su respectiva participación en la propiedad.

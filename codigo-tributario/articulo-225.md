@@ -1,0 +1,1 @@
+Artículo 225. Cuando la sanción pecuniaria no sea pagada en la fecha establecida, se devengará sobre el monto de la misma, el interés moratorio establecido en el Artículo 27, desde la fecha en que debió efectuarse el pago.

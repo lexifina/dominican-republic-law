@@ -1,0 +1,1 @@
+Artículo 230. Cuando la ejecución de la sanción requiera la intervención de otros órganos administrativos o jurisdiccionales, la Administración Tributaria deberá iniciar los procedimientos respectivos dentro del mismo término del Artículo 225 de este Código.

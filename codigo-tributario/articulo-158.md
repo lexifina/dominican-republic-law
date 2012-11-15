@@ -1,0 +1,1 @@
+Artículo 158. Contenido De La Instancia. La instancia expondrá todas las circunstancias de hecho y de derecho que motiven el recurso; transcribirá o anexará copia de todos los actos y documentos contra los cuales se recurra, y terminará con las conclusiones articuladas del recurrente. No deberá contener ningún término o expresión que no concierna al caso de que se trate.

@@ -1,0 +1,1 @@
+Artículo 317.- Tratamiento De Los Saldos Favorables A Los Contribuyentes. El saldo a favor que podría derivarse de los créditos reconocidosen los incisos b), c), d) y e) del artículo anterior, podrá transferirse para el cómputo del impuesto a la renta de los ejercicios fiscales subsecuentes.

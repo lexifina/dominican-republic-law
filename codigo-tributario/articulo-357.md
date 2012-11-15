@@ -1,0 +1,1 @@
+Artículo 357.- Transferencias De O A Zona Francas. Los bienes transferidos desde el territorio nacional a una Zona Franca Industrial que se encuentren sujetos a este impuesto, serán tratados como si hubiesen sido exportados. Los bienes transferidos desde una Zona Franca Industrial al territorio serán tratados como si hubiesen sido importados.

@@ -1,0 +1,1 @@
+Artículo 362. Este impuesto gravará la transferencia de algunos bienes de producción nacional a nivel de fabricante, su importación y la prestación o locación de los servicios descritos en este Título.

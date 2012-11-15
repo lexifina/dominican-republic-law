@@ -1,0 +1,1 @@
+Artículo 131. Si el adjudicatario no cumple con las condiciones de la subasta en la forma y plazos establecidos, se perseguirá una nueva subasta, la cual se efectuará en un plazo no mayor de treinta días, después de un único aviso. El depósito de garantía constituido por el falso subastador ingresará al fisco.

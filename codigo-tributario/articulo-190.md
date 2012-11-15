@@ -1,0 +1,1 @@
+Artículo 190. De Los Apremios En Materia Tributaria. El representante del Ministerio Público, a petición de la Administración Tributaria, procederá a librar mandamiento de conducencia, como medida de apremio contra aquellos que no obtemperen a los requerimientos a que se refieren las letras i),j), k),y l) del Artículo 44 de este Código.

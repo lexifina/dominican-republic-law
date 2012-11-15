@@ -1,0 +1,1 @@
+Artículo 376. Ningún producto de alcohol o de tabaco podrá ser producido en la República Dominicana a menos que la persona que desee elaborar dichos productos se haya previamente registrado y haya suministrado a la Administración Tributaria una fianza para asegurar que toda obligación fiscal establecida en virtud de este capítulo será cumplida.

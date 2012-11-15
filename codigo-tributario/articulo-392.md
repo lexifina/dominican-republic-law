@@ -1,0 +1,1 @@
+Artículo 392. Lo dispuesto en el Artículo 27 del Título I de este Código, relacionado con el pago de intereses por el sujeto pasivo, será aplicable solamente respecto de las cantidades que se paguen con posterioridad a su vigencia.

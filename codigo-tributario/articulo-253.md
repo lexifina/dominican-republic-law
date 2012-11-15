@@ -1,0 +1,1 @@
+Artículo 253. Incumplimiento De Los Deberes Formales De Los Contribuyentes, Responsables Y Terceros. Toda acción u omisión tendente a impedir u obstaculizar la determinación de la obligación tributaria o el control y fiscalización de los tributos por parte de la Administración Tributaria, constituye una violación de los deberes formales.

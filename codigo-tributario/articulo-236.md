@@ -1,0 +1,2 @@
+Artículo 236. Defraudación Tributaria. Incurre en defraudación el que, mediante simulación, ocultación, maniobra o cualquier otra forma de engaño, intente inducir a error al sujeto activo en la determinación de los tributos, con el objeto de producir o facilitar la evasión total o parcial de los mismos.
+Párrafo I. Es agravante especial la circunstancia de que la defraudación se cometa con la participación del funcionario que, por razón de su cargo, intervenga o deba intervenir en el control de los impuestos evadidos.

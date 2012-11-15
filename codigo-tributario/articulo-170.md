@@ -1,0 +1,1 @@
+Artículo 170. El plazo para la interposición del recurso de revisión será también de quince días. En los casos: a), b), c) y d), del Artículo 168, dicho plazo se contará desde los hechos que pueden justificar el recurso, pero en ningún caso excederá de un año.

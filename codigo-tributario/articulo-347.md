@@ -1,0 +1,1 @@
+Artículo 347.- Documentación Necesaria Para Efectuar Deducciones. Será requisito indispensable para admitir las deducciones mencionadas en el artículo 346, que el impuesto cargado en las compras locales y/o importaciones esté respaldado por los documentos señalados por este impuesto y el Reglamento para su aplicación.

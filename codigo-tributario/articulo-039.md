@@ -1,0 +1,1 @@
+Artículo 39. El consultante deberá exponer con claridad y precisión todos los elementos constitutivos de la situación que motiva la consulta, pudiendo así mismo indicar y fundamentar su opinión al respecto.

@@ -1,0 +1,1 @@
+Artículo 151. Para el desempeño de sus funciones, el Procurador General Tributario podrá solicitar y deberá obtener de todos los organismos administrativos los documentos, datos, informaciones y certificaciones que considere necesarios para el estudio y dictamen de los asuntos a su cargo.

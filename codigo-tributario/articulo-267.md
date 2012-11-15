@@ -1,0 +1,2 @@
+Artículo 267.- Establecimiento Del Impuesto. (Modificado por la Ley 147-00, de fecha 27 de diciembre del 2000). Se establece un impuesto anual sobre las rentasobtenidas por las personas naturales, jurídicas y sucesiones indivisas.
+Párrafo.- Para el caso de las personas jurídicas, este impuesto se determinará y cobrará siguiendo los parámetros de determinación impositiva establecidos en los artículos 297 y siguientes del Código Tributario.

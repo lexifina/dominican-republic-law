@@ -1,0 +1,1 @@
+Artículo 246.Concepto Y Normas Aplicables. Constituyen infracciones tributarias las diversas formas de incumplimiento a las disposiciones de este Código y de las leyes especiales tributarias, tipificadas en el mismo y sancionadas en tal carácter por la Administración Tributaria y los Tribunales competentes.

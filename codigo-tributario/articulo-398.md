@@ -1,0 +1,1 @@
+Artículo 398. Los saldos a favor, pérdidas de ejercicios anteriores, establecidos en virtud de la ley 591l, serán reconocidos para fines del Título II de este Código, en las mismas condiciones existentes a la fecha de su entrada en vigencia.

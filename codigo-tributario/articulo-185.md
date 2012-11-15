@@ -1,0 +1,1 @@
+Artículo 185. El Tribunal Contencioso Tributario y la Procuraduría General Tributaria podrán acordar reglamentaciones para sus respectivos regímenes interiores, pero estas reglamentaciones no podrán referirse al procedimiento ante el Tribunal.

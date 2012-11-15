@@ -1,0 +1,1 @@
+Artículo 371. Documentos Requeridos. Los contribuyentes de este impuesto estarán obligados a emitir documentos que amparen las transferencias y prestaciones de servicios, consignando separadamente el monto del impuesto y el precio de venta del bien o de la prestación de servicios de acuerdo a lo que determine el Reglamento.

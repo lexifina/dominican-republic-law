@@ -1,0 +1,1 @@
+Artículo 91. De La Acción Ejecutoria. El Ejecutor Administrativo ordenará requerir al deudor para que, en el plazo de 5 días a partir del día siguiente de la notificación, pague el monto del crédito en ejecución u oponga excepciones en dicho término, bajo apercibimiento de iniciar en su contra el embargo de sus bienes.

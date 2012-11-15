@@ -1,0 +1,1 @@
+Artículo 6. Responsable. Concepto. Responsable de la obligación tributaria es quien sin tener. El carácter de contribuyente, debe cumplir las obligaciones atribuidas a éste, por disposición expresa de este Código, de la Ley Tributaria, del Reglamento o de la norma de la Administración Tributaria.

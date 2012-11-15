@@ -1,0 +1,1 @@
+Artículo 9. Prueba De La Retención Efectuada. Los agentes de retención deberán entregar a los contribuyentes por cuya cuenta paguen el impuesto, una prueba de la retención efectuada, en la forma que indiquen este Código, los reglamentos o las normas de la Administración Tributaria.

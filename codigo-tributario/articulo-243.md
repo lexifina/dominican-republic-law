@@ -1,0 +1,1 @@
+Artículo 243.(Modificado por la Ley No. 495-06, del 28 de diciembre del 2006, de Rectificación Fiscal). A los infractores se les aplicarán las mismas sanciones de treinta (30) hasta cien (100) salarios mínimos.”

@@ -1,0 +1,1 @@
+Artículo 320.- Deber De Llevar Una Cuenta Separada De Estas Retribuciones. A los efectos de la determinación del impuesto sobre retribuciones complementarias, los empleadores deberán registrar en una cuenta separada, el valor de todas las retribuciones complementarias otorgadas en cada mes.

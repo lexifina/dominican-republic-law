@@ -1,0 +1,1 @@
+Artículo 321.- Valor A Tomar Para Las Retribuciones Complementarias. El valor tomado en consideración para cualquier forma de retribución complementaria será su valor de mercado, determinado en la forma que prescriba el Reglamento.

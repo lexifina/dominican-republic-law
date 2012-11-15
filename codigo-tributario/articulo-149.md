@@ -1,0 +1,1 @@
+Artículo 149. El Tribunal Contencioso Tributario ejercerá sus funciones con la asistencia de un Secretario, nombrado por el Poder Ejecutivo, el cual tendrá fe pública en el desempeño de sus atribuciones.

@@ -1,0 +1,1 @@
+Artículo 186. En cada trimestre del año, el Secretario del Tribunal Contencioso Tributario publicará el Boletín del Tribunal Contencioso Tributario, con el texto íntegro de las sentencias del trimestre anterior.

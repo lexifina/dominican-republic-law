@@ -1,0 +1,1 @@
+Artículo 160. Dentro de los quince días subsiguientes a la comunicación de la instancia, la parte demandada deberá notificar su defensa al Presidente del Tribunal, y éste, por auto, la hará comunicar al recurrente.

@@ -1,0 +1,1 @@
+Artículo 127. Verificada la subasta y si los bienes no fuesen rematados, ellos se entenderán adjudicados al fisco, el cual deberá proceder a su enajenación. Esta enajenación será efectuada por la Caja de Ahorros para Obreros y Monte de Piedad, si se tratare de bienes muebles, y por la Dirección General de Bienes Nacionales si fuesen bienes inmuebles.

@@ -1,0 +1,1 @@
+Artículo 22. Computo Del Plazo. El plazo de prescripción se contará a partir del día siguiente al vencimiento del plazo establecido en esta ley para el pago de la obligación tributaria, sin tenerse en cuenta la fecha de pago del impuesto o la de la presentación de la declaración tributaria correspondiente.

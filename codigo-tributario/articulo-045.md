@@ -1,0 +1,1 @@
+Artículo 45. La Administración Tributaria dispone de facultades para la determinación de la obligación tributaria, las cuales serán ejercidas de acuerdo con los preceptos de este Código y de las normas especiales respectivas.
