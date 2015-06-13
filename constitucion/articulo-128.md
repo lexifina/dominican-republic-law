@@ -13,15 +13,15 @@ j) Conceder indultos los días 27 de febrero, 16 de agosto y 23 de diciembre de 
 k) Hacer arrestar o expulsar, conforme a la ley, a los extranjeros cuyas actividades fueren o pudieren ser perjudiciales al orden público o la seguridad nacional;
 l) Prohibir, cuando resulte conveniente al interés público, la entrada de extranjeros al territorio nacional.
 2) En su condición de Jefe de Gobierno tiene la facultad de:
-a) Nombrar los ministros y viceministros y demás funcionarios públicos que ocupen cargos de libre nombramiento o cuya designación no se atribuya a ningún otro organismo del Estado reconocido por esta Constitución o por las leyes, así como aceptarles sus renuncias y removerlos;
-b) Designar los y las titulares de los órganos y organismos autónomos y descentralizados del Estado, así como aceptarles sus renuncias y removerlos, de conformidad con la ley;
+a) Nombrar los ministros y viceministros y demás funcionarios públicos que ocupen cargos de libre nombramiento o cuya designación no se atribuya a ningún otro organismo del Estado reconocido por esta Constitución o por las leyes, así como aceptarles su renuncia y removerlos;
+b) Designar los y las titulares de los órganos y organismos autónomos y descentralizados del Estado, así como aceptarles su renuncia y removerlos, de conformidad con la ley;
 c) Cambiar el lugar de su residencia oficial cuando lo juzgue necesario;
 d) Celebrar contratos, sometiéndolos a la aprobación del Congreso Nacional cuando contengan disposiciones relativas a la afectación de las rentas nacionales, a la enajenación de bienes del Estado, al levantamiento de empréstitos o cuando estipulen exenciones de impuestos en general, de acuerdo con la Constitución. El monto máximo para que dichos contratos y exenciones puedan ser suscritos por el Presidente de la República sin aprobación congresual, será de doscientos salarios mínimos del sector público;
 e) Velar por la buena recaudación y fiel inversión de las rentas nacionales;
 f) Depositar ante el Congreso Nacional, al iniciarse la primera legislatura ordinaria el 27 de febrero de cada año, las memorias de los ministerios y rendir cuenta de su administración del año anterior;
 g) Someter al Congreso Nacional, a más tardar el primero de octubre de cada año, el Proyecto de Ley de Presupuesto General del Estado para el año siguiente.
 3) Como Jefe de Estado y de Gobierno le corresponde:
-a) Designar, con la aprobación del Senado de la República, los embajadores acreditados en el exterior y los jefes de misiones permanentes ante organismos internacionales, así como nombrar los demás miembros del cuerpo diplomático, de conformidad con la Ley de Servicio Exterior, aceptarles sus renuncias y removerlos;
+a) Designar, con la aprobación del Senado de la República, los embajadores acreditados en el exterior y los jefes de misiones permanentes ante organismos internacionales, así como nombrar los demás miembros del cuerpo diplomático, de conformidad con la Ley de Servicio Exterior, aceptarles su renuncia y removerlos;
 b) Dirigir las negociaciones diplomáticas y recibir a los Jefes de Estado extranjeros y a sus representantes;
 c) Conceder o no autorización a los ciudadanos dominicanos para que puedan ejercer cargos o funciones públicas de un gobierno u organizaciones internacionales en territorio dominicano, y para que puedan aceptar y usar condecoraciones y títulos otorgados por gobiernos extranjeros;
 d) Autorizar o no a los ayuntamientos a enajenar inmuebles y aprobar o no los contratos que hagan, cuando constituyan en garantía inmuebles o rentas municipales;
