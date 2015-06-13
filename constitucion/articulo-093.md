@@ -13,7 +13,7 @@ j) Legislar cuanto concierne a la deuda pública y aprobar o desaprobar los cré
 k) Aprobar o desaprobar los contratos que le someta el Presidente de la República, de conformidad con lo que dispone el artículo 128, numeral 2), literal d), así como las enmiendas o modificaciones posteriores que alteren las condiciones originalmente establecidas en dichos contratos al momento de su sanción legislativa;
 l) Aprobar o desaprobar los tratados y convenciones internacionales que suscriba el Poder Ejecutivo;
 m) Declarar por ley la necesidad de la Reforma Constitucional;
-n) Conceder honores a ciudadanas y ciudadanos distinguidos que hayan prestado reconocidos servicios a la Patria o a la humanidad;
+n) Conceder honores a ciudadanas y ciudadanos distinguidos que hayan prestado reconocidos servicios a la patria o a la humanidad;
 ñ) Conceder autorización al Presidente de la República para salir al extranjero cuando sea por más de quince días;
 o) Decidir el traslado de la sede de las cámaras legislativas por causa de fuerza mayor o por otras circunstancias debidamente motivadas;
 p) Conceder amnistía por causas políticas;
