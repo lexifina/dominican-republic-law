@@ -1,1 +1,0 @@
-Vigésima: En el caso de que el Presidente de la República correspondiente al período constitucional 2012-2016 sea candidato al mismo cargo para el período constitucional 2016-2020, no podrá presentarse para el siguiente período ni a ningún otro período, así como tampoco a la Vicepresidencia de la República.

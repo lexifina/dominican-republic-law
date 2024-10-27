@@ -1,1 +1,1 @@
-Primera: El Consejo del Poder Judicial deberá crearse dentro de los seis meses posteriores a la entrada en vigencia de la presente Constitución.
+Primera: Por excepción a lo dispuesto en el artículo 81 de esta Constitución, la distribución de los representantes territoriales ante la Cámara de Diputados a elegirse en las elecciones del año 2028 se realizará en base al padrón de electores utilizado en las elecciones congresuales del mes de mayo de 2024.

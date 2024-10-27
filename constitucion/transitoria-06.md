@@ -1,1 +1,1 @@
-Sexta: El Tribunal Contencioso Administrativo y Tributario existente pasará a ser el Tribunal Superior Administrativo creado por esta Constitución. La Suprema Corte de Justicia dispondrá las medidas administrativas necesarias para su adecuación, hasta tanto sea integrado el Consejo del Poder Judicial.
+Sexta: Las disposiciones contenidas en el artículo 272 relativas al referendo aprobatorio, por excepción, no son aplicables a la presente reforma constitucional.

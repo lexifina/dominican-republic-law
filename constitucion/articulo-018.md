@@ -6,4 +6,4 @@ Artículo 18.- Nacionalidad. Son dominicanas y dominicanos:
 5) Quienes contraigan matrimonio con un dominicano o dominicana, siempre que opten por la nacionalidad de su cónyuge y cumplan con los requisitos establecidos por la ley;
 6) Los descendientes directos de dominicanos residentes en el exterior;
 7) Las personas naturalizadas, de conformidad con las condiciones y formalidades requeridas por la ley.
-Párrafo.- Los poderes públicos aplicarán políticas especiales para conservar y fortalecer los vínculos de la Nación dominicana con sus nacionales en el exterior, con la meta esencial de lograr mayor integración.
+Párrafo.- Los poderes públicos aplicarán políticas especiales para conservar y fortalecer los vínculos de la Nación Dominicana con sus nacionales en el exterior, con la meta esencial de lograr mayor integración.

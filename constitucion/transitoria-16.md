@@ -1,1 +1,0 @@
-Decimosexta: La ley que regulará la organización y administración general del Estado dispondrá lo relativo a los ministerios a los que se refiere el artículo 134 de esta Constitución. Esta ley deberá entrar en vigencia a más tardar en octubre de 2011, con el objetivo de que las nuevas disposiciones sean incorporadas en el Presupuesto General del Estado para el siguiente año.
