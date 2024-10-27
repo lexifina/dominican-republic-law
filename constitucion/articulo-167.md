@@ -1,1 +1,1 @@
-Artículo 167.- Requisitos. El Procurador General Administrativo deberá reunir las mismas condiciones requeridas para ser Procurador General de Corte de Apelación.
+Artículo 167.- Oficina del Abogado General de la Administración Pública. La Oficina del Abogado General de la Administración Pública es una dependencia del Poder Ejecutivo, organizada de conformidad con la ley.

@@ -1,1 +1,1 @@
-Artículo 268.- Forma de gobierno. Ninguna modificación a la Constitución podrá versar sobre la forma de gobierno que deberá ser siempre civil, republicano, democrático y representativo.
+Artículo 268.- Forma de gobierno y reglas de elección presidencial. Ninguna modificación a la Constitución podrá versar sobre la forma de gobierno establecida en el artículo 4 de esta Constitución, que deberá ser siempre civil, republicano, democrático y representativo. Tampoco podrá versar sobre las reglas de elección presidencial establecidas en el artículo 124 de esta Constitución.

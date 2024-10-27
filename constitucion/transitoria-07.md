@@ -1,1 +1,1 @@
-Séptima: Los actuales integrantes de la Junta Central Electoral permanecerán en sus funciones hasta la conformación de los nuevos órganos creados por la presente Constitución y la designación de sus incumbentes.
+Séptima: Por excepción al artículo 274, las autoridades municipales electas el tercer domingo de febrero de 2028, tendrán un período que iniciará el 24 de abril de 2028 y concluirá el 16 de agosto de 2032.

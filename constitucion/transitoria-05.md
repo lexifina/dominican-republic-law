@@ -1,1 +1,1 @@
-Quinta: El Consejo Superior del Ministerio Público desempeñará las funciones establecidas en la presente Constitución dentro de los seis meses siguientes a la entrada en vigencia de la misma.
+Quinta: Por excepción a lo dispuesto en el artículo 209 de la Constitución, las elecciones del año 2028 para elegir a las autoridades municipales se realizarán el tercer domingo de febrero y quienes resulten electos, tomarán posesión el 24 de abril del mismo año.

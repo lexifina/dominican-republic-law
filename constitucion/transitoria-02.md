@@ -1,1 +1,1 @@
-Segunda: El Tribunal Constitucional, establecido en la presente Constitución, deberá integrarse dentro de los doce meses siguientes a la entrada en vigencia de la misma.
+Segunda: Los contratos pendientes de decisión depositados en el Congreso Nacional al momento de la aprobación de las disposiciones contenidas en el artículo 128, numeral 2), literal d), de esta Constitución agotarán los trámites legislativos dispuestos en la Constitución del año 2002.

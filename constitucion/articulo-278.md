@@ -1,0 +1,1 @@
+Artículo 278.- Ejercicios electivos y reformas constitucionales. Ningún funcionario de elección popular podrá beneficiarse de una reforma constitucional durante su mandato, cuando esta verse sobre las reglas de postulación, elección y permanencia del cargo que ocupa.

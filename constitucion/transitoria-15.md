@@ -1,1 +1,0 @@
-Decimoquinta: Los contratos pendientes de decisión depositados en el Congreso Nacional al momento de la aprobación de las disposiciones contenidas en el artículo 128, numeral 2), literal d), de esta Constitución agotarán los trámites legislativos dispuestos en la Constitución del año 2002.
