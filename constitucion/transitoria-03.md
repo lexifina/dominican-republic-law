@@ -1,1 +1,1 @@
-Tercera: La Suprema Corte de Justicia mantendrá las funciones atribuidas por esta Constitución al Tribunal Constitucional y al Consejo del Poder Judicial hasta tanto se integren estas instancias.
+Tercera: El Abogado General de la Administración Pública y sus adjuntos, serán nombrados mediante decreto del Presidente de la República, hasta tanto la ley correspondiente establezca la forma en que serán designados.
