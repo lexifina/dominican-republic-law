@@ -1,0 +1,1 @@
+Articulo 191. Objetos no sometidos a secuestro. No pueden ser objeto de secuestro los exámenes o diagnósticos médicos protegidos por el secreto profesional ni las comunicaciones entre el imputado y su abogado defensor.

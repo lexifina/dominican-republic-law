@@ -1,0 +1,2 @@
+Articulo 434.” Formalización de la presentación de la apelación. La apelación se formaliza con la presentación de un escrito motivado en la secretaria del juez o tribunal que dictó la sentencia, en el término de veinte dias a partir de su notificación.
+Párrafo.- En el escrito de apelación se expresa concreta y separadamente cada motivo con sus fundamentos, la norma violada, la solución pretendida y se ofrecen los elementos de prueba que se harán valer.

@@ -1,0 +1,1 @@
+Articulo 323.- Interrupción de los debates. Si los debates no se reanudan a más tardar al undécimo dia después de la suspensión, se considera interrumpido y como no iniciado. por lo que deben realizarse todos los actos desde el principio.

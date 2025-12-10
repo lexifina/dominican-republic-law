@@ -1,0 +1,2 @@
+Articulo 400.- Ejecutoriedad del mandamiento. El mandamiento de hábeas Corpus debe ser cumplido y ejecutado sin que haya lugar a su desconocimiento por defectos formales.
+Párrafo.- Cualquier persona a quien se haya entregado el mandamiento se considera como su destinatario, aun cuando se haya dirigido con un nombre o generales equivocados o a otra persona. siempre que bajo su guarda o disposición se encuentre la persona en cuyo favor se expide o le haya sido encargada la ejecución de un arresto que se pretenda ilegal.

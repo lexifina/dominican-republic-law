@@ -1,0 +1,4 @@
+Articulo 312 . - Inmediación. El juicio se celebra con la presencia ininterrumpida de los jueces y de las partes.
+Párrafo I.- Si el defensor no comparece o se ausenta de los estrados, se considera abandonada la defensa y se procede a su reemplazo.
+Párrafo II.- Si la victima constituida como querellante o actor civil, o su mandatario con poder especial no concurre a la audiencia, no se hace representar legalmente, o se retira de ella, se considera como un desistimiento de la acción, sin perjuicio de su comparecencia en calidad, de testigo.
+Párrafo III.- Si el Ministerio Público no comparece o se retira de la audiencia, el tribunal notifica al titular o superior jerárquico. intimándole a que de inmediato se constituya un representante en su reemplazo en la sala, bajo advertencia de que, si no se le reemplaza, se tendrá por retirada la acusación.

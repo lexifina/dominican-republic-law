@@ -1,0 +1,1 @@
+Articulo 162.- Extradición. La extradición se rige por la Constitución de la República, las normas de los tratados. convenios y acuerdos internacionales adoptados por los poderes públicos, el principio de reciprocidad y las leyes en aquello que no se oponga a este código.

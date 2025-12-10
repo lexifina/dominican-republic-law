@@ -1,0 +1,6 @@
+Articulo 61.- Competencia territorial. La competencia territorial de los jueces o tribunales se determina por el lugar donde se haya consumado la infracción.
+Párrafo I.- En caso de tentativa, es competente el del lugar en que se haya ejecutado el último acto dirigido a la comisión de la infracción.
+Párrafo II.- En los casos de infracciones continuas o permanentes. el conocimiento corresponde al juez o tribunal del lugar en el cual haya cesado la continuidad o permanencia o se haya cometido el último acto conocido de la infracción.
+Párrafo III.- En los casos de infracciones cometidas parcialmente dentro del territorio nacional, es competente el juez o tribunal del lugar donde se haya realizado total o parcialmente la acción u omisión o se haya verificado el resultado.
+Párrafo IV.- En materia de hábeas Corpus la competencia se determina por el lugar donde se produjo el arresto o donde se consuma el encierro de la persona que alega la vulneración de su derecho a la libertad. El hábeas Corpus preventivo es competencia del juez del domicilio o residencia de quien alega la violación o el juez del lugar donde se encuentran amenazados sus derechos a elección del accionante.
+Párrafo V.- En los casos establecidos en el párrafo IV de este articulo. la incompetencia no se puede pronunciar de oficio.

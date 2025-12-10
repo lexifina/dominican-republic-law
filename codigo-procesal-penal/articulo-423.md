@@ -1,0 +1,1 @@
+Articulo 423.- Procedencia de la oposición. El recurso de oposición procede solamente contra las decisiones que resuelven un trámite o incidente del procedimiento, a fin de que el juez o tribunal que las dictó examine nuevamente la cuestión y dicte la decisión que corresponda, modificando. revocando o ratificando la impugnada.

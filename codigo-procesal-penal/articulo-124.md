@@ -1,0 +1,3 @@
+Articulo 124.- Facultades del actor civil. El actor civil interviene en el procedimiento en razón de su interés civil.
+Párrafo I.- En la medida en que participe en su calidad exclusiva de actor civil, limita su intervención a acreditar la existencia del hecho, a determinar sus autores y cómplices. la imputación de ese hecho a quien considere responsable, el vínculo con el tercero civilmente demandado, la existencia, extensión y cuantificación de los daños y perjuicios cuya reparación pretende y la relación de causalidad entre el hecho y el daño
+Párrafo II.- El actor civil puede recurrir las resoluciones únicamente en lo concerniente a su acción. La intervención no le exime de la obligación de declarar como testigo.

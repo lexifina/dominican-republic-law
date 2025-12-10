@@ -1,0 +1,2 @@
+Articulo 418.- Extensión. Cuando existen coimputados, el recurso presentado por uno de ellos favorece a los demás. a menos que se case en motivos exclusivamente personales.
+Párrafo.- En caso de acumulación de causas por hechos punibles diversos. el recurso deducido por un imputado favorece a todos. siempre que se base en la inobservancia de normas procesales que afecten también a los otros y no en motivos exclusivamente personales.

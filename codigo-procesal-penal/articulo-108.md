@@ -1,0 +1,5 @@
+Articulo 108. Métodos prohibidos. En ningún caso se puede requerir del imputado la ratificación solemne de su exposición o promesa de decir la verdad.
+I.- El imputado no puede ser expuesto a métodos de coacción, amenazas o promesas con el fin de llevarlo a declarar contra su voluntad.
+Párrafo II.- También están prohibidas todas las medidas que menoscaben su libertad de decisión, su memoria o capacidad de comprensión y dirección de sus actos; en especial, las violencias corporales o psicológicas, la tortura, el engaño, la administración de psicofármacos o cualquier sustancia que disminuya su capacidad de comprensión o altere su percepción de la realidad. como los sueros de la verdad, detectores de mentiras y la hipnosis.
+Párrafo III.- Se prohibe inducir al imputado a hacer cualquier tipo de declaración mediante el chantaje y la amenaza de sufrir las consecuencias de la declaración de otro imputado.
+Párrafo IV.- El imputado no puede ser obligado a confrontarse con ningún otro declarante o testigo.

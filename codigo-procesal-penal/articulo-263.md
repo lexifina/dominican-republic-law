@@ -1,0 +1,2 @@
+Articulo 263.- Objeto del procedimiento preparatorio. El procedimiento preparatorio tiene por objeto determinar la existencia de fundamentos para la apertura de juicio, mediante la recolección de los elementos de prueba que permiten basar la acusación del Ministerio Público o del querellante y la defensa del imputado.
+Párrafo.- El Ministerio Público tiene a su cargo la dirección de la investigación de todas las infracciones perseguidles por acción pública y actúa con el auxilio de la policía y de otras agencias de inteligencia, seguridad, investigación y defensa del Estado.

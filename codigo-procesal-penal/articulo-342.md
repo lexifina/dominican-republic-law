@@ -1,0 +1,2 @@
+Articulo 342.- Correlación entre acusación y sentencia. La sentencia no puede tener por acreditados otros hechos u otras circunstancias que los descritos en la acusación y, en su caso, en su ampliación, salvo cuando favorezcan al imputado.
+Párrafo.- En la sentencia, el tribunal puede dar al hecho una calificación jurídica diferente de la contenida en la acusación, o aplicar penas distintas de las solicitadas, pero nunca superiores.

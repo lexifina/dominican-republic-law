@@ -1,0 +1,5 @@
+Articulo 392.- Juicio y recursos ante la Suprema Corte de Justicia. Para la celebración del debate y el dictado de la sentencia se aplicarán reglas comunes del procedimiento ordinario.
+Párrafo I.- Del juicio conoce la Sala Penal de la Suprema Corte de Justicia. La sentencia es susceptible de casación en los casos establecidos por el articulo 441.
+Párrafo II.- El conocimiento del recurso de casación corresponde a la Suprema Corte de Justicia en pleno, siguiendo las reglas del recurso de apelación establecidas en los artículos del 432 al 440, garantizando la amplitud en la sustanciación del recurso reconocida por la Constitución de la República, asi como por los pactos y convenciones internacionales que regulan el debido proceso.
+Párrafo III.- En esta integración no participará ni el que fungió como juez de la instrucción ni los jueces que participaron del juicio.
+árrafo IV.- Cuando sea necesario completar el cuórum requerido, se rocederá conforme a las normas de sustitución establecidas por la ley que rige la materia.

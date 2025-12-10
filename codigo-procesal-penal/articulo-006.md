@@ -1,0 +1,1 @@
+Articulo 6.- Participación de la ciudadanía. Todo habitante del territorio de la República tiene el derecho a participar en la administración de justicia en la forma y condiciones establecidas en este código.

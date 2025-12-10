@@ -1,0 +1,5 @@
+Articulo 359.- Deliberación y decisión. Al concluir el debate y examen de la prueba para la determinación de la pena, los jueces pasan de inmediato y sin interrupción a deliberar en sesión secreta, sin que pueda suspenderse la deliberación hasta que logren, conforme las reglas de valoración de la prueba, individualizar la pena, conforme a los criterios de determinación establecidos en este código.
+Párrafo I.- El fallo se adopta por mayoría. De no producirse esta en relación a la cuantía de la pena, se aplica el término medio.
+Párrafo II.- Acto seguido, los jueces regresan a la sala de audiencias y quien presida da lectura al fallo, en el cual se explican los elementos considerados para alcanzar la solución contenida en el mismo, en términos comprensibles para el común de las personas y se completa la sentencia. conforme a las reglas previstas.
+Párrafo III.- El pronunciamiento del fallo no puede ser postergado.
+Párrafo IV.- La sentencia se pronuncia conforme a lo establecido en el articulo 341.

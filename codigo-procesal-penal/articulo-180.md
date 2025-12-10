@@ -1,0 +1,1 @@
+Articulo 180 . - Registros colectivos. En los casos que excepcional y preventivamente sea necesario realizar el registro colectivo de personas o vehículos, el funcionario de la policía debe informar previamente al Ministerio Público.

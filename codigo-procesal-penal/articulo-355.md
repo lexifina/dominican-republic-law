@@ -1,0 +1,2 @@
+Articulo 355.- Juicio sobre la pena. En los casos que procede la división del juicio, al dictar la sentencia que establece la culpabilidad del imputado, el presidente fija el dia y la hora del debate sobre la pena. que no puede celebrarse ni antes de diez ni después de veinte dias, y les informa a las partes que tienen la opción de presentar el informe previsto en el articulo 357.
+'árrafo.- Las partes ofrecen prueba en el plazo de cinco dias a partir de la lectura de la sentencia.

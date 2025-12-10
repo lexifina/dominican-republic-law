@@ -1,0 +1,1 @@
+Articulo 375.- Decisión. Concluida la audiencia, el juez o tribunal declara absolución o culpabilidad del imputado. admite la prueba ofrecida y fija el dia y la hora para la continuación del debate sobre la pena.

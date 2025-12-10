@@ -1,0 +1,3 @@
+Articulo 430.- Procedimiento especial. Cuando se recurra una decisión que declara la procedencia de la prisión preventiva o del arresto domiciliario. o rechace su revisión o sustitución por otra medida. el juez envia de inmediato las actuaciones y la corte fija una audiencia para conocer del recurso.
+Párrafo I.- La audiencia a que se refiere este articulo se celebrará dentro de las cuarenta y ocho horas contadas a partir de la presentación del recurso, si el juez o tribunal tiene su sede en el distrito judicial en que tiene su asiento la corte de apelación, o en el término de setenta y dos horas, en los demás casos.
+Párrafo II.- Al final de la audiencia resuelve sobre el recurso.

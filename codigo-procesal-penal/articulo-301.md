@@ -1,0 +1,3 @@
+Articulo 301.- Pretensiones del actor civil. Cuando se haya ejercido la acción civil, el Ministerio Público debe poner la acusación en conocimiento del actor civil, para que dentro del plazo de cinco dias concrete sus pretensiones. indique la clase y forma de reparación que demanda y liquide el monto de los daños y perjuicios que estime haber sufrido hasta ese momento, sin perjuicio de ampliar las partidas por las consecuencias futuras.
+Párrafo I.- En esta misma oportunidad. debe ofrecer la prueba para el juicio conforme a las exigencias señaladas para la acusación.
+Párrafo II.- En cuanto sean compatibles, aplican las mismas reglas de la querella en cuanto a la oportunidad de su presentación.

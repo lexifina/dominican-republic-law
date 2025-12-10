@@ -1,0 +1,3 @@
+Articulo 100.- Examen corporal. El juez o tribunal competente puede ordenar el examen médico del imputado para la constatación de circunstancias relevantes para la investigación.
+Párrafo I.- Son admisibles. siempre con autorización judicial. extracciones de sangre y fluidos en general, además de otros estudios corporales, que deben realizarse preservando la salud del imputado.
+Párrafo II.- Excepcionalmente, en aquellos casos en que exista peligro en la demora, el Ministerio Público y sus funcionarios auxiliares tienen la facultad de realizar los peritajes y exámenes, sin atentar contra la dignidad del imputado y con la obligación de informar. sin demora innecesaria. al juez o tribunal a cargo del procedimiento.

@@ -1,0 +1,1 @@
+Articulo 276.- Imposibilidad de nueva persecución. El desistimiento impide toda posterior persecución por parte del querellante, en virtud del hecho que constituyó el objeto de su querella y en relación con los imputados que participaron en el proceso.

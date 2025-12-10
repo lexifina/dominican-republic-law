@@ -1,0 +1,3 @@
+Articulo 109.- Acta. Las declaraciones del imputado durante el procedimiento preparatorio se hacen constar en acta escrita u otra forma que reproduzca del modo más fiel el contenido de sus manifestaciones.
+Párrafo I.- Si el imputado se abstiene de declarar asi se hace constar. El acta es leida en voz alta, lo que se hace constar, sin perjuicio de que también la lea el imputado o su defensor.
+Párrafo II.- Cuando el declarante quiera añadir o enmendar algo. sus manifestaciones son consignadas sin alterar lo escrito. Esta finaliza con la lectura y firma del acta por todas las partes o con las medidas dispuestas para garantizar la individualización, fidelidad e inalterabilidad de los otros medios de registros. Si rehúsa o no puede /suscribirla, se consigna el motivo.

@@ -1,0 +1,1 @@
+Articulo 148.- Plazos fijados judicialmente. Cuando la ley permite la fijación de un plazo judicial, los jueces lo fijan conforme a la naturaleza del procedimiento y a la importancia de la actividad que se debe cumplir, teniendo en cuenta los derechos de las partes.

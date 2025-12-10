@@ -1,0 +1,1 @@
+Articulo 299.- Acusación alternativa o subsidiaria. En la acusación, el Ministerio Público o el querellante pueden señalar, alternativa o subsidiariamente, las circunstancias del hecho que permitan calificar la conducta del imputado como una infracción distinta, a fin de posibilitar su correcta defensa.

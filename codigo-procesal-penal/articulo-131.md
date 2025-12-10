@@ -1,0 +1,1 @@
+Articulo 131.- Exclusión del actor civil. La exclusión del actor civil o el desistimiento de su acción hace cesar la intervención del tercero civilmente demandado, sin perjuicio de que las costas sean declaradas en su provecho.

@@ -1,0 +1,3 @@
+Articulo 286.- Intervención del querellante y de la victima. Antes de disponer el archivo invocando las causas previstas en los numerales 4 y 5 del articulo 285, el Ministerio Público, en un plazo de cinco dias, debe ponerlo en conocimiento del querellante o, en su caso, de la victima que ha solicitado ser informada y ofrecido su domicilio, para que estos manifiesten si tienen objeción al respecto; en este caso, deben indicarlo por escrito dentro de los diez dias siguientes.
+Párrafo I.- Si el Ministerio Público decide archivar, no obstante, la objeción de la victima o del querellante, estos pueden acudir al juez para que proceda al examen de la medida.
+Párrafo II.- En todos los casos, la decisión de archivo debe ser notificada a la persona que beneficia.

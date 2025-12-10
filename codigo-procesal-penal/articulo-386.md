@@ -1,0 +1,1 @@
+Articulo 386.- Privilegio de jurisdicción. En los casos cuyo conocimiento en primera o única instancia compete, excepcionalmente, a las cortes de apelación o a la Suprema Corte de Justicia en razón de la función que desempeña el imputado, se aplica el procedimiento común, salvo las excepciones previstas en este titulo.

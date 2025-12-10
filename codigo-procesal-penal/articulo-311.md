@@ -1,0 +1,4 @@
+Articulo 311.- Libertad del imputado y restricciones a su movilidad. El imputado comparece libre, pero el tribunal puede, excepcionalmente. ordenar su custodia para evitar la evasión o la ocurrencia de actos de violencia.
+Párrafo I.- Si el imputado se encuentra en libertad, aunque esté sujeto a una medida de coerción diferente a la prisión preventiva, el tribunal, a pedido del Ministerio Público, puede ordenar su arresto para asegurar la realización de la audiencia o de un acto particular de la misma.
+Párrafo II.- A petición de parte, puede modificar las condiciones bajo las cuales el imputado permanece en libertad o imponer otras medidas de coerción previstas en este código.
+Párrafo III.- Si el imputado se encuentra en prisión y no comparece a juicio por una falta atribuidle al encargado de su custodia o traslado, el presidente puede, después de escuchar sus razones, imponerle una multa de hasta quince dias de su salario.

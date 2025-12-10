@@ -1,0 +1,1 @@
+Articulo 178.- Registros de personas, lugares o cosas. Los funcionarios del Ministerio Público o la policía pueden realizar registros de personas. lugares o cosas, cuando razonablemente existan motivos que permitan suponer la existencia de elementos de prueba útiles para la investigación o el ocultamiento del imputado, de conformidad a las normas y previsiones este código.

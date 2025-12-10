@@ -1,0 +1,3 @@
+Articulo 1.- Primacía de la Constitución y los tratados. -jOs tribunales. al aplicar la ley, garantizan la vigencia efectiva de la Constitución de la República y de los tratados internacionales y sus interpretaciones por los órganos jurisdiccionales creados por estos, cuyas normas y principios son de aplicación directa e inmediata en los casos sometidos a su jurisdicción y prevalecen siempre sobre la ley.
+Párrafo I.- La inobservancia de una norma de garantía judicial establecida en favor del imputado no puede ser invocada en su perjuicio.
+Párrafo II.- Las garantías judiciales deben salvaguardar los derechos de todas las partes en el proceso.

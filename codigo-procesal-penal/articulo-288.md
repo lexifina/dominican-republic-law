@@ -1,0 +1,6 @@
+Articulo 288.- Medida de coerción. El Ministerio Público o el querellante cuya querella haya sido admitida por el Ministerio Público, pueden solicitar al juez la aplicación de una medida de coerción mediante un requerimiento que debe contener los datos personales del imputado, el relato del hecho y su calificación juridica, los elementos de prueba que lo sustentan. el tipo de medida que se requiere y en su caso la solicitud del arresto.
+ó árrafo I.- Recibido el requerimiento. el juez cita a las partes a una feudiencia que se realiza en un plazo no mayor de tres dias hábiles.
+Párrafo II.- Es indispensable la presencia del Ministerio Público, del imputado y su defensor.
+Párrafo III.- Si el Ministerio Público no concurre, se tiene el requerimiento como no presentado.
+Párrafo IV.- En la audiencia el Ministerio Público expone los motivos de su requerimiento y se invita al imputado a declarar en su defensa.
+Párrafo V.- Si el imputado ha sido arrestado, será puesto a disposición del juez sin demora innecesaria, y siempre dentro del plazo máximo de cuarenta y ocho horas de su arresto, de lo contrario, el Ministerio Público dispone su libertad, sin perjuicio de continuar con la acción penal.

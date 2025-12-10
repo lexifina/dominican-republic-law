@@ -1,0 +1,4 @@
+Articulo 140.- Actas y resoluciones. Toda diligencia que se asiente en forma escrita contiene indicación del lugar, fecha y hora de su redacción, las personas que intervienen y una relación sucinta de los actos realizados.
+Párrafo I. - El acta es suscrita por los funcionarios y demás intervinientes. Si alguno no puede o no quiere firmar. se deja constancia de ese hecho.
+Párrafo II.- La omisión de las formalidades indicadas en el párrafo I de este articulo, acarrea nulidad solo cuando ellas no puedan suplirse con certeza. sobre la base de su contenido o de otros elementos de prueba.
+Párrafo III.- Las resoluciones de los jueces y los dictámenes del Ijílinisterio Público contienen, además, indicación del objeto a decidir, las peticiones de las partes, la decisión con sus motivaciones y la firma de los jueces, de los funcionarios del Ministerio Público o del secretario, \ según el caso.

@@ -1,0 +1,1 @@
+Articulo 251.- Exención de costas. Los representantes del Ministerio Público, abogados y mandatarios que intervengan en el proceso no pueden ser condenados en costas, salvo en los casos de temeridad, malicia o falta grave, sin perjuicio de la responsabilidad disciplinaria y de otro tipo en que incurran.

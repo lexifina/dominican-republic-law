@@ -1,0 +1,5 @@
+Articulo 240.- Ejecución de la garantía. Cuando se declare la rebeldía del imputado o cuando este se sustraiga a la ejecución de la pena. el juez concede un plazo de veinte dias al garante para que lo presente y le advertirá que si no lo hace se procederá a la ejecución de la garantía.
+Párrafo I.- Una vez presentada la persona en rebeldía, el juez dicta la medida de coerción que corresponda, tomando en cuenta el estado de presunción de fuga, y el contrato de fianza es revocado.
+Párrafo II.- Vencido el plazo sin la presentación de la persona en rebeldía, el juez dispone la ejecución en perjuicio del garante o la venta en pública subasta de los bienes dados en prenda o de los hipotecados, sin necesidad de embargo inmobiliario previo.
+Párrafo III.- Si la fianza fue acordada a través de una compañía aseguradora, se le intima para que en el plazo de diez dias deposite el monto del valor asegurado.
+Párrafo IV.- En caso de incumplimiento, el Ministerio Público solicitará al juez que disponga la ejecución del modo que se indica en el párrafo anterior. al tiempo que deberá abstenerse de suscribirle nuevos contratos de fianza, hasta el cumplimiento de su obligación.

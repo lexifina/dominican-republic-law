@@ -1,0 +1,1 @@
+Articulo 127.- Tercero civilmente demandado. Es tercero civilmente demandado la persona que, por previsión legal o relación contractual, deba responder por el daño que el imputado provoque con el hecho punible y respecto de la cual se plantee una acción civil resarcitoria.

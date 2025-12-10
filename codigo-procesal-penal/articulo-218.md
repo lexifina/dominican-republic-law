@@ -1,0 +1,3 @@
+Articulo 218.- Auxilio judicial. El juez o el Ministerio Público, según la naturaleza del acto puede ordenar la presentación o el secuestro de cosas y documentos, asi como la comparecencia de personas si es necesario, para llevar a cabo las operaciones de peritaje.
+Párrafo I.- También pueden requerir al imputado y a otras personas que confeccionen el cuerpo de escritura. graben su voz o lleven a cabo operaciones semejantes.
+Párrafo II.- Cuando la operación solo pueda ser ejecutada voluntariamente por la persona requerida y ella rehúse colaborar. se deja constancia de su negativa y se dispone lo necesario para suplir esa falta de colaboración.

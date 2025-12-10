@@ -1,0 +1,4 @@
+Articulo 330.- Perito. El tribunal puede, a solicitud de parte, siempre que lo estime oportuno y en cuanto sea materialmente posible, ordenar que las operaciones periciales sean realizadas o recreadas en la audiencia.
+Párrafo I.- Antes de iniciar su declaración, el perito es informado sobre sus obligaciones, de la responsabilidad derivada de su incumplimiento y según su creencia presta juramento o promesa de decir toda la verdad y nada más que la verdad, conforme la ha apreciado a través de sus sentidos y la mantiene en su memoria.
+Párrafo II.- El perito tiene la facultad de consultar documentos, notas y publicaciones durante la presentación de su informe. sin que pueda reemplazarse la declaración por su lectura.
+Párrafo III.- Esta disposición es igualmente aplicable en lo que corresponda a los intérpretes.

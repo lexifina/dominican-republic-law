@@ -1,0 +1,1 @@
+Articulo 470.“ Entrada en vigencia. Este código entrará en vigencia a partir de su promulgación y publicación, según lo establecido en la Constitución de la República y transcurridos los plazos fijados en el Código Civil de la República Dominicana.

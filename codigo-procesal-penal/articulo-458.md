@@ -1,0 +1,2 @@
+Articulo 458.- Unificación de penas o condenas. Corresponde al juez de ejecución de la pena, de oficio o a solicitud de parte, la unificación de las penas o condenas en los casos previstos en el Código Penal, conforme el trámite de los incidentes.
+Párrafo.- Cuando la unificación pueda modificar sustancialmente la cuantía, monto o régimen de cumplimiento de la pena, el juez de ejecución de la pena, a solicitud de parte, realiza un nuevo juicio sobre la pena.

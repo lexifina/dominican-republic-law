@@ -1,0 +1,9 @@
+Articulo 106.- No autoincriminación. Antes de comenzar su declaración, el imputado debe ser advertido de su derecho a no autoincriminarse y de que el ejercicio de ese derecho no puede perjudicarle.
+Párrafo I.- Al imputado se le debe instruir en el sentido de que su declaración es un medio para su defensa y, por consiguiente, tiene derecho a explicar todo cuanto sirva para desvirtuar las imputaciones que se le formulen y a solicitar la práctica de las diligencias que considere oportunas .
+Párrafo II.- Acto seguido, se le formula la indicación del hecho punible que se le atribuye, con todas las circunstancias de tiempo, lugar y modo. en la medida conocida, incluyendo aquellas que sean de importancia para la calificación juridica, un resumen de los contenidos de prueba existentes. salvo las que se encuentren bajo reserva, y las disposiciones legales que se juzguen aplicables.
+Párrafo III.- E1 imputado inicia su declaración consignando su nombre, apellido, edad, estado civil, profesión u ocupación, nacionalidad, cédula de identidad y electoral. fecha y lugar de nacimiento. domicilio real y procesal.
+Párrafo IV.- Si se le solicita, el imputado puede ofrecer un informe sobre la identidad y datos generales de familiares cercanos con quienes mantenga contacto permanente, si tiene.
+Párrafo V.- En las declaraciones posteriores, basta con la confirmación de los datos ya proporcionados.
+Párrafo VI.- El imputado declara todo lo que considere conveniente sobre los hechos que se le atribuyen e indica los medios de prueba cuya práctica considera oportuna.
+Párrafo VII.- Las partes pueden dirigir al imputado las preguntas que estimen convenientes, con la autorización de quien presida el acto.
+Párrafo VIII.- El imputado tiene derecho a consultar a su defensor en cualquier momento del interrogatorio.

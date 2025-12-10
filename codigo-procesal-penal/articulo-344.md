@@ -1,0 +1,3 @@
+Articulo 344.- Condenatoria. Se dicta sentencia condenatoria cuando la prueba aportada sea suficiente para establecer con certeza la responsabilidad penal del imputado.
+Párrafo I.- La sentencia fija con precisión las penas que correspondan y. en su caso, determina el perdón judicial, la suspensión condicional de la pena y las obligaciones que deba cumplir el condenado.
+Párrafo II.- La sentencia decide también sobre las costas con cargo a la parte vencida y sobre la entrega de los objetos secuestrados a quien tenga mejor derecho para poseerlos, sin perjuicio de los reclamos que correspondan ante los tribunales civiles. Decide además sobre el decomiso. y la destrucción, previstos en la ley.

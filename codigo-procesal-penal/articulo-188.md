@@ -1,0 +1,3 @@
+Articulo 188.- Registro de locales de acceso al público. El registro en dependencias estatales, locales comerciales o aquellos destinados al esparcimiento público o al culto religioso, se hace en presencia del responsable o encargado del lugar. y a falta de este, de cualquier dependiente o un vecino o persona mayor de edad.
+Párrafo I.- Bajo esas formalidades, puede ser incorporada al juicio por su lectura, sin perjuicio de que el funcionario y el testigo instrumental puedan ser citados para prestar su testimonio.
+Párrafo II.- El registro de personas o muebles de uso particular en estos lugares se sujeta a las disposiciones de los artículos precedentes.

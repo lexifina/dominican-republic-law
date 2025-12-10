@@ -1,0 +1,2 @@
+Articulo 206.- Testimonios especiales. El testimonio de personas que se encuentren en circunstancias especiales de vulnerabilidad puede recibirse en privado y con la asistencia de familiares o personas especializadas.
+Párrafo.- Cuando se trate de personas que no puedan expresarse fácilmente en español o que adolezcan de algún impedimento manifiesto se pueden disponer las medidas necesarias para que el interrogado sea asistido por un intérprete o traductor o se exprese por escrito o de la forma que facilite la realización de la diligencia.

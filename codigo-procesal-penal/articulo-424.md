@@ -1,0 +1,1 @@
+Articulo 424.- Oposición en audiencia. En el transcurso de las audiencias. la oposición es el único recurso admisible, el cual se presenta verbalmente, y es resuelto de inmediato sin que se suspenda la audiencia.

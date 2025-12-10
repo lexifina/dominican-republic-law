@@ -1,0 +1,1 @@
+Articulo 118.- Sanciones por el abandono de la defensa. El abandono de la defensa se sanciona con el pago de las costas producidas por el reemplazo, sin perjuicio de las sanciones disciplinarias establecidas en la ley y en el Código de Ética del Colegio de Abogados de la República Dominicana.

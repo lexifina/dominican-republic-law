@@ -1,0 +1,1 @@
+Articulo 360.- Requerimiento. El proceso ante los juzgados de paz se inicia con la solicitud de medida de coerción o la presentación de la acusación de la victima o del Ministerio Público o la solicitud del funcionario a quien la ley le atribuye la facultad para perseguirlas.

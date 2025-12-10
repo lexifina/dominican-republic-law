@@ -1,0 +1,1 @@
+Articulo 17.- Personalidad de la persecución. Nadie puede ser perseguido, investigado ni sometido a medidas de coerción sino por el hecho personal. La retención de personas ajenas a la comisión de un hecho punible, con miras a obtener su colaboración o la entrega del imputado. se sanciona de conformidad con las disposiciones de la ley penal.

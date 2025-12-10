@@ -1,0 +1,1 @@
+Articulo 113.- Calidad del defensor. Solo pueden ser defensores los abogados matriculados en el Colegio de Abogados de la República Dominicana y debidamente juramentados ante la Suprema Corte de Justicia, sin perjuicio de las reglas especiales de la representación en los casos de cooperación judicial internacional.

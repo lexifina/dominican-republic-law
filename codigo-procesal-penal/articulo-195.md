@@ -1,0 +1,1 @@
+Articulo 195.- Secuestro de correspondencia. Siempre que sea útil para el establecimiento de la verdad, el juez puede ordenar, por resolución motivada, el secuestro de la correspondencia epistolar o telegráfica. remitida por el imputado o destinada a él, aunque sea bajo nombre supuesto.

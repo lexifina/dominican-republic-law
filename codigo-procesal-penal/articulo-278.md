@@ -1,0 +1,3 @@
+Articulo 278.- Diligencias preliminares. Los funcionarios de la policía las diligencias preliminares dirigidas a obtener y asegurar los elementos de prueba, evitar la fuga u ocultamiento de los sospechosos. recibir las declaraciones de las personas presentes e impedir que el hecho produzca consecuencias ulteriores.
+Párrafo I.- Si la infracción es de acción privada, solo debe proceder cuando recibe la orden del juez o del Ministerio Público.
+Párrafo II.- Si es una infracción dependiente de instancia privada, actúa por la denuncia de la persona autorizada a presentarla, sin perjuicio de las acciones inmediatas para preservar la prueba o impedir que el hecho tenga consecuencias ulteriores.

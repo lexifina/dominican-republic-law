@@ -1,0 +1,1 @@
+Articulo 387.- Investigación. La investigación de los hechos punibles atribuidos a imputados con privilegio de jurisdicción es coordinada por el Ministerio Público competente ante la corte que ha de conocer del caso en primera o única instancia, sin perjuicio de la intervención de otros funcionarios del Ministerio Público.

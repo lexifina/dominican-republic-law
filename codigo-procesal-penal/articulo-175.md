@@ -1,0 +1,2 @@
+Articulo 175.- Valoración de la prueba. El juez o tribunal valora cada uno de los elementos de prueba, conforme las reglas de la lógica, los conocimientos científicos y las máximas de experiencia y está en la obligación de explicar las razones por las cuales se les otorga determinado valor, con base a la apreciación conjunta y armónica de toda la prueba.
+Párrafo.- Las actas que tienen por objeto la comprobación de infracciones leves hacen fe de su contenido hasta prueba en contrario.

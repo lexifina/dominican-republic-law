@@ -1,0 +1,2 @@
+Articulo 284.- Ejercicio de la acción penal. Si el Ministerio Público decide ejercer la acción penal, practica por si mismo u ordena a la policía. agencias de inteligencia, de investigación, seguridad y defensa, practicar bajo su dirección las diligencias de investigación que no requieren autorización judicial ni tienen carácter jurisdiccional.
+Párrafo.- El Ministerio Público solicita al juez las autorizaciones necesarias, conforme lo establece este código.

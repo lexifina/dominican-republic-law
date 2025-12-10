@@ -1,0 +1,3 @@
+Articulo 429.- Procedimiento en la corte de apelación. Recibidas las actuaciones, la corte de apelación, dentro de los veinte dias siguientes. decide sobre la admisibilidad del recurso y resuelve sobre la procedencia de la cuestión planteada en una sola decisión.
+Párrafo I.- Si alguna de las partes ha promovido prueba y la corte de apelación la estima necesaria y útil, fija una audiencia oral dentro de los diez dias siguientes a la recepción de las actuaciones, resuelve y pronuncia la decisión al concluir esta.
+Párrafo II.- El que haya promovido prueba tiene la carga de su presentación la audiencia. El secretario lo auxilia expidiendo las citaciones u ordenes necesarias, que serán diligenciadas por quien haya propuesto la medida.

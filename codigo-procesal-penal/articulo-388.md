@@ -1,0 +1,3 @@
+Articulo 388.- Procedimiento ante la corte de apelación. Las funciones de juez de la instrucción son cumplidas por un juez de corte de apelación designado especialmente por el presidente de la corte correspondiente.
+Párrafo I.- En caso de apertura a juicio, el juez designado no puede integrar la corte para el conocimiento del juicio.
+Párrafo II.- El conocimiento de la apelación sobre las decisiones del procedimiento preparatorio es competencia de la sala penal de la Suprema Corte de Justicia, la cual no quedará inhabilitada para conocer de un recurso de apelación posterior en contra de la sentencia del juicio si esta se produce.

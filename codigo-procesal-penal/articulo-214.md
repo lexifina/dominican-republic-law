@@ -1,0 +1,2 @@
+Articulo 214.- Citación y aceptación del cargo. Los peritos son citados en la misma forma que los testigos y tienen el deber de comparecer y de desempeñar el cargo para el cual son designados.
+Párrafo.- Si los peritos no son idóneos, están comprendidos en algunas de las incapacidades citadas, presentan un motivo que habilite su recusación o sufren un impedimento grave, asi lo pueden manifestar, indicando los motivos.

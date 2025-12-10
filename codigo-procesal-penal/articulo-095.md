@@ -1,0 +1,1 @@
+Articulo 95 . - Extensión de aplicación de reglas. Las reglas de este capitulo se aplican a los funcionarios y agentes de otras agencias ejecutivas o de gobierno que cumplen tareas auxiliares de investigación con fines judiciales.

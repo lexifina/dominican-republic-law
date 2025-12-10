@@ -1,0 +1,1 @@
+Articulo 440.- Libertad del imputado. Cuando por efecto de la decisión del recurso debe cesar la privación de libertad del imputado. la corte de apelación ordena su libertad, la cual se ejecuta en la misma sala de audiencias, si está presente.

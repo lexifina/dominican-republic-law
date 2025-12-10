@@ -1,0 +1,2 @@
+Articulo 227.- Citación. En los casos en que es necesaria la presencia del y. imputado para realizar un acto, el Ministerio Público o el juez, según corresponde, lo cita a comparecer, con indicación precisa del hecho atribuido y del objeto del acto, bajo pena de nulidad.
+Párrafo.- La citación y el interrogatorio practicado al imputado cumpliendo las formalidades previstas por este código da lugar a la aplicación de los derechos establecidos en el articulo 96.

@@ -1,0 +1,4 @@
+Articulo 316.- Oralidad del juicio. El juicio es oral. La práctica de las pruebas y, en general, toda intervención de quienes participen en él se realiza de modo oral.
+Párrafo I.- Durante su desarrollo, las resoluciones son dictadas. fundamentadas y explicadas verbalmente por el tribunal y valen como notificación a las partes presentes o representadas desde el pronunciamiento, lo que se hace constar en el acta de juicio.
+Párrafo II.- Quienes no pueden hablar o no pueden hacerlo de manera comprensible en español, formulan sus preguntas. observaciones y respuestas por escrito o por medio de un intérprete, las cuales son leídas y traducidas de modo que resulten entendibles para todos los presentes.
+Párrafo III.- Si la victima o el imputado es sordo o no comprende el idioma español, el tribunal dispondrá que sea asistido por un intérprete con el objeto de transmitirle el contenido de las actuaciones de la audiencia.

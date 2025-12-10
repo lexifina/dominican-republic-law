@@ -1,0 +1,1 @@
+Articulo 269.- Imputación pública. Toda persona que sea imputada públicamente por otra de la comisión de una infracción tiene el derecho a comparecer ante el Ministerio Público y solicitarle la investigación correspondiente.

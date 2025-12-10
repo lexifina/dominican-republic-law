@@ -1,0 +1,3 @@
+Articulo 205.- Foinua de la declaración. Antes de iniciar su declaración, el testigo es informado sobre sus obligaciones, de la responsabilidad derivada de su incumplimiento y, según su creencia, presta juramento o promesa de decir la verdad.
+Párrafo I.- Acto seguido procede su interrogatorio por separado, el cual se inicia con las preguntas acerca de sus datos personales y cualquier otra circunstancia que sirva para apreciar la veracidad de su testimonio.
+Párrafo II.- Si el testigo expresa temor por su integridad o la de otra persona puede ser autorizado excepcionalmente a no indicar públicamente su domicilio y otros datos de referencia, de lo cual se toma nota reservada, pero el testigo no puede ocultar su identidad ni ser eximido de comparecer. /

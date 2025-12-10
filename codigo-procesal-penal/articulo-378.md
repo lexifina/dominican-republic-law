@@ -1,0 +1,4 @@
+Articulo 378.- Producción de prueba masiva. Cuando se trate de un caso con pluralidad de victimas o sea indispensable el interrogatorio de numerosos testigos, el Ministerio Público puede solicitar al juez que le autorice a realizar los interrogatorios.
+Párrafo I.- El Ministerio Público registra, por cualquier medio los interrogatorios y presenta un informe que sintetiza objetivamente las declaraciones. Este informe puede ser introducido al debate para su lectura, con las acras inextensas de las declaraciones anexas, como parte integral de dicho informe.
+Párrafo II.- Sin perjuicio de lo indicado en el párrafo I de este articulo. el imputado puede requerir la presentación de cualquiera de los entrevistados.
+Párrafo III.- Cuando el juez o tribunal advierte que un gran número de querellantes concurren por separado en idénticos intereses, puede ordenar la unificación de la querella.

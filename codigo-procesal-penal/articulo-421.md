@@ -1,0 +1,1 @@
+Articulo 421.- Rectificación. Los errores de derecho en la fundamentación de la decisión impugnada que no influyan en la parte dispositiva, no la anulan, pero son corregidos, del mismo modo que los errores materiales en la denominación o el cómputo de las penas.

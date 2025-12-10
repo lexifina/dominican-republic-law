@@ -1,0 +1,1 @@
+Articulo 394.- Fusión. Cuando se ha producido la declinatoria, el proceso podrá ser fusionado con los demás imputados siempre que sea a solicitud de parte y que el juez o tribunal entienda que tal fusión conviene a la naturaleza del caso.

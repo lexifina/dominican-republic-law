@@ -1,0 +1,1 @@
+Articulo 185.- Procedencia del registro sin autorización judicial. El registro sin autorización judicial procede cuando es necesario para evitar la comisión de una infracción. en respuesta a un pedido de auxilio o cuando se persigue a un sospechoso que se introdujo a un recinto o vivienda ajena.

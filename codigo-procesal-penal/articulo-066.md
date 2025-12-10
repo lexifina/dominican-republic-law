@@ -1,0 +1,1 @@
+Articulo 66.- Excepciones de la acción privada. Los procedimientos por hechos punibles de acción privada siguen las reglas de la conexidad, pero no pueden ser acumulados con procedimientos por hechos punibles de acción pública.

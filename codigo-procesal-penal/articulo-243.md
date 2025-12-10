@@ -1,0 +1,4 @@
+Articulo 243.- Revisión obligatoria de la prisión preventiva. Cada tres meses, sin perjuicio de aquellas oportunidades en que se dispone expresamente, el juez o tribunal competente examina los presupuestos de la prisión preventiva y, según el caso, ordena su continuación, modificación, sustitución por otra medida o la libertad del imputado.
+Párrafo I.- La revisión se produce en audiencia oral con citación a todas las partes y el juez decide inmediatamente en presencia de las que asistan.
+Párrafo II.- Si la revisión de la prisión preventiva compete a un tribunal colegiado, decide el presidente.
+Párrafo III.- El cómputo del término se interrumpe en los plazos previstos en el articulo 244 o en caso de recurso contra esta decisión, comenzándose a contar integramente a partir de la decisión respectiva.

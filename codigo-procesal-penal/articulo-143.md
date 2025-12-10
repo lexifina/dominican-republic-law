@@ -1,0 +1,1 @@
+Articulo 143.- Notificaciones de las resoluciones y actos. Las resoluciones y los actos que requieren una intervención de las partes o terceros se otifican de conformidad con las normas prácticas dictadas por la Suprema Corte de Justicia.

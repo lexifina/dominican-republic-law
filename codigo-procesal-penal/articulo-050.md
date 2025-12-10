@@ -1,0 +1,2 @@
+Articulo 50.- Infracciones imprescriptibles. El genocidio, la desaparición forzada de personas, las demás infracciones graves de lesa humanidad, las infracciones muy graves de guerra. los crímenes de agresión y las infracciones relativas al crimen organizado son imprescriptibles .
+Párrafo.- A estos efectos y a los del articulo 57, se consideran como tales, aquellos contenidos en los tratados internacionales, sin importar la calificación jurídica que se les atribuya en las leyes nacionales.

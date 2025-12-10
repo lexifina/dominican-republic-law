@@ -1,0 +1,1 @@
+Articulo 336.- Nuevas pruebas. El tribunal puede ordenar, excepcionalmente y a petición de parte. la recepción de cualquier prueba si en el curso de la audiencia surgen circunstancias nuevas que requieren esclarecimiento.

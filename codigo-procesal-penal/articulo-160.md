@@ -1,0 +1,1 @@
+Articulo 160.- Presencia de funcionarios. Cuando las características de la cooperación solicitada hagan necesaria la presencia de funcionarios de la autoridad requirente. se puede autorizar la participación de ellos en los actos requeridos, siempre bajo la coordinación del Ministerio Público o del juez, según corresponda.

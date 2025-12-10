@@ -1,0 +1,1 @@
+Articulo 460.- Condiciones especiales de ejecución. En los casos en que la sentencia incluye un régimen especial de cumplimiento de la pena. el juez de ejecución de la pena vela por que se cumpla satisfactoriament e.

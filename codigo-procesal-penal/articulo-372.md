@@ -1,0 +1,2 @@
+Articulo 372.- Inadmisibilidad. Si el juez no admite la aplicación del juicio penal abreviado, ordena al Ministerio Público que continúe el procedimiento.
+Párrafo.- En el caso establecido en este articulo, el requerimiento anterior sobre la pena no vincula al Ministerio Público durante el juicio, ni la admisión de los hechos por parte del imputado puede ser considerada como reconocimiento de culpabilidad.

@@ -1,0 +1,3 @@
+Articulo 193.- Procedimiento. Rige el procedimiento previsto para el registro. Los efectos secuestrados son individualizados, inventariados y depositados de forma que asegure su custodia y buena conservación, bajo la responsabilidad del Ministerio Público.
+Párrafo I.- Si los objetos secuestrados corren el riesgo de alterarse. desaparecer, sean de difícil custodia o perecederos, o estén sujetos a destrucción, se ordenarán reproducciones, copias, pericias o certificaciones sobre su existencia y estado.
+Párrafo II.- Se dispondrá de los bienes sujetos a decomiso de conformidad con la ley que rige la materia.

@@ -1,0 +1,2 @@
+Articulo 11.- Igualdad ante la ley. Todas las personas son iguales ante la ley y deben ser tratadas conforme a las mismas reglas.
+Párrafo.- Los jueces y el Ministerio Público deben tomar en cuenta las condiciones particulares de las personas y del caso, pero no pueden fundar sus decisiones en base a nacionalidad, género, etnia, color, credo o religión, ideas políticas, posición económica o social, u otra condición con implicaciones discriminatorias.

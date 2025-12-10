@@ -1,0 +1,8 @@
+Articulo 135.- Lealtad procesal. Las partes deben litigar con lealtad. absteniéndose de proponer medidas dilatorias. meramente formales y de abusar de las facultades que este código les reconoce.
+Párrafo I.- Salvo lo dispuesto en este código para el abandono de la defensa. cuando se comprueba que las partes o sus asesores actúan con mala fe, realizan gestiones o asumen actitudes dilatorias o litigan con temeridad, el juez o tribunal puede sancionar la falta con multa de hasta quince días del salario base del juez de primera instancia.
+Párrafo II.- Cuando el juez o tribunal estima que existe la posibilidad de imponer la sanción indicada en el párrafo I de este articulo, advierte a la parte en falta a los fines de que ofrezca sus explicaciones y presente prueba de descargo, las cuales se reciben de inmediato. Cuando el hecho se verifique en una audiencia oral, el procedimiento se realiza en ella.
+Párrafo III.- Quien resulte sancionado es requerido para que haga efectivo el importe de la multa en un plazo de tres días.
+Párrafo IV.- Cuando la falta sea cometida por un abogado, el juez o tribunal expide comunicación al Colegio de Abogados.
+Párrafo V.- Si se tratare de un defensor público, la comunicación se remitirá además a la Oficina Nacional de la Defensa Pública, y si es el Ministerio Público, se notificará también a la Procuraduría General de la República.
+/párrafo VI.- El abogado. defensor público o representante del Ministerio Público no podrá postular en los tribunales hasta tanto no haga efectivo el importe de la multa.
+Párrafo VII.- El secretario hará que se realicen las notificaciones pertinentes, a los fines de asegurar el cumplimiento de esta norma.

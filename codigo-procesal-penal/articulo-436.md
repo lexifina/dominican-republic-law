@@ -1,0 +1,4 @@
+Articulo 436.” Comunicación a las partes y remisión. Presentado el recurso. el secretario lo notifica a las demás partes para que lo contesten por escrito depositado en la secretaria del tribunal dentro de un plazo de diez dias y, en su caso, presenten prueba.
+Párrafo I.- Si el recurso se dirige en contra del imputado, este, en su escrito de contestación puede, además de contestar los fundamentos del recurso, reiterar los planteamientos de defensa al fondo formulados durante el juicio y que no fueron respondidos por haberse resuelto el caso con base a una parte de estos o mediante una solución acordada por el tribunal de oficio.
+Párrafo II.- En los casos indicados en el párrafo I de este articulo, la secretaria notifica dicho escrito a las demás partes.
+Párrafo III.- El secretario, sin más trámite, dentro de las horas siguientes al vencimiento del plazo anterior, remite las actuaciones a la corte de apelación, para que esta decida.

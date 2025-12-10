@@ -1,0 +1,2 @@
+Articulo 300.- Notificación de la acusación. El Ministerio Público notifica la acusación al querellante o a la victima de domicilio conocido que haya pedido ser informada de los resultados del procedimiento. para que manifieste si pretende presentar acusación o adherirse a la ya planteada por el Ministerio Público, casos en los cuales debe indicarlo por escrito dentro de los tres dias siguientes.
+Párrafo.- La acusación del querellante debe presentarse ante el juez dentro de los diez dias siguientes al vencimiento del plazo anterior.

@@ -1,0 +1,4 @@
+Articulo 37.- Efectos del criterio de oportunidad. La aplicación de un criterio de oportunidad para prescindir de la persecución penal la acción pública en relación al imputado en cuyo favor se disponga.
+Párrafo I.- No obstante, si el criterio se fundamenta en la aplicación del numeral 1) del articulo 35, sus efectos se extienden a todos los imputados.
+Párrafo II.- La extinción de la acción pública no impide la persecución del hecho por medio de la acción privada, siempre que se ejerza dentro del plazo de diez dias contados desde la fecha de la notificación de la medida.
+Párrafo III.- En el caso del numeral 3) del articulo 35, la acción pública se suspende hasta el pronunciamiento de una sentencia condenatoria que satisfaga las condiciones por las cuales se prescindió de la acción, momento en que la prescindencia de la acción adquiere todos sus efectos.

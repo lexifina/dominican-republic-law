@@ -1,0 +1,1 @@
+Articulo 151.- Efectos del vencimiento del plazo. Vencido el plazo previsto en el articulo 150, los jueces, de oficio o a petición de parte, declararán extinguida la acción penal, conforme a los criterios previstos en este código, y ordenarán el levantamiento de toda medida de coerción, cautelar y de incautación, la cual será ejecutoria no obstante cualquier recurso.

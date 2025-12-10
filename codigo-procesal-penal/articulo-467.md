@@ -1,0 +1,1 @@
+Articulo 467.- Procedimiento de la ejecución civil. La ejecución de la sentencia en cuanto a los intereses civiles y la ejecución de los acuerdos de las partes sobre la reparación del daño que provoca la extinción de la acción penal se tramitan ante la jurisdicción civil.

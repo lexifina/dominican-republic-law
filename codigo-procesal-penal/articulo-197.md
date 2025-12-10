@@ -1,0 +1,1 @@
+Articulo 197.- Clausura de locales y aseguramiento de cosas muebles. Cuando para la averiguación de un hecho punible sea indispensable la clausura temporal de un local o la inmovilización de cosas muebles que por su naturaleza o dimensión no puedan ser mantenidas en depósito. se procede a asegurarlas, según las reglas del secuestro.

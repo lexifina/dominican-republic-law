@@ -1,0 +1,1 @@
+Articulo 417.- Suspensión de la decisión. La presentación del recurso suspende la ejecución de la decisión durante el plazo para recurrir y mientras la jurisdicción apoderada conoce del asunto, salvo disposición legal expresa en contrario.

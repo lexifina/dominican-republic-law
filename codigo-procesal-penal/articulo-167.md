@@ -1,0 +1,6 @@
+Articulo 167.- Procedimiento de extradición. Recibida la solicitud de extradición por la sala penal de la Suprema Corte de Justicia, se convoca a una audiencia oral dentro de los treinta dias siguientes a la notificación dirigida al solicitado.
+Párrafo I. A esta audiencia concurren el imputado, su defensor, el Ministerio Público y el representante del gobierno requirente, quienes exponen sus alegatos.
+Párrafo II.- Concluida la audiencia. la Suprema Corte de Justicia decide en un plazo de quince dias.
+Párrafo III.- La sentencia se limita a establecer si en el caso se cumplen o no los requisitos establecidos por las convenciones y tratados de' extradición aplicables al caso para que la persona pueda ser extraditada y si la petición se ha formulado de la manera exigida por estos.
+Párrafo IV.- Si se constata que estos requisitos y formalidades no se han cumplido, la solicitud es rechazada y la extradición denegada.
+Párrafo V.- Si se verifica que la petición cumple con las anteriores exigencias, la sentencia asi lo declara y remite el asunto por ante el Poder Ejecutivo para que decida, de acuerdo con las facultades que le confiere la Constitución de la República, para regir la política exterior y diplomática del Estado.

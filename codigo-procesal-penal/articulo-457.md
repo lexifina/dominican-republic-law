@@ -1,0 +1,2 @@
+Articulo 457.- Cómputo definitivo. El juez de ejecución de la pena revisa el cómputo de la pena dispuesto en la sentencia, tomando en cuenta la privación de libertad sufrida por el imputado desde el dia de su arresto para determinar con precisión la fecha en que finaliza la condena, y en su caso. la fecha a partir de la cual el imputado puede solicitar su libertad condicional o su rehabilitación.
+Párrafo.- El cómputo es siempre reformable, aun de oficio, si se comprueba un error o cuando nuevas circunstancias lo tornen necesario.

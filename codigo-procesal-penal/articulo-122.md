@@ -1,0 +1,1 @@
+Articulo 122.- Presentación del escrito de constitución en actor civil. El escrito de constitución en actor civil debe presentarse ante el Ministerio Público antes de que se inicie la presentación de la acusación en la audiencia preliminar.

@@ -1,0 +1,2 @@
+Articulo 217.- Contraperitaje y nuevo dictamen. Cuando el dictamen es dudoso, insuficiente o contradictorio, o cuando sea necesario ordenar un contraperitaje, el juez, a solicitud de parte, o el Ministerio Público, según corresponda, puede ordenar su ampliación o la realización de un peritaje por los mismos peritos o por otros.
+Párrafo.- Las partes pueden solicitar un nuevo peritaje si no han tenido oportunidad de hacerlo en la etapa de investigación o cuando se haya ordenado una ampliación de la acusación o una variación de la calificación j uridica.

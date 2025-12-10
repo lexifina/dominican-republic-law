@@ -1,0 +1,1 @@
+Articulo 19.- Formulación precisa de cargos. Desde que se señale formalmente como posible autor o cómplice de un hecho punible, toda persona tiene el derecho de ser informada, previa y detalladamente, de las imputaciones o acusaciones formuladas en su contra.

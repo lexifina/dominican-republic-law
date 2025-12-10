@@ -1,0 +1,2 @@
+Articulo 449.- Procedimiento en la Suprema Corte de Justicia. En los casos en que admite el recurso, la Suprema Corte de Justicia, si lo estima necesario para decidir sobre el recurso, procede directamente o por delegación en uno de sus miembros a la práctica de toda medida de investigación que estime pertinente y celebra audiencia.
+Párrafo.- Sin embargo, la Suprema Corte de Justicia, en caso de que estime reunidos suficientes elementos para emitir fallo, decide sobre el escrito y las pruebas que le acompañan.

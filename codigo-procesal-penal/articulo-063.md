@@ -1,0 +1,1 @@
+Articulo 63.- Competencia universal. En los casos en que los tribunales nacionales conocen de hechos punibles cometidos fuera del territorio nacional, es competente el Tribunal de Primera Instancia del Distrito Nacional.

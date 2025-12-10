@@ -1,0 +1,3 @@
+Articulo 324.- Apertura. El dia y hora fijados, el tribunal se constituye en la sala de audiencias, acto seguido, el secretario procede a verificar la presencia de las partes, los testigos, peritos e intérpretes, y el presidente declara abierto el juicio, advirtiendo al imputado y al público sobre la importancia y significado de lo que va a ocurrir e indicando al imputado que preste atención a lo que va a escuchar.
+Párrafo I.- El tribunal ordena al Ministerio Público, al querellante y al actor civil, si hubiere. que presenten sus alegatos de apertura, de manera oral y sucinta, sobre el hecho imputado y la calificación jurídica.
+Párrafo II.- Luego se concede la palabra a la defensa a fin de que, si desea, se exprese de manera sucinta sobre la acusación y la demanda.

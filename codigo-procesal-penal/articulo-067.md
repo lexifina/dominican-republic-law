@@ -1,0 +1,1 @@
+Articulo 67.- Incompetencia. El juez o tribunal que reconoce su incompetencia en cualquier estado del proceso, debe remitir las actuaciones al que considere competente y poner a su disposición a los imputados.

@@ -1,0 +1,1 @@
+Articulo 142.- Poder coercitivo. En el ejercicio de sus funciones, el juez o tribunal o el Ministerio Público, según el caso, pueden requerir el auxilio de la fuerza pública y disponer todas las medidas necesarias para el cumplimiento de los actos que ordenen.

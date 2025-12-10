@@ -1,0 +1,5 @@
+Articulo 354.- División del juicio. En los casos en que la pena imponible pueda superar los diez años de prisión, el tribunal, a petición de la defensa, puede dividir el juicio en dos partes.
+Párrafo I.- En la primera parte se trata todo lo relativo a la existencia del hecho y la culpabilidad del imputado y, en la segunda parte, lo relativo a la individualización de la sanción aplicable.
+Párrafo II.- Es inadmisible la revelación de prueba sobre los antecedentes y la personalidad del imputado en la primera parte del juicio.
+Párrafo III.- En los demás casos, a petición de parte, el tribunal también puede dividir informalmente la producción de la prueba en el juicio y el debate, conforme a las reglas que anteceden, permitiendo una discusión diferenciada sobre ambas cuestiones, pero dictando una decisión única. conforme lo previsto para la sentencia.
+Párrafo IV.- La primera parte del juicio no es apelable separadamente de la segunda y, por tanto, los plazos del recurso empezarán a correr a partir de la decisión de la segunda parte del juicio.

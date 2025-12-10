@@ -1,0 +1,1 @@
+Articulo 59.- Irrenunciabilidad e indelegabilidad. La jurisdicción penal es irrenunciable e indelegable, excepto en los casos en los cuales el ejercicio de la acción pública esté sujeto a la presentación de querella o instancia previa, o la ley permita de modo expreso el desistimiento del ejercicio de la acción pública en cualquier fase del procedimiento.

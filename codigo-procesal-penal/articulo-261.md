@@ -1,0 +1,1 @@
+Articulo 261.- Otras causales para otorgar indemnización. También corresponde esta indemnización cuando se declare que el hecho no existe, no reviste carácter penal o no se compruebe la participación del imputado, y este ha sufrido prisión preventiva o arresto domiciliario durante el proceso.

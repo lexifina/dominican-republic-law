@@ -1,0 +1,4 @@
+Articulo 216.- Dictamen pericial. El dictamen debe ser fundado y contener la relación detallada de las operaciones practicadas y sus resultados, las observaciones de las partes o de sus consultores técnicos, en su caso, y las conclusiones que se formulen respecto de cada tema estudiado.
+Párrafo I.- Los peritos pueden dictaminar por separado, cuando exista diversidad de opiniones entre ellos.
+Párrafo II.- El dictamen se presenta por escrito firmado y fechado. sin perjuicio del informe oral en las audiencias.
+Párrafo III.- Cuando se trata de un informe o una auditoria de tipo contable o financiero de cualquier tipo, pueden ser admitidos para el debate tanto los dictámenes elaborados por la Cámara de' Cuentas de la República Dominicana en los casos establecidos por la ley que la regula, como aquellos peritajes elaborados por peritos o expertos, conforme a las reglas establecidas por este código.

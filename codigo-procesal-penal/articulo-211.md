@@ -1,0 +1,3 @@
+Articulo 211.- Nombramiento de peritos. Los peritos son designados por el Ministerio Público, mediante dictamen motivado. durante la etapa preparatoria, siempre que no se trate de un anticipo jurisdiccional de prueba.
+'árrafo I.- En cualquier otro momento son nombrados, mediante resolución .otivada, por el juez o tribunal, a propuesta de parte. Várrafo II.- El número de peritos es determinado según la complejidad de las cuestiones a plantear, considerando las sugerencias de las partes.
+Párrafo III.- El dictamen o la resolución que ordena el peritaje fija con precisión las razones que lo motivan, su objeto y alcance, asi como el plazo para la presentación de los dictámenes.

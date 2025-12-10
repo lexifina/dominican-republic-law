@@ -1,0 +1,2 @@
+Artículo 399.- Supletoriedad. En cuanto sean compatibles y a falta de una regla especifica, se aplican a los procedimientos especiales previstos en este libro las normas del procedimiento ordinario.
+Párrafo.- En materia de hábeas corpus, además, aplican, de manera supletoria, las normas del procedimiento de amparo establecido por la ley que lo regula, siempre que ellas favorezcan la tutela del derecho fundamental a la libertad.

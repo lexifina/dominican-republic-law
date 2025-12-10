@@ -1,0 +1,3 @@
+Articulo 99.- Incapacidad del imputado. El trastorno o alteración mental temporal del imputado, que excluye su capacidad de entender o de asentir en los actos del procedimiento, o de obrar conforme a ese conocimiento y voluntad, provoca la suspensión de su persecución penal hasta que desaparezca esa incapacidad. sin perjuicio de los procedimientos especiales que establecen este código y las leyes.
+Párrafo I.- Los actos realizados o autorizados por el incapaz son nulos.
+Párrafo II.- La suspensión del procedimiento no impide la investigación del hecho, ni su prosecución con respecto a otros imputados.

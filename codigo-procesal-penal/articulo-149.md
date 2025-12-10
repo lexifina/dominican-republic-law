@@ -1,0 +1,1 @@
+Articulo 149 . - Reposición del plazo. Las partes pueden solicitar la reposición total o parcial del plazo. cuando por defecto de la notificación, por razones de fuerza mayor o por caso fortuito, no hayan podido observarlo.

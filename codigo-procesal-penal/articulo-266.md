@@ -1,0 +1,3 @@
+Articulo 266.- Facultad de denunciar. Toda persona que tenga conocimiento de una infracción de acción pública puede denunciarla ante el Ministerio Público, la policía o cualquier otra agencia ejecutiva que realice actividades auxiliares de investigación.
+Párrafo I.- Cuando la denuncia es presentada por un menor de edad, el funcionario que la recibe está obligado a convocar a los padres o tutores o persona mayor de edad de su confianza e iniciar su investigación, sin perjuicio de evitar que el hecho denunciado derive en consecuencias ulteriores.
+Párrafo II.- Cualquier persona puede denunciar las faltas cometidas por funcionarios públicos, en el ejercicio de sus funciones o con ocasión de ellas, y las violaciones de derechos fundamentales.

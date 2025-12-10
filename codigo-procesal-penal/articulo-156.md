@@ -1,0 +1,1 @@
+Articulo 156.- Demora de la Suprema Corte de Justicia. Cuando la Suprema Corte de Justicia no resuelve un recurso dentro de los plazos establecidos /^pr este código, las partes pueden requerir su pronto despacho.

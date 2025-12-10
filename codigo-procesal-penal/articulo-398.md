@@ -1,0 +1,2 @@
+Articulo 398.- Mandamiento. Presentada la solicitud de hábeas corpus. SI rocede, el juez o tribunal ordena la presentación inmediata del impetrante.
+j Párrafo.- Una vez oído el impetrante, resuelve inmediatamente sobre la acción o fija una audiencia sin demora innecesaria. siempre dentro de las cuarenta y ocho horas siguientes, para lo cual dispondrá que el funcionario demandado comparezca a los fines de que exponga los motivos legales que justifiquen su actuación.

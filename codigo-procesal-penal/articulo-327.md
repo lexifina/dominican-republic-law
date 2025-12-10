@@ -1,0 +1,1 @@
+Articulo 327.- Variación de la calificación. Si en el curso de la audiencia el tribunal observa la posibilidad de una nueva calificación juridica del hecho objeto del juicio, que no ha sido considerada por ninguna de las partes, debe advertir al imputado para que se refiera sobre el particular y prepare su defensa.

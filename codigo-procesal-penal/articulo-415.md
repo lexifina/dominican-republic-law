@@ -1,0 +1,1 @@
+Articulo 415.- Condición de presentación. Los recursos se presentan en las condiciones de tiempo y forma que se determinan en este código, con indicación especifica y motivada de los puntos impugnados de la decisión.

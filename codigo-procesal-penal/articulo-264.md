@@ -1,0 +1,1 @@
+Articulo 264.- Alcance de la investigación. Es obligación del Ministerio Público extender la investigación a las circunstancias de cargo y también a las que sirvan para el descargo del imputado, poniendo a disposición de la defensa las informaciones que recopile durante la investigación. actuando en todo momento conforme a un criterio objetivo y con lealtad procesal.

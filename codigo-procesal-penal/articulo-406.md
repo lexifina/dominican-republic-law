@@ -1,0 +1,1 @@
+Articulo 406.- Solidaridad. En todos los casos en que en este titulo se pone a cargo de funcionarios públicos el pago de indemnizaciones por daños y perjuicios, el Estado es solidariamente responsable para el pago de esas indemnizaciones.

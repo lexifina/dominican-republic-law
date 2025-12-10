@@ -1,0 +1,3 @@
+Articulo 136.- Responsabilidad institucional. Todos los funcionarios del sistema penal, según sus distintas atribuciones. están sujetos a la Constitución de la República y el ordenamiento jurídico dictado conforme a esta.
+Párrafo I.- Los funcionarios del sistema penal ejercerán sus funciones con respeto a la dignidad de las personas, en los plazos fijados y conforme a los procedimientos establecidos en este código.
+Párrafo II.- Las partes que resulten agraviadas. como consecuencia de la falta o mal desempeño de un funcionario del sistema penal, podrán interponer una acción disciplinaria en su contra ante las instancias que correspondan, sin perjuicio de que puedan demandar su responsabilidad civil conforme las leyes que regulan la materia.

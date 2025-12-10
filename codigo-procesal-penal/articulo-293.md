@@ -1,0 +1,1 @@
+Articulo 293.- Preservación de los elementos de prueba. El Ministerio Público debe asegurar los elementos de prueba esenciales sobre la infracción, aun cuando se haya dictado la suspensión condicional del procedimiento, el archivo provisional y siempre que no exista una sentencia firme.

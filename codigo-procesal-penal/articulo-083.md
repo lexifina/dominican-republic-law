@@ -1,0 +1,3 @@
+Articulo 83.- Trámite de la recusación. Si el juez objeto de la recusación la acepta, procede conforme el mismo trámite de la inhibición; en caso contrario, debe remitir el escrito de recusación y su informe a la corte de apelación correspondiente o, si el juez integra un tribunal colegiado. solicita el examen de la recusación a los restantes miembros del tribunal.
+Párrafo I.- Si se estima necesario, el tribunal a quien corresponda el conocimiento de la recusación fija audiencia para recibir las pruebas e informar a las partes.
+Párrafo II.- El tribunal competente resuelve el incidente dentro de los tres dias, sin que su decisión esté sujeta a recurso alguno.

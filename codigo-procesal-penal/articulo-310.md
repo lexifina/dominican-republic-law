@@ -1,0 +1,9 @@
+Articulo 310.- Fijación de audiencia y solución de los incidentes. El presidente de la cámara, dentro de las cuarenta y ocho horas de recibidas las actuaciones, designa al juez o terna de jueces a cargo del juicio, conforme al sistema de gestión dispuesto por el Poder Judicial.
+Párrafo I.- El juez o tribunal apoderado fija el dia y la hora del juicio el cual se realiza entre los quince y los cuarenta y cinco dias siguientes.
+Párrafo II.- Las excepciones y cuestiones incidentales que se funden en hechos nuevos, las discusiones sobre la exclusión de las pruebas ofertadas en audiencia preliminar y las recusaciones son interpuestas en el plazo de diez dias de la convocatoria al juicio y son resueltas en un solo acto por quien preside el tribunal dentro de los diez dias, a menos que resuelva diferir alguna para el momento de la sentencia. según convenga al orden del juicio. Esta resolución no es apelable.
+Párrafo III.- El juicio no puede ser pospuesto por el trámite o resolución de estos incidentes.
+Párrafo IV.- En el mismo plazo de diez dias de la convocatoria. las partes comunican al secretario el orden en el que pretenden presentar la prueba.
+Párrafo V.- El juez o tribunal, atendiendo a las particularidade s del caso. puede conceder plazos más extensos para la defensa y presentación de incidentes.
+Párrafo VI.- El secretario del tribunal notifica de inmediato a las partes. cita a los testigos y peritos, solicita los objetos, documentos y demás elementos de prueba y dispone cualquier otra medida necesaria para la organización y desarrollo del juicio.
+Párrafo VII.- Cuando el imputado se encuentre privado de libertad, el auto de fijación de juicio se le notifica personalmente.
+Párrafo VIII.- El encargado de su custodia también es notificado y debe velar porque el imputado comparezca a juicio el dia y hora fijados.

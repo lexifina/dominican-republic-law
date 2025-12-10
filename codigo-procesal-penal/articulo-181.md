@@ -1,0 +1,1 @@
+Articulo 181.- Dirección de registro colectivo ante investigación iniciada. El registro colectivo que se realiza a propósito de una investigación ya iniciada debe hacerse bajo la dirección del Ministerio Público.

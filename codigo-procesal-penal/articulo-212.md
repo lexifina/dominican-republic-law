@@ -1,0 +1,2 @@
+Articulo 212.- Facultad de las partes. Las partes pueden proponer otro perito en reemplazo del ya designado, o para que dictamine conjuntamente con él, cuando, por las circunstancias particulares del caso, resulte conveniente su participación, por su experiencia o idoneidad especial.
+Párrafo.- Las partes pueden proponer fundadamente temas para el peritaj y objetar los admitidos o propuestos por otra de las partes.

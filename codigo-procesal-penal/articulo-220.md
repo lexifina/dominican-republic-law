@@ -1,0 +1,1 @@
+Articulo 220.- Pericia cultural. En los casos de hechos punibles atribuidos a miembros de un grupo social con normas culturales propias. se puede ordenar una pericia para conocer las pautas culturales de referencia y lorar adecuadamente su responsabilidad penal.

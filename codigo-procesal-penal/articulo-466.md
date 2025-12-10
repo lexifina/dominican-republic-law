@@ -1,0 +1,4 @@
+Articulo 466.- Observaciones de reglas adicionales. No obstante, en adición a lo indicado en el articulo 465, para las medidas de seguridad se observarán las siguientes disposiciones:
+1) En caso de incapacidad interviene el representante legal, quien tiene la obligación de vigilar la ejecución de la medida;
+2) El juez determina el establecimiento, clínica, institución o pabellón siquiátrico adecuado y debidamente acreditado, para la ejecución de las medidas de seguridad; y puede modificar su decisión, incluso a petición del representante legal o de la dirección del establecimiento, pudiendo asesorarse a tales fines con peritos;
+3) El juez examina periódicamente la situación de quien está sujeto a una medida de seguridad, fijando un plazo no mayor de seis meses, entre una evaluación y otra; y decide sobre la cesación o continuación de aquella. Esta resolución es apelable.

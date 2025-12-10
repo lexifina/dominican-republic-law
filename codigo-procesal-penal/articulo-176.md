@@ -1,0 +1,4 @@
+Articulo 176.- Inspección del lugar del hecho. Los funcionarios del Ministerio Público o de la policía deben custodiar el lugar del hecho y comprobar. mediante la inspección del lugar y de las cosas. los rastros y otros efectos materiales que sean el resultado del hecho punible.
+Párrafo I.- El funcionario a cargo de la inspección levanta acta en la cual describe detalladamente el estado de los lugares y de las cosas. recoge y conserva los elementos probatorios útiles, dejando constancia de ello en el acta.
+Párrafo II.- El acta debe ser firmada por el funcionario o agente responsable y, de ser posible, por uno o más testigos.
+Párrafo III.- Bajo las formalidades indicadas en este articulo, el acta puede ser incorporada al juicio por su lectura, sin perjuicio de que el funcionario y el testigo instrumental puedan ser citados para prestar su testimonio.

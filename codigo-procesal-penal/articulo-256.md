@@ -1,0 +1,1 @@
+Articulo 256.- Denuncia falsa. Cuando el denunciante hubiere provocado el proceso por medio de una denuncia basada en hechos falseados, y asi fuere declarado por el juez o tribunal, se le impone el pago total de las costas.

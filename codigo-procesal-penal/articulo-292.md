@@ -1,0 +1,2 @@
+Articulo 292.- Urgencia. Si alguno de los supuestos previstos en el articulo 291 es de extrema urgencia. el Ministerio Público puede requerir verbalmente la intervención del juez y este practica el acto con prescindencia de las citaciones previstas y, de ser necesario. designa un defensor público para que participe en la actuación.
+Párrafo.- Cuando se ha procedido por urgencia. después de practicado el acto, debe ser puesto en conocimiento de las partes, si las hay.

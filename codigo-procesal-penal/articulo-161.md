@@ -1,0 +1,1 @@
+Articulo 161.- Investigaciones conjuntas. El Ministerio Público puede coordinar la investigación con las autoridades encargadas del Estado interesado, pudiendo formarse a tales efectos equipos de investigación, dirigidos por el Ministerio Público y sometidos al control de los jueces.

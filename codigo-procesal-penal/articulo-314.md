@@ -1,0 +1,3 @@
+Articulo 314.- Participación de los medios de comunicación. Los medios de comunicación pueden instalar en la sala de audiencias los equipos técnicos a los fines de informar al público sobre las incidencias del juicio.
+Párrafo I.- El tribunal señala en cada caso las condiciones en que se ejerce el derecho a informar.
+Párrafo II.- El tribunal puede, sin embargo, prohibir, mediante auto debidamente fundamentado, la grabación, fotografié, filmación, edición o reproducción, cuando puedan resultar afectados algunos de los intereses señalados en el articulo 313 o cuando se limite el derecho del imputado o de la victima a un juicio imparcial y justo.

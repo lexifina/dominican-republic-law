@@ -1,0 +1,1 @@
+Articulo 443.” Procedimiento del recurso de casación. Para lo relativo al procedimiento sobre el recurso de casación, se aplican, analógicamente. las disposiciones relativas al recurso de apelación de las sentencias. salvo en lo relativo al plazo para decidir que se extiende hasta treinta dias, en todos los casos.

@@ -1,0 +1,2 @@
+Articulo 260.- Determinación del importe de indemnización. Al resolver favorablemente la revisión que origina la indemnización, el tribunal fija su importe a razón de un día de salario base del juez de primera instancia por cada día de prisión o de inhabilitación injusta.
+Párrafo.- La aceptación de la indemnización fijada. según lo indicado en este artículo. impide demandar ante los tribunales competentes por la vía que corresponda. a quien pretenda una indemnización superior.

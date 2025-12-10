@@ -1,0 +1,2 @@
+Articulo 171.- Renovación, rectificación o cumplimiento. Cuando no se violen derechos o garantías del imputado, los actos defectuosos pueden ser inmediatamente saneados, renovando el acto, rectificando el error, o cumpliendo el acto omitido, de oficio o a petición del interesado.
+Párrafo.- No se puede retrotraer el proceso a etapas anteriores, bajo pretexto del saneamiento, salvo los casos expresamente señalados por este código.

@@ -1,0 +1,6 @@
+Articulo 451.- Decisión del recurso de revisión. Al resolver sobre el recurso de revisión. la Suprema Corte de Justicia puede rechazarlo en cuyo caso la sentencia atacada queda confirmada; o anular la sentencia. En este último caso, la Suprema Corte de Justicia:
+1) Dicta directamente la sentencia del caso, cuando resulte la absolución o la extinción de la pena, en cuyo caso ordena la libertad del condenado si está preso; u ordena la rebaja procedente, cuando la ley haya disminuido la pena establecida;
+2) Ordena la celebración de un nuevo juicio, cuando es necesaria una nueva valoración de la prueba.
+Párrafo I.- En el nuevo juicio no se puede absolver ni modificar la sentencia como consecuencia de una nueva apreciación de los mismos hechos del proceso anterior, con prescindencia de los motivos que tornaron admisible la revisión.
+Párrafo II.~ La sentencia que se dicte en el nuevo juicio no puede contener una pena más grave que la impuesta en la primera sentencia.
+Párrafo III.- Cuando la sentencia es absolutoria, el recurrente puede exigir su publicación en el Boletín Judicial y en un periódico de circulación nacional, asi como la restitución, por quien las percibió, de las sumas pagadas por concepto de multas, costas y daños y perjuicios.

@@ -1,0 +1,4 @@
+Articulo 247.- Embargo y otras medidas conservatorias. Para garantizar la reparación de los daños y perjuicios provocados por el hecho punible y el pago de las costas del procedimiento, las partes pueden formular al juez la solicitud de embargo, inscripción de hipoteca judicial u otras medidas conservatorias previstas por la ley civil.
+Párrafo I.- El Ministerio Público puede solicitar estas medidas para garantizar el pago de las multas imponibles o de las costas o cuando la acción civil le haya sido delegada.
+Párrafo II.- No es necesario notificar la solicitud de imposición de medida de coerción real a la persona contra la cual se dirige, pero es obligatorio notificar la medida una vez se haya ejecutado, momento en el cual se abre la oportunidad de ejercer apelación que, en estos casos, no produce efecto suspensivo.
+Párrafo III.- Esta medida se puede solicitar en cualquier estado del y se resuelve de manera administrativa.

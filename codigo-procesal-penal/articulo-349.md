@@ -1,0 +1,1 @@
+Articulo 349.- Cumplimiento de la pena en el extranjero. En el caso de extranjeros provenientes de paises con los cuales existan tratados de cooperación judicial o penitenciaria, el tribunal puede ordenar que la pena sea cumplida total o parcialmente en el pais de origen o residencia del imputado.

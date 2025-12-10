@@ -1,0 +1,2 @@
+Articulo 279.- Medida precautoria. Cuando, en el primer momento de investigación de un hecho no sea posible individualizar al autor, al cómplice ni a los testigos y se deba proceder con urgencia para no perjudicar la averiguación de la verdad, la policía puede disponer que los presentes no se alejen del lugar, ni se comuniquen entre si antes de informar, ni se modifique el estado de las cosas, ni de los lugares. disponiendo las medidas que el caso requiera.
+Párrafo.- Esta medida no puede exceder el plazo de seis horas.

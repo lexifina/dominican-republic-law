@@ -1,0 +1,1 @@
+Articulo 184.- Registro de moradas y lugares privados. El registro de un recinto privado, destinado a la habitación o a otros fines particulares, solo puede realizarse, a solicitud del Ministerio Público, por orden de allanamiento expedida mediante resolución judicial motivada.

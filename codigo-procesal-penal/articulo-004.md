@@ -1,0 +1,1 @@
+Articulo 4.- Juez natural. Nadie puede ser juzgado, condenado o sometido a una medida de seguridad, por comisiones o tribunales especiales ni sometido a otros tribunales que los constituidos conforme a este código con anterioridad a los hechos de la causa.

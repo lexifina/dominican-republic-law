@@ -1,0 +1,1 @@
+Articulo 155.- Demora. Cuando se ha planteado la revisión o un recurso contra una decisión que impone medidas de coerción y el juez o la corte no resuelven dentro de los plazos establecidos en este código, las partes pueden requerir su pronto despacho, debiendo el tribunal apoderado rendir su decisión en un plazo no mayor de cuarenta y ocho horas.

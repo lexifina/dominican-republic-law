@@ -1,0 +1,3 @@
+Articulo 325.- Declaración del imputado. Una vez que se declare la apertura de juicio se da preferencia al imputado para que declare si lo estima conveniente para su defensa, y el presidente le explica, con palabras claras y sencillas, el hecho que se le atribuye, con la advertencia de que puede abstenerse de declarar, sin que su silencio o reserva le perjudique y que el juicio puede continuar, aunque él no declare.
+Párrafo I.- El imputado puede exponer cuanto estime conveniente. Luego es interrogado por el Ministerio Público, el querellante, el actor civil, el defensor y los miembros del tribunal en ese orden.
+'árrafo II.- Durante la audiencia, las partes y el tribunal pueden formular F reguntas destinadas a esclarecer sus manifestaciones.

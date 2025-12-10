@@ -1,0 +1,2 @@
+Articulo 74.- Jueces de la instrucción. Corresponde a los jueces de la instrucción resolver todas las cuestiones en las que la ley requiera la intervención de un juez durante el procedimiento preparatorio, dirigir la audiencia preliminar, dictar las resoluciones pertinentes y dictar sentencia conforme a las reglas del procedimiento abreviado.
+Párrafo.- La Suprema Corte de Justicia reglamentará, en apoyo a la gestión del despacho judicial, los lineamientos para la tramitación física y digital, y la habilitación de credenciales cuando fuere necesario.

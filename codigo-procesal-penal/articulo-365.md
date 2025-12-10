@@ -1,0 +1,5 @@
+Articulo 365.- Medidas de coerción. Las medidas de coerción no aplican en materia de infracciones leves, salvo el arresto, el cual no puede exceder en ningún caso las doce horas. a pena de nulidad del requerimiento.
+Párrafo I.- Para los demás casos los jueces de paz podrán imponer cualquiera de las medidas de coerción previstas en la ley.
+árrafo II.- La prisión preventiva solo podrá ser impuesta cuando ocurra la muerte del accidentado, el imputado emprenda la huida o se trate de un hecho cuya pena imponible supere los dos años de privación de libertad.
+Párrafo III.- El juez que conozca la imposición de medida de coerción establecerá en su decisión el plazo para la investigación del caso y fija la fecha para la revisión de la medida.
+Párrafo IV.- En caso de que el plazo de duración de la investigación haya vencido al momento de la vista de revisión de la medida. el juez intima al Ministerio Público si este no ha presentado su requerimiento conclusivo, y fija fecha para celebrar la audiencia de extinción, valiendo notificación para las partes.

@@ -1,0 +1,3 @@
+Articulo 329.- Recepción y exhibición de pruebas. Recibida la declaración del imputado, si la hay, el tribunal procede a recibir las pruebas presentadas por el Ministerio Público, por el querellante, por el actor civil, por el tercero civilmente demandado y por la defensa, en ese orden. salvo que las partes y el tribunal acuerden alterarlo.
+Párrafo I.- La prueba es recibida en el orden escogido por cada una de las partes, conforme lo hayan comunicado al tribunal y a las demás partes en la preparación del juicio.
+Párrafo II.- ras partes o el tribunal, de oficio, podrán modificar el orden de presentación de sus pruebas en caso de incomparecencia de un testigo o perito.

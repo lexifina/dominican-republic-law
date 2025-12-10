@@ -1,0 +1,1 @@
+Articulo 453.- Derechos del condenado. El condenado goza de todos los derechos y facultades que le reconocen la Constitución de la República, los tratados internacionales, las leyes y este código, y no puede aplicársele mayores restricciones que las que expresamente dispone la decisión del juez competente y la ley.

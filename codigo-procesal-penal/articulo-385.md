@@ -1,0 +1,1 @@
+Articulo 385.- Rechazo. El juez o tribunal puede rechazar la aplicación del procedimiento especial por entender que no se trata de un inimputable ^.¿¿^corresponde la aplicación del procedimiento común.

@@ -1,0 +1,1 @@
+Articulo 23.- Obligación de decidir. Los jueces no pueden abstenerse de fallar so pretexto de silencio, contradicción, deficiencia, oscuridad o ambigüedad en los términos de las leyes, ni demorar indebidamente una decisión, so pena de ser acusados por denegación de justicia.

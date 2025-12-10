@@ -1,0 +1,2 @@
+Articulo 302.- Convocatoria de la audiencia preliminar. Presentado el acto conclusivo conjuntamente con los elementos de prueba reunidos durante la investigación, el secretario notifica a las partes, quienes deben examinarlos en el plazo común de quince dias a partir de la notificación.
+Párrafo.- Por el mismo acto. convoca a las partes a una audiencia oral y pública. a realizarse dentro de un plazo no menor de treinta dias ni mayor e cuarenta y cinco. posteriores a la presentación de los actos conclusivos.

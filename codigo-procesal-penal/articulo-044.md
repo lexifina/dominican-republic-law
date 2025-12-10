@@ -1,0 +1,2 @@
+Articulo 44.- Suspensión del plazo de prueba. El plazo de prueba se suspende mientras el imputado se encuentre privado de su libertad en razón de otro procedimiento.
+Párrafo.- Cuando, sin ser privado de su libertad, el imputado está sujeto a otro procedimiento, el plazo sigue corriendo, pero se suspende la declaración de extinción de la acción penal hasta que se dicte la resolución que lo sobresee, absuelve o extingue la acción penal a su respecto en el otro procedimiento.

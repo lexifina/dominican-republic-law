@@ -1,0 +1,3 @@
+Articulo 15.- Estatuto de libertad. Toda persona tiene derecho a la libertad y a la seguridad personal.
+Párrafo I.- Las medidas de coerción restrictivas de la libertad personal o de otros derechos, tienen carácter excepcional y su aplicación debe ser proporcional al peligro que tratan de resguardar.
+Párrafo II.- Toda persona que se encuentre privada de su libertad o amenazada de ello, de manera arbitraria o irrazonable, tiene derecho a recurrir ante cualquier juez o tribunal, a fin de que este conozca y decida obre la legalidad de tal privación o amenaza, en los términos que lo establece este código.

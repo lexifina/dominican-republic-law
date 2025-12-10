@@ -1,0 +1,1 @@
+Articulo 468.- Infracciones leves. Las infracciones leves se entenderán por contravenciones, hasta la entrada en vigencia de la Ley Orgánica que instituye el Código Penal de la República Dominicana, núm. 74-25, del 3 de agosto de 2025.
