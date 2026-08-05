@@ -1,0 +1,1 @@
+Artículo 295.- Penas complementarias por cohecho y tráfico de influencias. A la persona física imputable o jurídica responsable de las infracciones definidas en los artículos 291 y 294, se le podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34 y 41.

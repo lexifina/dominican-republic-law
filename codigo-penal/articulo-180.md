@@ -1,0 +1,8 @@
+Artículo 180.- Otros supuestos de la explotación sexual de niños, niñas y adolescentes. La explotación sexual de niños, niñas y adolescentes quedará tipificada por una de las actuaciones punibles siguientes:
+1) Si de cualquier forma se promueve, facilita, instiga, recluta u organiza la utilización de niños, niñas y adolescentes en publicaciones o actividades pornográficas, espectáculos sexuales, turismo sexual o en la práctica de relaciones de índole sexuales que generen beneficio, remuneración o ventaja;
+2) Si se paga o se promete pagar, con dinero u otra ventaja de cualquier naturaleza, a un niño, niña o adolescente para que realice actos o sostenga relaciones de índole sexuales;
+3) Si se promueve, ofrece o vende la República Dominicana como destino sexual de niños, niñas y adolescentes, a través de medios electrónicos, revistas, periódicos, folletos o por cualquier otro medio;
+4) Si de cualquier forma se financia, produce, reproduce, publica, posee, distribuye, importa, exporta, exhibe, ofrece, vende o comercia imágenes de niños, niñas y adolescentes en actividades sexuales o eróticas sean estas explícitas o no, reales o simuladas, o se utiliza la voz de un niño, niña y adolescente, para realizar o simular realizar dichas actividades en forma directa o a través de medios electrónicos, digitales, difusión o por cualquier otro medio;
+5) Si se utiliza a niños, niñas y adolescentes en actos de exhibicionismo o en espectáculos públicos o privados con fines sexuales o se les facilita a estos el acceso a estos espectáculos;
+6) Si se suministra pornografía real o simulada a niños, niñas y adolescentes, o se acepten como espectador de actos de índole sexuales;
+7) Si se obliga a participar en actos pornográficos por medios electrónicos o digitales.

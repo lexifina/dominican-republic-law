@@ -1,0 +1,2 @@
+Artículo 253.- Abuso de confianza agravado. Cuando la suma envuelta en el abuso de confianza exceda de cincuenta salarios mínimos del sector público, la sanción será de tres a cinco años de prisión menor y multa de nueve a quince salarios mínimos del sector público.
+Párrafo.- Si el abuso de confianza se comete acompañado de una de las circunstancias que se enumeran en los artículos 238, 239, y 244, la sanción será de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

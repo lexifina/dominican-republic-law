@@ -1,0 +1,1 @@
+Artículo 230.- Robo famélico. Constituye robo famélico la sustracción de productos de primera necesidad, sean estos comestibles o de salud, que se comete sin emplear violencia física y para satisfacer necesidades del imputado o de sus familiares, y que no sea de modo habitual. El robo famélico será sancionado con trabajo de interés comunitario no remunerado.

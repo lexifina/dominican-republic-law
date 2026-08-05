@@ -1,0 +1,1 @@
+Artículo 213.- Penas complementarias aplicables a las personas físicas imputables y jurídicas responsables. A las personas físicas imputables y jurídicas responsables de las infracciones definidas en los artículos 186 al 190 y 198 al 210, se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34, 38, 41 y 45.

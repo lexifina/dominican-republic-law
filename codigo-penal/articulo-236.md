@@ -1,0 +1,1 @@
+Artículo 236.- Medidas de seguimiento sociojudicial por extorsión o chantaje. A las personas físicas imputadas de la comisión de la extorsión o del chantaje, el tribunal les podrá imponer una o varias de las medidas de seguimiento sociojudicial dispuestas en el artículo 68.

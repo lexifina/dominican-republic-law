@@ -1,0 +1,38 @@
+Artículo 85.- Infracciones muy graves de guerra. Son infracciones muy graves de guerra y se sancionarán con treinta a cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público, cometer u ordenar cometer en tiempos de guerra o durante un conflicto armado de carácter internacional o nacional, uno de los actos siguientes:
+1) El homicidio realizado contra personas no beligerantes;
+2) La tortura u otros tratos crueles, inhumanos o degradantes, así como los ultrajes a la dignidad de la persona;
+3) El sometimiento a experimentos biológicos, médicos o científicos;
+4) La destrucción, apropiación o saqueo de bienes;
+5) El obligar a prestar servicio en fuerzas enemigas o a participar en acciones bélicas;
+6) La denegación de un juicio justo;
+7) La deportación o traslado ilegal;
+8) El confinamiento ilegal;
+9) La toma de rehenes;
+10) Los ataques contra la población civil;
+11) Los ataques contra objetivos civiles;
+12) Los ataques contra el personal u objetos participantes en misiones de paz o de asistencia humanitaria;
+13) El causar muertes, lesiones o daños incidentales excesivos;
+14) Los ataques a lugares no defendidos;
+15) El causar la muerte o lesiones a una persona que esté fuera de combate;
+16) El uso indebido de una bandera blanca;
+17) El uso indebido de la insignia o el uniforme del enemigo;
+18) El uso indebido de una bandera o insignia de las Naciones Unidas o de organismos de asistencia, socorro o de tregua;
+19) La utilización indebida de una bandera u otros signos de protección previstos en los tratados internacionales ratificados por la República Dominicana;
+20) Traslado forzoso de población;
+21) El ataque a objetos protegidos;
+22) La mutilación;
+23) El matar o herir a traición;
+24) El no dar cuartel cuando se ha pactado debidamente una tregua, pero para los no beligerantes o no combativos;
+25) El empleo de veneno o armas envenenadas;
+26) El empleo de gases, líquidos, materiales o dispositivos prohibidos o tóxicos;
+27) El empleo de armas o municiones prohibidas;
+28) La violación sexual, esclavitud sexual, prostitución forzada, embarazo forzado, esterilización forzada o violencia sexual;
+29) El empleo de personas protegidas como escudos;
+30) El causar la muerte por inanición o hacer padecer hambre o sed a la población civil como método de hacer la guerra;
+31) La utilización o reclutamiento de niños, niñas y adolescentes en las fuerzas armadas;
+32) La aplicación de castigos colectivos o la realización de actos o amenazas que tengan por objeto aterrorizar a la población civil;
+33) La violación de la tregua o el armisticio acordados;
+34) La continuación del ataque a personas fuera de combate, a sabiendas de que han existido actos inequívocos de rendición por parte del adversario, con el fin de no dejar sobrevivientes, de rematar a los heridos y enfermos, o de abandonarlos, así como cualquier otro tipo de acto de barbarie;
+35) La omisión de medidas de socorro y asistencia humanitaria;
+36) El ataque a zonas desmilitarizadas;
+37) El ataque que cause daños extensos, duraderos y graves a los recursos naturales y al medioambiente.

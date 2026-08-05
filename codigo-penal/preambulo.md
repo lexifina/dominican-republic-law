@@ -1,0 +1,54 @@
+Considerando primero: Que el Código Penal de la República Dominicana, promulgado mediante el Decreto-Ley núm.2274, del 20 de agosto de 1884, después de más de un siglo de vigencia, es un instrumento legal que no responde eficazmente a las necesidades de prevención, control y represión de las infracciones que se presentan actualmente en la sociedad dominicana y a nivel internacional;
+Considerando segundo: Que el Estado tiene la obligación de garantizar la paz, la convivencia social y la seguridad ciudadana, mediante la prevención de las infracciones y la protección efectiva de las víctimas, así como la reeducación social de las personas infractoras de conformidad con la Constitución de la República y los tratados internacionales ratificados por el Congreso Nacional;
+Considerando tercero: Que el Estado debe adoptar políticas públicas que involucren a la ciudadanía en la prevención y control de las infracciones, en todas sus modalidades, tiempo y lugar;
+Considerando cuarto: Que la legislación penal debe aportar herramientas eficaces a fin de ofrecer soluciones a la justicia para hacer más efectivo su funcionamiento en favor de su legitimidad y credibilidad, a fin de fortalecer el Estado social y democrático de derecho;
+Considerando quinto: Que la sociedad dominicana requiere de la aprobación de un código penal que responda a los principios fundamentales establecidos en la Constitución de la República;
+Considerando sexto: Que es necesaria la revisión y actualización del Código Penal, establecido por el Decreto-Ley núm.2274, del 20 de agosto de 1884, así como la incorporación racional de los tipos penales y sanciones acordes con el avance y modalidades de nuevas conductas y actuaciones delictivas;
+Considerando séptimo: Que la Constitución de la República establece la proscripción de la corrupción y la sanciona en todas sus formas en los órganos del Estado, tanto en sus instituciones autónomas como en las descentralizadas;
+Considerando octavo: Que de conformidad con los términos de la Constitución de la República, la finalidad principal del Estado consiste en la protección efectiva de los derechos de la persona humana y el mantenimiento de los medios que le permitan perfeccionarse progresivamente dentro de un orden de libertad individual y justicia social, compatible con el orden público, el bienestar general y los derechos de todos.
+Vista: La Constitución de la República Dominicana;
+Vista: La Declaración Universal de los Derechos Humanos;
+Vista: La Resolución núm. 684, del 27 de octubre de 1977, que aprueba el Pacto Internacional de Derechos Civiles y Políticos auspiciado por las Naciones Unidas;
+Vista: La Resolución núm. 739, del 25 de diciembre de 1977, que aprueba la Convención Interamericana sobre Derechos Humanos;
+Vista: La Resolución núm. 8-91, del 23 de junio de 1991, que aprueba la Convención sobre los Derechos del Niño;
+Vista: La Resolución núm. 14-95, del 16 de noviembre de 1995, que aprueba la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer;
+Vista: La Resolución núm. 50-01, del 15 de marzo de 2001, que aprueba la Convención Interamericana para la Eliminación de todas las Formas de Discriminación contra las Personas con Discapacidad, suscrita el 7 de junio de 1999, en el Vigésimo Noveno Periodo Ordinario de Sesiones de la Asamblea General de la O. E. A;
+Visto: El Decreto-Ley núm. 2236, del 5 de junio de 1884, del C. N. sancionando el Código de Comercio;
+Visto: El Decreto-Ley núm. 2274, del 20 de agosto de 1884, del C. N. sancionando el Código Penal de la República;
+Vista: La Ley núm. 5007, del 28 de junio de 1911, Ley que define los Delitos Políticos;
+Vista: La Orden Ejecutiva núm. 202, del 28 de agosto de 1918, que castiga el Perjurio;
+Vista: La Ley núm. 64, del 19 de noviembre de 1924, que dispone que los crímenes que hasta la publicación de la Constitución vigente eran sancionados con la pena de muerte, serán en lo adelante castigados con la pena de 30 años de trabajos públicos;
+Vista: La Ley núm. 387, del 10 de noviembre de 1932, de Casas de Compraventa o de Empeño;
+Vista: La Ley núm. 5797, del 12 de enero de 1962, que castiga con prisión correccional y con multa de RD$25.00 a RD$200.00 sin perjuicio de las penas que puedan aplicarse a los autores de hechos previstos y sancionados por el Código Penal de la República Dominicana (ataques por dos personas o más a la propiedad ajena);
+Vista: La Ley núm. 5869, del 24 de abril de 1962, que castiga con prisión correccional y multa, a las personas que sin permiso del dueño se introduzcan en propiedades inmobiliarias urbanas o rurales;
+Vista: La Ley núm. 6132, del 15 de diciembre de 1962, de Expresión y Difusión del Pensamiento;
+Vista: La Ley núm. 6-96 del 24 de agosto de 1996, dispone que toda persona privada de su libertad por autoridad policial o militar, tiene derecho a comunicarse con sus familiares por vía telefónica u otra vía;
+Vista: La Ley núm. 24-97, del 27 de enero de 1997, que introduce modificaciones al Código Penal y al Código para la Protección de Niños, Niñas y Adolescentes;
+Vista: La Ley núm. 329-98, del 11 de agosto de 1998, que regula la Donación y Legado, Extracción, Conservación e Intercambio para Trasplante de Órganos y Tejidos Humanos;
+Vista: La Ley núm. 352-98, del 15 de agosto de 1998, sobre Protección de la Persona Envejeciente;
+Vista: La Ley núm. 42-01, del 8 de marzo de 2001, Ley General de Salud;
+Vista: La Ley núm. 125-01, del 26 de julio de 2001, Ley General de Electricidad;
+Vista: La Ley núm. 76-02, del 19 de julio de 2002, que establece el Código Procesal Penal de la República Dominicana;
+Vista: La Ley núm. 88-03, del 1 de mayo de 2003, que instituye las Casas de Acogidas o Refugios, en todo el territorio nacional para albergar mujeres, niños, niñas y adolescentes víctimas de violencia intrafamiliar o doméstica;
+Vista: La Ley núm. 136-03, del 7 de agosto de 2003, que crea el Código para el Sistema de Protección y los Derechos Fundamentales de Niños, Niñas y Adolescentes;
+Vista: La Ley núm. 137-03, del 7 de agosto de 2003, sobre Tráfico Ilícito de Migrantes y Trata de Personas;
+Vista: La Ley núm. 287-04, del 15 de agosto de 2004, sobre Prevención, Supresión y Limitación de Ruidos Nocivos y Molestos que Producen Contaminación Sonora;
+Vista: La Ley núm. 158-06, del 7 de abril 2006, que modifica 1os artículos 5 y 7 de la Ley núm. 6-96 del 24 de agosto de 1996, que establece que toda persona privada de su libertad por autoridad policial o militar, tiene derecho a comunicarse con sus familiares por vía telefónica u otra vía;
+Vista: La Ley núm. 53-07, del 23 de abril de 2007, sobre Crímenes y Delitos de Alta Tecnología;
+Vista: La Ley núm. 41-08, del 16 de enero de 2008, de Función Pública y crea la Secretaría de Estado de Administración Pública;
+Vista: La Ley núm. 133-11, del 7 de junio de 2011, Ley Orgánica del Ministerio Público;
+Vista: La Ley núm. 1-12, del 25 de enero de 2012, que establece la Estrategia Nacional de Desarrollo 2030;
+Vista: La Ley núm. 247-12, del 9 de agosto de 2012, Ley Orgánica de la Administración Pública;
+Vista: La Ley núm. 248-12, del 9 de agosto de 2012, de Protección Animal y Tenencia Responsable;
+Vista: La Ley núm. 141-15, del 7 de agosto de 2015, de Reestructuración y Liquidación de Empresas y Personas Físicas Comerciantes. Deroga los artículos del 437 al 614 del Código de Comercio y la Ley núm.4582 del año 1956, sobre Declaración de Estado de Quiebra;
+Vista: La Ley núm. 590-16, del 15 de julio de 2016, Ley Orgánica de la Policía Nacional;
+Vista: La Ley núm. 631-16, del 2 de agosto de 2016, para el Control y Regulación de Armas, Municiones y Materiales Relacionados;
+Vista: La Ley núm. 63-17, del 21 de febrero de 2017, de Movilidad, Transporte Terrestre, Tránsito y Seguridad Vial de la República Dominicana;
+Vista: La Ley núm. 155-17, del 1. de junio de 2017, que deroga la Ley núm. 72-02 del 26 de abril de 2002, sobre Lavado de Activos Provenientes del Tráfico Ilícito de Drogas, con excepción de los artículos 14, 15, 16, 17 y 33, modificados por la Ley núm. 196-11;
+Vista: La Ley núm. 33-18, del 13 de agosto de 2018, de Partidos, Agrupaciones y Movimientos Políticos;
+Vista: La Ley núm. 90-19, del 8 de abril de 2019, que modifica la Ley núm.287-04, del 15 de agosto de 2004, sobre Prevención, Supresión y Limitación de Ruidos Nocivos y Molestos que Producen Contaminación Sonora.
+Vista: La Ley núm. 20-23, del 17 de febrero de 2023, Ley Orgánica de Régimen Electoral, que deroga la Ley nún.15-19, Orgánica de Régimen Electoral y sus modificaciones;
+Vista: La Ley núm. 61-23, del 30 de octubre de 2023, que sanciona el Delito de Abigeato en la República Dominicana. Deroga el párrafo 1 del artículo 388 del Código Penal, modificado por las leyes núms.597 del 1965 y 46-99;
+Vista: La Ley núm. 44-23, del 2 de agosto de 2023, de Política Nacional Antidopaje;
+Vista: La Ley núm. 47-25, del 28 de julio de 2025, de Contrataciones Públicas.
+HA DADO LA SIGUIENTE LEY:

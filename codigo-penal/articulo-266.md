@@ -1,0 +1,3 @@
+Artículo 266.- Incendio agravado. Si el incendio causa una lesión o incapacidad no permanente a una persona, siempre que no sea permanente, la sanción será de treinta años de prisión mayor y multa de treinta a cuarenta salarios mínimos del sector público.
+Párrafo I.- Si el incendio causa una lesión o incapacidad permanente, la sanción será de treinta a cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público.
+Párrafo II.- Si el incendio causa la muerte de una persona, la sanción será de cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público.

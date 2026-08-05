@@ -1,0 +1,1 @@
+Artículo 370.- Responsabilidad de las personas jurídicas por falsedad. Las personas jurídicas podrán ser declaradas penalmente responsables de las infracciones contenidas en los artículos 357 al 368, en las condiciones previstas en los artículos 8 al 11, en cuyo caso serán sancionadas con la pena dispuesta en el artículo 39.

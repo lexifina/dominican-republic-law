@@ -1,0 +1,1 @@
+Artículo 319.- Usurpación de uniformes e insignias agravada. Cuando los hechos previstos en los artículos 317 y 318 tengan por objeto preparar o facilitar la comisión de alguna infracción muy grave o grave, la sanción será de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

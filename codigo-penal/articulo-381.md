@@ -1,0 +1,1 @@
+Artículo 381.- Atentado agravado. Si el atentado es cometido por un funcionario o servidor público en el ejercicio o con ocasión del ejercicio de sus funciones, las penas serán aumentadas de treinta a cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público.

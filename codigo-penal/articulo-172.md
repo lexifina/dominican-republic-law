@@ -1,0 +1,1 @@
+Artículo 172.- Medidas sociojudiciales por arresto ilegal, rapto o secuestro, apresamiento y vejamen. A las personas físicas imputadas por la comisión de las infracciones definidas en los artículos 165 al 171, el tribunal podrá imponerles una o varias de las medidas de seguimiento sociojudicial dispuestas en el artículo 68.

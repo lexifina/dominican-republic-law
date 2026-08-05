@@ -1,0 +1,1 @@
+Artículo 101.- Homicidio preterintencional. Quien, mediante golpes, heridas o violencia mate a otro de modo preterintencional, o sea, sin haber querido matarlo, aunque sí hubiese querido infligirle otros daños corporales, será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

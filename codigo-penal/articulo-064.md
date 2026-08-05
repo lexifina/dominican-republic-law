@@ -1,0 +1,2 @@
+Artículo 64.- Medidas de seguimiento sociojudicial. Son medidas de seguimiento sociojudicial aquellas que puede ordenar el tribunal para obligar al condenado, una vez cumplida la pena de prisión que se le impuso, a sujetarse a controles de vigilancia o asistencia bajo la inspección o control del juez de ejecución de la pena.
+Párrafo.- Bajo ninguna circunstancia se computará el tiempo de la medida sociojudicial como parte de la pena privativa de libertad.

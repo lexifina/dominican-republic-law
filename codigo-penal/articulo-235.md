@@ -1,0 +1,1 @@
+Artículo 235.- Penas complementarias a la extorsión o chantaje. A las personas físicas imputables y jurídicas responsables de la extorsión o el chantaje se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34, 38, 41 y 45, según corresponda.

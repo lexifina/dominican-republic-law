@@ -1,0 +1,1 @@
+Artículo 65.- Aplicación de las medidas sociojudiciales. Las medidas sociojudiciales se aplicarán no solo a las infracciones establecidas en este código, sino también a las contenidas en otras leyes con sanciones penales.

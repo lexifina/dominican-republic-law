@@ -1,0 +1,1 @@
+Artículo 178.- Prostitución. Para los fines del artículo 176 y de este código, se entenderá por prostitución toda relación de índole sexual realizada entre adultos a cambio de una remuneración o promesa de remuneración económica.

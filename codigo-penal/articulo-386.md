@@ -1,0 +1,1 @@
+Artículo 386.- Incitación para armarse contra el Estado. Quien incite o arengue a otras personas a armarse contra la autoridad del Estado dominicano, contra cualquiera de sus instituciones o contra una parte de la población, será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

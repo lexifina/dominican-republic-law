@@ -1,0 +1,1 @@
+Artículo 359.- Falsificación de billetes o monedas sin valor. Quien imite o falsifique monedas o billetes de banco que circularon o tuvieron curso legal en la República Dominicana o en el extranjero, pero que ya no circulan o no tienen valor, será sancionado con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

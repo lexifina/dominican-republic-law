@@ -1,0 +1,1 @@
+Artículo 375.- Traición. Constituye traición el hecho de entregar a una nación u organización extranjera o bajo control extranjero, o a sus agentes, tropas pertenecientes a las fuerzas armadas nacionales, o parte o todo el territorio nacional. La traición será sancionada con treinta a cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público.

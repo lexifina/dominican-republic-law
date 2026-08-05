@@ -1,0 +1,1 @@
+Artículo 204.- Reproducción asistida no consentida. Quien practique la reproducción asistida a una mujer sin su consentimiento será sancionado con pena de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

@@ -1,0 +1,2 @@
+Artículo 255.- Destrucción o distracción de objeto embargado. La persona embargada que destruya o distraiga un objeto que haya sido embargado en sus manos y que conserva solo a título de garantía de los derechos del acreedor persiguiente, será sancionado con uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público.
+Párrafo.- Con las mismas penas será sancionado el tercero guardián de la cosa que destruya o distraiga cualquier objeto puesto en su custodia con ocasión de un proceso de ejecución.

@@ -1,0 +1,1 @@
+Artículo 93.- Feminicidio. Constituye feminicidio el hecho que cause la muerte de una mujer en razón de ser mujer, independientemente de la edad, relación de pareja, sin importar el lugar donde ocurra. El feminicidio será sancionado con pena de treinta a cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público.

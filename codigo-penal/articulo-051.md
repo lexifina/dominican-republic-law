@@ -1,0 +1,3 @@
+Artículo 51.- Reincidencia. Habrá reincidencia cuando una persona condenada por sentencia irrevocable de un tribunal nacional o extranjero cometa o incurra en una nueva infracción muy grave o grave o incurra nueva vez en la misma infracción u otra de igual naturaleza.
+Párrafo I. - La reincidencia solo se aplicará si entre la primera y la segunda infracción no ha transcurrido un lapso superior a diez años, en caso de infracciones graves, a contar de la fecha en que la sentencia de condena precedente se haya hecho irrevocable o haya prescrito, según corresponda.
+Párrafo II.- En los casos de infracciones muy graves la reincidencia siempre aplica.

@@ -1,0 +1,1 @@
+Artículo 307.- Penas complementarias por infracciones contra la Administración Pública. A la persona física imputable de las infracciones definidas en los artículos 284 al 306 se le podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30 y 34.

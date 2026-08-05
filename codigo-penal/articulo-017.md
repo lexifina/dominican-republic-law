@@ -1,0 +1,2 @@
+Artículo 17.- Error de tipo invencible. No es típica la conducta cometida bajo el error de tipo invencible que recae sobre uno de los elementos del tipo penal. El error de tipo vencible equivale a imprudencia.
+Párrafo.- No será penalmente responsable por la acción u omisión a quien por error de prohibición invencible haya entendido que actuaba conforme a la ley. El error de prohibición vencible será sancionado de acuerdo a los criterios de reducción de la pena.

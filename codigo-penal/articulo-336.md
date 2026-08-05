@@ -1,0 +1,1 @@
+Artículo 336.- Violación de sellos. Quien rompa los sellos que han sido fijados por la autoridad judicial competente, será sancionado con quince días a un año de prisión menor y multa de uno a dos salarios mínimos del sector público.

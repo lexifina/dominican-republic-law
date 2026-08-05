@@ -1,0 +1,1 @@
+Artículo 371.- Penas complementarias por falsificación. A las personas físicas imputables o jurídicas responsables de las infracciones definidas en los artículos 357 al 368, podrán ser sancionadas con una o varias de las penas complementarias dispuestas en los artículos 30, 34, 38 y 41.

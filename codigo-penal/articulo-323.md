@@ -1,0 +1,1 @@
+Artículo 323.- Penas complementarias por atentados contra la función pública. A las personas físicas imputables por las infracciones definidas en los artículos 309 al 322, se les sancionará, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34 y 41.

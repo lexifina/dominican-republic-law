@@ -1,0 +1,1 @@
+Artículo 388.- Aplicación de disposiciones. En todos los casos en que alguna ley u otra norma jurídica remitan a uno o varios de los artículos del Código Penal de la República Dominicana del 20 de agosto de 1884, se aplicarán las respectivas disposiciones tipificadas en el presente código.

@@ -1,0 +1,2 @@
+Artículo 156.- Abandono agravado. Si por causa del abandono se le produce a la víctima una mutilación, lesión o incapacidad permanente, la sanción será de dos a cinco años de prisión menor y multa de nueve a quince salarios mínimos del sector público.
+Párrafo.- Cuando el abandono cause la muerte de la víctima, la sanción se aumentará de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

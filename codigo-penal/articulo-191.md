@@ -1,0 +1,1 @@
+Artículo 191.- Responsabilidad de las personas jurídicas. Las personas jurídicas podrán ser declaradas penalmente responsables de las infracciones definidas en los artículos 186 al 190, en las condiciones previstas en los artículos 8 al 11, en cuyo caso serán sancionadas con la pena dispuesta en el artículo 39.

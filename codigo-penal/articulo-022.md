@@ -1,0 +1,1 @@
+Artículo 22.- Naturaleza de las infracciones. Las infracciones muy graves y graves contempladas en el presente código serán reputadas de naturaleza dolosa, salvo en aquellos casos en que se establezca expresamente el carácter culposo de la conducta de que se trate.

@@ -1,0 +1,1 @@
+Artículo 219.- Comisión de infracción acompañado de un niño, niña o adolescente. Quien se haga acompañar de un niño, niña o adolescente para cometer una o varias infracciones será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

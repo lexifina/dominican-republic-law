@@ -1,0 +1,1 @@
+Artículo 89.- Penas complementarias aplicables a las personas físicas. A las personas físicas imputables de cometer las infracciones previstas en los artículos 82 al 87, se les impondrá, además de las penas de prisión ya dispuestas, una o varias de las penas complementarias establecidas en este código.

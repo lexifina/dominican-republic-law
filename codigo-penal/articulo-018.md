@@ -1,0 +1,3 @@
+Artículo 18.- Legítima defensa. Se considerará legítima defensa el acto dirigido a rechazar de modo simultáneo, y proporcional la agresión actual, inminente e injustificada que se ejecuta o que está en curso de ejecutarse en contra de sí mismo o de otra persona. No es antijurídica la conducta de quien actúa en legítima defensa.
+Párrafo I.- En la legítima defensa siempre prevalecerá la proporcionalidad relativa al bien jurídico protegido sobre la proporcionalidad de medios.
+Párrafo II.- No habrá legítima defensa ni presunción de ella si la agresión rechazada ha sido precedida por un acto de provocación cometido por quien la invoque.

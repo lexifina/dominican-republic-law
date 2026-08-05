@@ -1,0 +1,2 @@
+Artículo 260.- Ocultamiento de cadáver. Quien oculte el cadáver de una persona será sancionado con dos a cinco años de prisión menor y multa de nueve a quince salarios mínimos del sector público.
+Párrafo.- Si el cadáver ocultado corresponde a una persona que resultó muerta a consecuencia de la comisión de un hecho punible, el infractor será sancionado de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

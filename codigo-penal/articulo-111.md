@@ -1,0 +1,1 @@
+Artículo 111.- Eximente. La interrupción del embarazo practicado por personal de la salud especializado, no será sancionada si, para salvar la vida de la madre, del feto o ambos en peligro, se agotan todos los medios científicos y técnicos disponibles al momento del hecho.

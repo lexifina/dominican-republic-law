@@ -1,0 +1,1 @@
+Artículo 185.- Penas complementarias por infracciones contra niños, niñas y adolescentes. A las personas físicas imputables y a las personas jurídicas responsables de las infracciones definidas en los artículos 176 al 182, se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34, 38, 41 y 45 según corresponda.

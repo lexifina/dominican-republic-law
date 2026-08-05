@@ -1,0 +1,1 @@
+Artículo 100.- Medidas sociojudiciales por atentados dolosos contra la vida. A las personas físicas imputadas por la comisión de las infracciones descritas en los artículos 91 al 99, el tribunal podrá imponerles una o varias de las medidas de seguimiento sociojudicial dispuestas en el artículo 68.

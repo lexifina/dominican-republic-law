@@ -1,0 +1,2 @@
+Artículo 257.- Ocultamiento de cosas distraídas. Quien a sabiendas oculte cosas distraídas será sancionado con seis meses a un año de prisión menor y multa de uno a dos salarios mínimos del sector público.
+Párrafo.- Con iguales penas se sancionarán los cónyuges, parejas de hecho, ascendientes o descendientes del embargado, del deudor, del propietario, así como del tercero dador de prenda, que ayuden en la destrucción o distracción de un objeto embargado o en la tentativa de destrucción o distracción.

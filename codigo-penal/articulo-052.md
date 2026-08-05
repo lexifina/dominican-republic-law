@@ -1,0 +1,2 @@
+Artículo 52.- Sanción por reincidencia de la persona física. Si una persona física que ha sido condenada irrevocablemente por una infracción muy grave o grave comete otra infracción muy grave o grave, se le impondrá la pena inmediatamente superior a la que corresponda.
+Párrafo.- Si la segunda o ulterior infracción conlleva una pena de prisión mayor de treinta a cuarenta años, la pena aplicable será la de cuarenta años de prisión mayor.

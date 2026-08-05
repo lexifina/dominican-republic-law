@@ -1,0 +1,1 @@
+Artículo 216.- Inducción de abandono de un niño, niña o adolescente. Quien provoque con promesa, amenaza o abuso de autoridad a la madre o al padre, o a quien ostente su guarda, para que abandone a un niño, niña o adolescente, con o sin fines lucrativos, será sancionado con uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público.

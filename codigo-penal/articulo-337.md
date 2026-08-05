@@ -1,0 +1,1 @@
+Artículo 337.- Prevaricación. Las infracciones muy graves cometidas por un juez o funcionario público en el ejercicio de sus funciones, constituye prevaricación y será sancionado con la pena de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

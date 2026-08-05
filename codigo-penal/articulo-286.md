@@ -1,0 +1,1 @@
+Artículo 286.- Obstaculización de ejecución de sentencia o decisión judicial. El funcionario o servidor público que, en el ejercicio de sus funciones, sin causa justificada, no ejecute una sentencia con la autoridad de la cosa irrevocablemente juzgada, será sancionado con multa de dos a diez veces el salario que perciba el imputado al momento de la comisión de la infracción.

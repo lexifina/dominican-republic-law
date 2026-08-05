@@ -1,0 +1,1 @@
+Artículo 227.- Comercio de objetos robados. Quien venda, permute, empeñe o de cualquier modo trafique con objetos, nuevos o usados sustraídos a otra persona o de origen ilícito será sancionado con cinco a diez años de prisión menor y multa de veinte a treinta salarios mínimos del sector público.

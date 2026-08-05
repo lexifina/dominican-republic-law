@@ -1,0 +1,3 @@
+Artículo 159.- Lesión o muerte por experimento no consentido. Si el experimento no consentido produce la muerte de la víctima, la infracción se sancionará con veinte a treinta años de prisión mayor y multa de treinta a cuarenta salarios mínimos del sector público.
+Párrafo I.- En caso de que la víctima sufra una lesión permanente o una incapacidad de más de noventa días, la infracción se sancionará con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público.
+Párrafo II.- En caso de que la víctima sufra una incapacidad total para el trabajo durante noventa días o menos, la infracción se sancionará con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

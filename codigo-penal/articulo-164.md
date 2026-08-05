@@ -1,0 +1,1 @@
+Artículo 164.- Penas complementarias por la puesta en peligro de la persona. A las personas físicas o jurídicas responsables de las infracciones definidas en los artículos 155 al 163, se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34, 38, 41 y 45.

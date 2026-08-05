@@ -1,0 +1,1 @@
+Artículo 194.- Responsabilidad de las personas jurídicas. Las personas jurídicas podrán ser declaradas penalmente responsables de las infracciones definidas en los artículos 192 y 193, en las condiciones previstas en los artículos 8 al 11, en cuyo caso serán sancionadas con las penas dispuestas en el artículo 39.

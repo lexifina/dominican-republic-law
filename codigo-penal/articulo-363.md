@@ -1,0 +1,1 @@
+Artículo 363.- Imitación o falsificación de sellos postales o títulos valores. Quien imite o falsifique sellos postales o títulos valores, fiduciarios o no, al igual que quien imite o falsifique sellos o recibos expedidos por un órgano público competente, será sancionado con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

@@ -1,0 +1,1 @@
+Artículo 151.- Responsabilidad de las personas jurídicas por provocar incapacidad por más de noventa días. Las personas jurídicas podrán ser declaradas penalmente responsables de la infracción contenida en el artículo 150, según las condiciones previstas en los artículos 8 al 11, en cuyo caso serán sancionadas con la pena dispuesta en los artículos 43 al 45.

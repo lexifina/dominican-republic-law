@@ -1,0 +1,1 @@
+Artículo 53.- Sanción por reincidencia de la persona jurídica. Si una persona jurídica que ha sido condenada irrevocablemente por una infracción muy grave o grave comete otra infracción muy grave o grave, se le impondrá el máximo de la pena de multa aplicable a la infracción actual.

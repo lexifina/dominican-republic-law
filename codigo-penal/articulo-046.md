@@ -1,0 +1,2 @@
+Artículo 46.- Concurso de infracciones. Se configura el concurso de infracciones cuando una o varias conductas cometidas por una misma persona constituyen simultáneamente la violación de varios tipos penales.
+Párrafo.- Habrá concurso real cuando con varias conductas independientes constituyan infracciones en varios tipos penales o reiteradamente al mismo tipo penal. Existirá concurso ideal cuando una sola conducta configure la infracción de varios tipos penales.

@@ -1,0 +1,1 @@
+Artículo 270.- Invasión u ocupación de propiedad. Quien invada u ocupe una propiedad inmobiliaria ajena, urbana o rural, pública o privada, será sancionado con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público. Iguales penas se aplicarán a quienes la hayan patrocinado, inducido, promovido u ordenado.

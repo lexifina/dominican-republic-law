@@ -1,0 +1,1 @@
+Artículo 385.- Levantar las fuerzas armadas. Quien tome o retenga, sin derecho o sin autorización legal, un recinto militar o levante las Fuerzas Armadas sin derecho o autorización legal para ello, será sancionado con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público.

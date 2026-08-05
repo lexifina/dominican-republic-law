@@ -1,0 +1,1 @@
+Artículo 361.- Eximente de responsabilidad por falsedades. Quien habiendo intentado cometer una de las infracciones definidas en los artículos 357 al 360, advierta después a la autoridad pública competente sobre ella y en consecuencia, evite su perpetración y permita identificar a los demás imputados, podrá ser eximido de responsabilidad penal.

@@ -1,0 +1,1 @@
+Artículo 329.- Denuncia falsa. El que de manera voluntaria presente ante una autoridad una denuncia imputando falsamente a otra persona la comisión de hechos que constituyan una infracción penal será sancionado con uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público.
