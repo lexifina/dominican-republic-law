@@ -1,0 +1,1 @@
+Artículo 288.- Ejercicio de funciones posterior a remoción. Quien continúe ejerciendo como funcionario o servidor público, no obstante haber sido oficialmente notificado de su suspensión, remoción o destitución será sancionado con uno a dos años de prisión menor y multa de dos a tres veces el salario que perciba el autor al momento de la comisión de la infracción.

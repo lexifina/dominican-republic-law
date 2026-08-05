@@ -1,0 +1,2 @@
+Artículo 14.- Tentativa. La tentativa se considerará como el hecho consumado cuando se manifieste con un principio de ejecución o cuando el agente haya actuado de tal manera que objetivamente debería provocar el resultado ilícito y, sin embargo, éste no se ha producido por causas ajenas a la voluntad de su autor.
+Párrafo.- La tentativa de las infracciones muy graves será sancionada como la acción u omisión punible consumada. La tentativa de las infracciones graves será punible si así lo dispone un texto de ley. La tentativa de las infracciones leves nunca será punible.

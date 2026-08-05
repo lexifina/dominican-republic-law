@@ -1,0 +1,1 @@
+Artículo 153.- Medidas de seguimiento sociojudicial. El tribunal podrá imponer a la persona responsable de violar los artículos 117 al 151, una o varias de las medidas de seguimiento sociojudicial dispuestas en el artículo 68.

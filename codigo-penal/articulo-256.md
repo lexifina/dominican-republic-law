@@ -1,0 +1,1 @@
+Artículo 256.- Destrucción o distracción por el embargado de los objetos en manos de un tercero. Si los objetos embargados han sido confiados a un tercero y la persona embargada los destruye o los distrae o intenta destruirlos o distraerlos, será sancionada con tres a diez años de prisión y multa de uno a dos salarios mínimos del sector público.

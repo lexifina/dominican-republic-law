@@ -1,0 +1,1 @@
+Artículo 249.- Bancarrota fraudulenta. La persona comerciante que organice dolosamente la cesación de pagos de sus obligaciones mercantiles o de su comercio en perjuicio de sus acreedores comete bancarrota fraudulenta. La bancarrota fraudulenta será sancionada con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

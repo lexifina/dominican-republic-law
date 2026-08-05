@@ -1,0 +1,1 @@
+Artículo 223.- Sanción aplicable a las personas físicas y jurídicas responsables. A las personas físicas imputables y jurídicas responsables de las infracciones definidas en los artículos 216 al 222, se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34, 38, 41 y 45.

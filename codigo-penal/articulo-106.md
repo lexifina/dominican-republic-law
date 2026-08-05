@@ -1,0 +1,1 @@
+Artículo 106.- Aborto consentido. Quien, mediante alimentos, brebajes, medicamentos, sondeos, tratamientos o cualquier otro medio cause la interrupción del embarazo de una mujer o coopere con dicho propósito, aun cuando ésta lo consienta, será sancionado con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

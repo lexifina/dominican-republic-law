@@ -1,0 +1,2 @@
+Artículo 378.- Espionaje agravado. Si, como consecuencia del espionaje se suscitan hostilidades o actos de agresión contra la República, las penas serán aumentadas de treinta a cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público.
+Párrafo.- Con las mismas penas será sancionado quien provea a otra nación, empresa u organización extranjera o bajo control extranjero, o a sus agentes, los medios o recursos para ejercer hostilidades o ejecutar actos de agresión contra la República Dominicana.

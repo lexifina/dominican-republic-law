@@ -1,0 +1,1 @@
+Artículo 66.- Duración de las medidas sociojudiciales. La duración de las medidas de seguimiento sociojudicial no podrá exceder de cinco años; en caso de condenación por la comisión de infracciones muy graves, esta será de uno a cinco años; y de un mes a un año, en caso de condenación por la comisión de infracciones graves.

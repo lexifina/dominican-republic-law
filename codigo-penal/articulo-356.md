@@ -1,0 +1,1 @@
+Artículo 356.- Penas complementarias por atentados a la confianza y a la seguridad pública. A las personas físicas imputables y jurídicas responsables de las infracciones definidas en los artículos 348 al 355 se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34 y 41.

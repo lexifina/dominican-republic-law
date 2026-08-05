@@ -1,0 +1,1 @@
+Artículo 368.- Fabricación o comercialización de impresos similares a los oficiales. Quien fabrique, venda, distribuya o utilice impresos que presenten un parecido a los papeles con membrete o impresos usados oficialmente, susceptibles de inducir a error al público, será sancionado con quince días a un año de prisión menor y multa de uno a dos salarios mínimos del sector público.

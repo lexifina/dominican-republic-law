@@ -1,0 +1,2 @@
+Artículo 80.- Rehabilitación. La rehabilitación permite a la persona condenada recuperar sus derechos cívicos, civiles y políticos una vez cumplida la sanción que le ha sido impuesta.
+Párrafo.- Si a la persona condenada se le ha impuesto una medida de seguimiento sociojudicial además de una pena, la rehabilitación no se producirá sino al cumplirse el tiempo tanto para la pena como para la medida de seguimiento impuesta.

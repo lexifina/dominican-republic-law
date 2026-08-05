@@ -1,0 +1,1 @@
+Artículo 206.- Responsabilidad de las personas jurídicas. Las personas jurídicas podrán ser declaradas penalmente responsables de las infracciones definidas en los artículos 200 al 204, en las condiciones previstas en los artículos 8 al 11, en cuyo caso serán sancionadas con las penas dispuestas en el artículo 39.

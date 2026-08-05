@@ -1,0 +1,1 @@
+Artículo 98.- Sicariato. Quien planifique, encargue, ordene o ejecute de manera directa o indirecta, un asesinato, a cambio de entregar o recibir una remuneración o a cambio de una promesa de remuneración, es culpable de sicariato. El sicariato será sancionado con treinta a cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público.

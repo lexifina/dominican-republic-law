@@ -1,0 +1,1 @@
+Artículo 357.- Falsificación de billetes o monedas. Quien falsifique monedas o billetes nacionales o extranjeros será sancionado con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público.

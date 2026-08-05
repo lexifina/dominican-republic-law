@@ -1,0 +1,1 @@
+Artículo 247.- Disposición del bien o valor ajeno. Quien disponga de un bien o valor que no le pertenezca, o sobre el cual no tiene derecho, será sancionado con quince días a un año de prisión menor y multa de uno a dos salarios mínimos del sector público.

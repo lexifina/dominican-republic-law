@@ -1,0 +1,2 @@
+Artículo 360.- Circulación de billetes falsos con conocimiento de su falsedad. Quien ponga en circulación nuevos signos monetarios imitados o falsificados, recibidos de antemano como válidos, después de haberse percatado de tales vicios, será sancionado con uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público.
+Párrafo.- La tentativa de la infracción contenida en este artículo y en el artículo 359 se sancionará como el hecho consumado.

@@ -1,0 +1,2 @@
+Artículo 150.- Infracciones culposas que provocan incapacidad laboral. Quien por torpeza, imprudencia, inadvertencia o negligencia provoque a otro una enfermedad o una incapacidad total para el trabajo durante más de noventa días, será sancionado con uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público.
+Párrafo.- Cuando la incapacidad para el trabajo sea de noventa días o menos, el responsable de cometer la infracción, será sancionado con quince días a un año de prisión menor y multa de uno a dos salarios mínimos del sector público.

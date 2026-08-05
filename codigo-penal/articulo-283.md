@@ -1,0 +1,1 @@
+Artículo 283.- Uso excesivo de la fuerza por policías y militares. El policía o militar que en el ejercicio de sus funciones ocasione golpes o heridas a alguien debido al uso excesivo e irracional de la fuerza, será sancionado con la pena que corresponda a la infracción penal prevista en este código.

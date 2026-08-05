@@ -1,0 +1,1 @@
+Artículo 81.- Beneficiarios de la rehabilitación. Toda persona física condenada obtendrá su rehabilitación de pleno derecho con el cumplimiento de la pena y las medidas de seguimiento que se le hayan impuesto, siempre que no haya sido objeto de una nueva condena.

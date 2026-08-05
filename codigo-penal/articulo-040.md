@@ -1,0 +1,2 @@
+Artículo 40.- Imposición de multas por infracciones muy graves o graves. Para la aplicación de la pena de multa ante la comisión de infracciones muy graves, se sancionarán con multa de cien a mil quinientos salarios mínimos del sector público.
+Párrafo.- Para la aplicación de la pena de multa ante la comisión de infracciones graves, se sancionarán con cincuenta a quinientos salarios mínimos del sector público.

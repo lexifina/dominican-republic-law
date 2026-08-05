@@ -1,0 +1,3 @@
+Artículo 113.- Muertes y daños con el uso de vehículos en carreras ilegales. La muerte de una o más personas causada o provocada con el uso de un vehículo de motor en práctica, acrobacias, competencias o carreras ilegales o no reguladas en lugar no autorizado, será sancionado con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público.
+Párrafo I.- Si no causare la muerte y causare mutilaciones e incapacidades permanentes, la pena será de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.
+Párrafo II.- Si solo causare golpes o heridas, la pena será de dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

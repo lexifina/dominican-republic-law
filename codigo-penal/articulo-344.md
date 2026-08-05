@@ -1,0 +1,1 @@
+Artículo 344.- Eximente de responsabilidad por evasión. Quedará exenta de responsabilidad penal la persona que, habiendo intentado facilitar o preparar la evasión, luego advierte a la autoridad judicial o a la administración penitenciaria competente sobre esta y evita así su ocurrencia.

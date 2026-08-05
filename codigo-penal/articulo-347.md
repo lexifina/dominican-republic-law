@@ -1,0 +1,1 @@
+Artículo 347.- Penas complementarias. A las personas físicas imputables y jurídicas responsables de las infracciones definidas en los artículos 324 al 329 y 331 al 343, se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34 y 41.

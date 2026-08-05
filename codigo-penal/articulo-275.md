@@ -1,0 +1,3 @@
+Artículo 275.- Violación al derecho de grabar el arresto. El agente policial o militar que impida a un ciudadano grabar o filmar el arresto, registro o allanamiento practicado en su contra o contra un tercero, será sancionado con quince días a un año de prisión menor y multa de una a dos veces el salario que perciba el imputado al momento de la comisión de la infracción.
+Párrafo I.- Lo establecido en este artículo no es aplicable cuando se interfiera con la labor del agente o ponga en riesgo su integridad.
+Párrafo II.- La grabación solo podrá ser publicada con el consentimiento de la persona intervenida.

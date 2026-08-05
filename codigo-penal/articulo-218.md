@@ -1,0 +1,1 @@
+Artículo 218.- Responsabilidad de las personas jurídicas por infracciones contra la filiación. Las personas jurídicas podrán ser declaradas penalmente responsables de las infracciones contenidas en los artículos 216 y 217, en las condiciones previstas en los artículos 8 al 11, en cuyo caso serán sancionadas con las penas dispuestas en el artículo 39.

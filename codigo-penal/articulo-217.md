@@ -1,0 +1,1 @@
+Artículo 217.- Encubrimiento o modificación dolosa de filiación. Quien sustituya, simule o encubra de manera dolosa, la filiación de un niño, niña o adolescente con el fin de modificarla será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

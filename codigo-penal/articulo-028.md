@@ -1,0 +1,2 @@
+Artículo 28.- Procedimiento en caso de falta de pago de multa. Si el condenado es insolvente o no paga la multa impuesta, el juez de ejecución de la pena procederá según lo previsto en el Código Procesal Penal de la República Dominicana.
+Párrafo.- Cuando sea necesario convertir la multa dejada de pagar en prisión, el juez de ejecución de la pena fijará la modalidad y el monto de la compensación, conforme a lo dispuesto en el Código Procesal Penal de la República Dominicana. La prisión impuesta en estas circunstancias no será nunca mayor a seis meses.

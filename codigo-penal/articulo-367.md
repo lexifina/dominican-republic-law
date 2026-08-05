@@ -1,0 +1,1 @@
+Artículo 367.- Uso de las imitaciones de marca y signos de autoridad. Quien haga uso de estas imitaciones o falsificaciones será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

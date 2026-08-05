@@ -1,0 +1,3 @@
+Artículo 3.- Autoría del hecho punible. Es autor quien comete el hecho u omisión punible por sí solo o junto con una o más personas, o quien actúe valiéndose de otra persona como instrumento para su ejecución.
+Párrafo I.- Es también autor quien induzca directamente a otra persona a perpetrar la infracción y quien ayude a su ejecución con un acto u omisión sin el cual la infracción no se hubiera consumado.
+Párrafo II.- Es coautor quien, junto con otra u otras, comete una infracción de forma conjunta y consciente, actuando con una decisión común y aportando una contribución esencial para la consecución del resultado típico.

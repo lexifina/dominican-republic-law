@@ -1,0 +1,1 @@
+Artículo 58.- Límites y criterios en la imposición de penas. El tribunal impondrá la pena y fijará su régimen legal de aplicación dentro de los límites dispuestos por este código y según los criterios de determinación de la pena fijados en el Código Procesal Penal.

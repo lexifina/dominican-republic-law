@@ -1,0 +1,1 @@
+Artículo 174.- Responsabilidad de las personas jurídicas por discriminación. Las personas jurídicas podrán ser declaradas penalmente responsables de discriminación en las condiciones previstas en los artículos 8 al 11, en cuyo caso serán sancionadas con las penas dispuestas en el artículo 39.

@@ -1,0 +1,1 @@
+Artículo 242.- Complicidad en estafa piramidal. Serán cómplices de estafa piramidal aquellas personas que sirvan como intermediarios, promotores o corredores de los autores de estafas con esquema piramidal y serán sancionados con tres a cinco años de prisión menor y multas de cincuenta a quinientos salarios mínimos del sector público.

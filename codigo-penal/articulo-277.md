@@ -1,0 +1,1 @@
+Artículo 277.- Atentados contra la libertad y seguridad personal. El funcionario o servidor público que ordene o realice de modo arbitrario cualquier acto que atente contra la libertad individual, será sancionado con quince días a un año de prisión menor y multa de dos a cuatro veces el salario que perciba el imputado al momento de la comisión de la infracción.

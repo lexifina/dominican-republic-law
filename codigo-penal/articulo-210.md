@@ -1,0 +1,2 @@
+Artículo 210.- Injuria. Constituye injuria el hecho de pronunciar públicamente contra otra persona, física o jurídica, una invectiva o cualquier expresión afrentosa o despreciativa, siempre que no contenga la imputación de un hecho preciso, por cualquier medio, audiovisual o escrito, radial o televisado, streaming, electrónicos o en el ciberespacio.
+Párrafo.- La injuria será sancionada con pena de quince días a un año de prisión menor o multa de uno a dos salarios mínimos del sector público o ambas sanciones.

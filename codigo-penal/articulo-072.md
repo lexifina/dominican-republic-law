@@ -1,0 +1,1 @@
+Artículo 72.- Circunstancias agravantes. Son circunstancias agravantes de las penas aquellas señaladas de manera particular como tales para cada tipo de infracción. La asociación de malhechores y el uso de armas son circunstancias agravantes en todas las infracciones.

@@ -1,0 +1,2 @@
+Artículo 149.- Atentados preterintencionales que causen incapacidad por más de noventa días. Los golpes, heridas o violencia que no causen la muerte a la víctima, pero sí una incapacidad total para el trabajo durante más de noventa días, se sancionarán con tres a cinco años de prisión menor y multa de nueve a quince salarios mínimos del sector público.
+Párrafo.- Esta infracción será sancionada con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público si concurre una de las circunstancias agravantes enumeradas en el artículo 102.

@@ -1,0 +1,1 @@
+Artículo 390.- Aplicación de la degradación cívica. A las conductas que contemplen como penas la degradación cívica prevista por la Constitución de la República o por cualquier otra ley especial, se les aplicará las penas complementarias establecidas en este código para las infracciones graves.
