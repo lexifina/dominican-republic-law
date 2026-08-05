@@ -1,0 +1,1 @@
+Artículo 120.- Sanción a la autoridad pública. La persona depositaria de la autoridad pública o encargada de un servicio público que cometa tortura o actos de barbarie será sancionada con veinte a treinta años de prisión mayor y multa de treinta a cuarenta salarios mínimos del sector público.

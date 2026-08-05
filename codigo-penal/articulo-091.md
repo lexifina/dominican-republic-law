@@ -1,0 +1,1 @@
+Artículo 91.- Homicidio. Quien mate dolosamente a otro comete homicidio. El homicidio será sancionado con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público.

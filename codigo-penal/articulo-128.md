@@ -1,0 +1,3 @@
+Artículo 128.- Orden de protección. Constituyen órdenes de protección las obligaciones con carácter provisional y cautelar que puede imponer la autoridad judicial competente para prevenir la comisión o reiteración de infracciones contra una o varias personas.
+Párrafo I.- Las órdenes de protección serán impuestas contra la persona imputada o denunciada, a favor de la víctima, actual o potencial, por el tiempo que la autoridad judicial considere necesario.
+Párrafo II.- El Ministerio Público podrá, mientras realiza el trámite de la orden de protección ante la autoridad judicial competente, dictar las órdenes de protección provisionales en favor de la víctima que autorice este código, las cuales deberán ser homologadas por el tribunal competente en un plazo de 48 horas.

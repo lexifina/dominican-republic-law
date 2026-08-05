@@ -1,0 +1,1 @@
+Artículo 55.- Pronunciamiento de la pena. Ninguna sanción o medida de seguimiento sociojudicial se aplicará si el tribunal no la ha pronunciado expresamente en la sentencia que la contenga. Igualmente, el tribunal solo pronunciará las penas aplicables a la infracción de la cual está apoderado.

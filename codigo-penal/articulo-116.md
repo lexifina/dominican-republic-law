@@ -1,0 +1,1 @@
+Artículo 116.- Penas complementarias a las personas jurídicas por atentados contra la vida. A las personas jurídicas responsables de las infracciones indicadas en los artículos 91 al 113 se les podrá sancionar, además, con una o varias de las penas complementarias prescritas en los artículos 41 al 45.

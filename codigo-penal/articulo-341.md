@@ -1,0 +1,1 @@
+Artículo 341.- Evasión agravada. Si la evasión se efectúa con el uso o amenaza de uso de armas, o de una sustancia explosiva, incendiaria o tóxica, o si se comete o se intenta cometer mediante una acción concertada con otra persona, la sanción será de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

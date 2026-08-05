@@ -1,0 +1,1 @@
+Artículo 109.- Pena por muerte de la mujer. Si los hechos incriminados en el artículo 106, causan la muerte de la mujer el responsable será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

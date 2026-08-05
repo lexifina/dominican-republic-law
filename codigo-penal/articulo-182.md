@@ -1,0 +1,1 @@
+Artículo 182.- Espectador de actividades de índole sexual de niños, niñas y adolescentes. Se sancionará con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público a quien participe como espectador en cualquier exhibición o representación sexual en la que se involucren o utilicen niños, niñas y adolescentes.

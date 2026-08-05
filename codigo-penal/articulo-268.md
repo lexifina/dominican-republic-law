@@ -1,0 +1,1 @@
+Artículo 268.- Penas complementarias por destrucción, degradación o deterioro. A las personas físicas imputables de destrucciones, degradaciones o deterioros que no presentan peligros para las personas, de conformidad con el artículo 267 se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en el artículo 34.

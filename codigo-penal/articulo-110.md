@@ -1,0 +1,3 @@
+Artículo 110.- Aborto forzado. El aborto practicado en contra de la voluntad de la mujer, fuera de la eximente del artículo 111 será sancionado con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público.
+Párrafo I.- Si a causa del aborto forzado se ocasionare la muerte a la mujer, la pena será de veinte a treinta años de prisión mayor y multa de treinta a cuarenta salarios mínimos del sector público.
+Párrafo II.- Si no se llegare a producir el aborto forzado y se provocare al feto una lesión o enfermedad que perjudique el desarrollo u origine a la persona nacida una severa tara física o psíquica el autor será sancionado con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público.

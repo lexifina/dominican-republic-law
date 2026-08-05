@@ -1,0 +1,1 @@
+Artículo 62.- Fraccionamiento de la pena de multa. En las infracciones graves y leves, el tribunal podrá disponer que la pena de multa sea pagada por fracciones durante un plazo que no exceda de un año.

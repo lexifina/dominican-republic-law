@@ -1,0 +1,1 @@
+Artículo 317.- Usurpación de insignias y distintivos. Quien utilice en público y sin calidad para ello insignias, distintivos, condecoraciones, uniformes o documentos de identificación cuyo uso está reservado a la autoridad pública, será sancionado con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

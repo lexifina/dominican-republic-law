@@ -1,0 +1,1 @@
+Artículo 251.- Penas complementarias por estafa e infracciones afines. A las personas físicas imputables y jurídicas responsables de estafa, bancarrota o negocios de estructura piramidal fraudulenta se les sancionará, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34 y 41.

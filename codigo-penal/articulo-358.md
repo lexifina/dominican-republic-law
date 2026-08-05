@@ -1,0 +1,1 @@
+Artículo 358.- Transporte o circulación de billetes falsos. Quien transporte, trafique o detente con el fin de poner a circular monedas o billetes falsificados nacionales o extranjeros, será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

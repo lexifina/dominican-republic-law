@@ -1,0 +1,1 @@
+Artículo 108.- Sanción a profesionales de la salud o parteras. Los médicos, enfermeras, farmacéuticos y otros profesionales de la salud, así como las parteras que, desde su profesión u oficio, provoquen el aborto serán sancionados con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

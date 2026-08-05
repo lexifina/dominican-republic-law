@@ -1,0 +1,1 @@
+Artículo 130.- Órdenes de protección durante el proceso penal. Las órdenes de protección que se impongan por decisión de los tribunales en el curso del proceso penal tendrán una vigencia no menor de tres meses y se prorrogarán automáticamente hasta la obtención de sentencia definitiva e irrevocable, sin perjuicio de las disposiciones del artículo 128.

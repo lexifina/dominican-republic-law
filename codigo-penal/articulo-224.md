@@ -1,0 +1,1 @@
+Artículo 224.- Robo. Quien sustraiga por cualquier medio los bienes de otra persona comete robo. El robo se sancionará con penas de uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público.

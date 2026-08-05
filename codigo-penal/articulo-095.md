@@ -1,0 +1,1 @@
+Artículo 95.- Feminicidio conexo. Comete feminicidio conexo quien quita la vida de una mujer sin esta ser su objetivo principal, en el entorno de un escenario de violencia feminicida. El feminicidio conexo será sancionado con veinte a treinta años de prisión mayor y multa de treinta a cuarenta salarios mínimos del sector público.

@@ -1,0 +1,1 @@
+Artículo 372.- Asociación de malhechores. La asociación de malhechores descrita en el artículo 73, será sancionada como infracción autónoma, con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

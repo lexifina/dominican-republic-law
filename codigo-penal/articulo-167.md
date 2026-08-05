@@ -1,0 +1,1 @@
+Artículo 167.- Arresto ilegal o encierro acompañado de torturas u otros tratos crueles. El arresto ilegal o rapto que esté precedido o acompañado de torturas u otros tratos crueles, inhumanos o degradantes, o que produzca la muerte a la víctima, será sancionado con veinte a treinta años de prisión mayor y multa de treinta a cuarenta salarios mínimos del sector público.

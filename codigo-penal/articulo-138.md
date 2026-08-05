@@ -1,0 +1,1 @@
+Artículo 138.- Violación sexual seguida de muerte. La violación sexual que sea seguida o acompañada de la muerte de la víctima será sancionada con treinta a cuarenta años de prisión mayor y multa de cincuenta a mil salarios mínimos del sector público.

@@ -1,0 +1,1 @@
+Artículo 190.- Robo de identidad agravado. El robo de identidad agravado cometido contra un funcionario o servidor público, incluyendo miembros de las Fuerzas Armadas y la Policía Nacional, se sancionará con una pena de cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.

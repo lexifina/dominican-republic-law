@@ -1,0 +1,1 @@
+Artículo 221.- Operaciones comerciales con niño, niña o adolescente. Quien haga operaciones de compra, venta, permuta o empeño con un niño, niña o adolescente que no tenga la debida autorización para ello, será sancionado con una multa equivalente a quince a veinticinco salarios mínimos del sector público.

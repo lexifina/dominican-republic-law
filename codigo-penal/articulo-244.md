@@ -1,0 +1,1 @@
+Artículo 244.- Estafa contra el Estado o sus instituciones. La estafa cometida contra el Estado o sus instituciones, será sancionada con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público.

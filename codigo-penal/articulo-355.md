@@ -1,0 +1,1 @@
+Artículo 355.- Responsabilidad por falsedad. Las personas jurídicas podrán ser declaradas penalmente responsables de la infracción definida en el artículo 348 de este capítulo, en las condiciones previstas en los artículos del 8 al 11. En ese caso serán sancionadas con las penas dispuestas en el artículo 41.

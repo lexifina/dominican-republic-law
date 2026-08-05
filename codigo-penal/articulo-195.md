@@ -1,0 +1,1 @@
+Artículo 195.- Divulgación de información secreta. Quien divulgue una información secreta sin el consentimiento de la persona afectada, siendo depositario de ella en razón de su estado, profesión, función o cargo será sancionado con quince días a un año de prisión menor y multa de uno a dos salarios mínimos del sector público.

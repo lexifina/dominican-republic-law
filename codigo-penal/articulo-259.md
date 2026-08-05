@@ -1,0 +1,1 @@
+Artículo 259.- Persecución de las distracciones. La distracción de la prenda u objeto embargado, así como de la organización fraudulenta de la insolvencia, serán perseguidas por acción pública a instancia privada.

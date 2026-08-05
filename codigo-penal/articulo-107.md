@@ -1,0 +1,1 @@
+Artículo 107.- Aborto provocado. El aborto provocado se sancionará de uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público a la mujer que se provoque un aborto o que consienta hacer uso de las sustancias que con este objeto se ingiera o se aplique o suministre un tercero, o que consienta en someterse a los medios abortivos.

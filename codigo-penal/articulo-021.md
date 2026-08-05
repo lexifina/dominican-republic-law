@@ -1,0 +1,2 @@
+Artículo 21.- Excusa legal de la provocación. El homicidio, las heridas y los golpes son excusables, si de parte del ofendido han precedido inmediatamente provocación, amenazas o violencias graves.
+Párrafo.- Cuando se pruebe la circunstancia de excusa, las penas se reducirán del modo siguiente: si se trata de una infracción muy grave que amerite pena de hasta veinte años la pena será dos a cinco años. Si se trata de cualquiera otra infracción muy grave, la pena será de uno a dos años. Si la infracción es grave la pena será de quince días a un año.

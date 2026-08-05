@@ -1,0 +1,3 @@
+Artículo 136.- Actividad sexual no consentida en relación de pareja. Quien en una relación de pareja incurra en una actividad sexual no consentida, será sancionado con pena de diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público en los casos siguientes:
+1) Si ha empleado violencia física o anulado la voluntad de la víctima o su capacidad de resistir con el uso o suministro de narcótico o sustancias psicotrópicas o por cualquier medio que pueda ocasionar tales efectos;
+2) Si se ha obligado a la pareja a involucrarse o participar en una relación sexual no deseada con una o más personas mediante los medios enunciados en el numeral anterior.

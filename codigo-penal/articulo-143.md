@@ -1,0 +1,1 @@
+Artículo 143.- Acoso. El que por cualquier medio y de forma reiterada, persiga, hostigue o asedie a alguien de modo que le altere el normal desarrollo de su vida cotidiana será sancionado con uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público, así como con medidas de seguimiento sociojudicial.

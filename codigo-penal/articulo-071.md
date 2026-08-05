@@ -1,0 +1,2 @@
+Artículo 71.- Medidas de seguridad. Si el tribunal determina que una persona que ha cometido una infracción es inimputable ordenará la medida de seguridad consistente en internamiento en establecimiento, clínica, institución o pabellón siquiátrico, debidamente acreditado para tales fines.
+Párrafo.- La duración de la medida de seguridad será determinada por el tribunal, de acuerdo a las necesidades de tratamiento del caso en concreto. La duración no podrá ser inferior al mínimo de la pena privativa de libertad imponible por la infracción cometida, ni exceder el máximo.

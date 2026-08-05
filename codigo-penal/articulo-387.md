@@ -1,0 +1,1 @@
+Artículo 387.- Penas complementarias a los atentados contra los intereses de la nación. A las personas físicas imputables o jurídicas responsables de las infracciones definidas en los artículos 374 al 386 se podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34, 38 y 41.

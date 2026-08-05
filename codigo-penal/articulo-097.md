@@ -1,0 +1,2 @@
+Artículo 97.- Cooperación al suicidio. Quien coopere con actos que conlleven al suicidio será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.
+Párrafo.- La cooperación al suicidio será sancionada con diez a veinte años de prisión mayor y multa de veinte a treinta salarios mínimos del sector público, si se realiza en los casos enumerados en el párrafo del artículo 96.

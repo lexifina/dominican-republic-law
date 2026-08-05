@@ -1,0 +1,1 @@
+Artículo 42.- Penas complementarias por infracciones muy graves, graves o leves y su compatibilidad con la pena de multa. La imposición de una pena de multa no excluye la facultad del tribunal para ordenar al mismo tiempo una o varias penas complementarias para sancionar las infracciones muy graves, graves o leves, conforme lo dispone este código.

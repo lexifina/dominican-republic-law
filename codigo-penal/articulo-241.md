@@ -1,0 +1,7 @@
+Artículo 241.- Estafa piramidal agravada. La estafa piramidal se considerará agravada y será sancionada con pena de diez a veinte años de prisión mayor y multa de una a veinte veces del monto involucrado, en los casos siguientes:
+1) Si quien la comete es una persona depositaria de la autoridad pública o encargada de un servicio público, en el ejercicio o con ocasión del ejercicio de sus funciones; o, sin ser depositaria de la autoridad pública ni encargada de un servicio público, se prevalece de una de estas calidades;
+2) Si para dichos fines, se utilizan medios de comunicación social, tradicionales, como la prensa escrita, radio o televisión o de cualquier otro tipo, o no tradicionales, como las plataformas o medios digitales y redes sociales, sin excepción alguna, para la realización, promoción y publicidad de la estafa;
+3) Si las víctimas son personas particularmente vulnerables en razón de su edad, sexo, enfermedad, incapacidad, deficiencia física o síquica, o estado de embarazo;
+4) Si es cometida por varias personas, actuando como autores o cómplices, sin importar que éstos formen o no una asociación de malhechores;
+5) Si el monto de los valores envueltos en el negocio piramidal es igual a cien salarios mínimos del sector público o mayor.
+Párrafo.- Las personas físicas responsables quedarán inhabilitados para ejercer actividades comerciales, financieras o de promoción de inversiones por un período de diez años.

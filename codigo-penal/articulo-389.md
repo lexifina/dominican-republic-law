@@ -1,0 +1,1 @@
+Artículo 389.- Aplicación de la circunstancia agravante de la reincidencia en remisión de leyes penales vigentes. Para los casos en que alguna ley penal especial remita a la aplicación de la circunstancia agravante de la reincidencia prevista en el artículo 483 del antiguo Código Penal, las disposiciones aplicables en lo adelante serán las contenidas en los artículos 51 al 54.

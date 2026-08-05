@@ -1,0 +1,2 @@
+Artículo 254.- Destrucción o distracción de bien dado en prenda. Quien destruya o distraiga bienes constituidos en prenda, siendo deudor, prestatario o tercero dador de prenda, será sancionado con uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público.
+Párrafo. El deudor, prestatario o tercero dador de prenda que intente destruir o distraer un objeto dado por él en prenda será sancionado de seis meses a un año de prisión menor y multa de uno a dos salarios mínimos del sector público.

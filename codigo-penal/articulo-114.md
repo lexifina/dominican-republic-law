@@ -1,0 +1,1 @@
+Artículo 114.- Responsabilidad de las personas jurídicas por atentados culposos contra la vida. Las personas jurídicas podrán ser declaradas penalmente responsables por su torpeza, imprudencia, inadvertencia o negligencia, en las condiciones previstas en los artículos 8 al 11, serán sancionadas con la pena dispuesta en el artículo 39.

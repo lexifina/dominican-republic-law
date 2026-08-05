@@ -1,0 +1,1 @@
+Artículo 383.- Eximente de responsabilidad por revelación de complot. No será responsable penalmente la persona que habiendo participado en un complot, lo revele a las autoridades competentes antes de toda materialización y esto haya permitido identificar a los demás autores o cómplices.

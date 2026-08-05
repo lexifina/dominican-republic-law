@@ -1,0 +1,3 @@
+Artículo 74.- Arma. Para fines de esta ley, será considerada “arma” todo objeto concebido para matar o herir a otra persona, así como cualquier otro objeto que pueda constituir un peligro para las personas si es usado para matar, herir o para amenazar, o es destinado por quien lo porte a esos propósitos.
+Párrafo I.- Por igual, será considerada “arma” cualquier objeto que aparente serlo y que se utilice, creando confusión sobre su naturaleza, para amenazar con matar o herir o esté destinado por quien lo porte a esos propósitos.
+Párrafo II.- Utilizar un animal para matar o herir a una persona se asimila al uso punible de un arma.

@@ -1,0 +1,1 @@
+Artículo 234.- Responsabilidad de las personas jurídicas por extorsión o chantaje. Las personas jurídicas podrán ser declaradas penalmente responsables de la extorsión o el chantaje, en las condiciones previstas en los artículos 8 al 11, en cuyo caso serán sancionadas con las penas dispuestas en el artículo 41.

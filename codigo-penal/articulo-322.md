@@ -1,0 +1,1 @@
+Artículo 322.- Bigamia. Quien contraiga un segundo matrimonio sin haberse disuelto el anterior así como la autoridad que, teniendo conocimiento de esa situación, preste su cargo para su celebración serán sancionados con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.

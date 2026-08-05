@@ -1,0 +1,1 @@
+Artículo 313.- Rebelión agravada. La rebelión agravada que ocurra con ocasión de una reunión o manifestación o con el uso de armas será sancionada con cinco a diez años de prisión mayor y multa de cuatro a diez veces el salario que perciba, al momento de la infracción, el funcionario o servidor público que ha sido víctima.

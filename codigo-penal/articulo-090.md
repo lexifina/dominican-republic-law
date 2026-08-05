@@ -1,0 +1,1 @@
+Artículo 90.- Penas complementarias aplicables a las personas jurídicas. A las personas jurídicas responsables de cometer las infracciones previstas en los artículos 82 al 87 se les impondrán las penas complementarias dispuestas en los artículos 41 y 42, según corresponda.

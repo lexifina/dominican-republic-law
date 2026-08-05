@@ -1,0 +1,1 @@
+Artículo 231.- Penas complementarias por robo. A las personas físicas imputables o jurídicas responsables de robo, se les podrá sancionar, además, con una o varias de las penas complementarias dispuestas en los artículos 30, 34, 38, 41 y 45.

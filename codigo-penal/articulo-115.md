@@ -1,0 +1,1 @@
+Artículo 115.- Penas complementarias a las personas físicas por atentados contra la vida. A las personas físicas imputables de las infracciones previstas en los artículos 91 al 113, se les podrá sancionar, además, con una o varias de las penas complementarias establecidas en los artículos 30, 34 y 38, según sean estas infracciones muy graves, graves o leves.

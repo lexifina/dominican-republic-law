@@ -1,0 +1,1 @@
+Artículo 246.- Fullería. Comete fullería quien se haga suministrar bienes o servicios sin tener recursos económicos suficientes para pagarlos o, teniendo recursos, se niegue a pagar los bienes o servicios suministrados. La fullería se sancionará con quince días a un año de prisión menor y multa de uno a dos salarios mínimos del sector público.

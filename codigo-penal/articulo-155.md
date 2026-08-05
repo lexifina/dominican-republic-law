@@ -1,0 +1,1 @@
+Artículo 155.- Abandono. Quien abandone, existiendo una obligación de vigilancia o cuidado a su cargo, a una persona adulta que no puede valerse por sí misma será sancionado con uno a dos años de prisión menor y multa de tres a seis salarios mínimos del sector público.

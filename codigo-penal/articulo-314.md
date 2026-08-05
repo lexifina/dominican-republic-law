@@ -1,0 +1,1 @@
+Artículo 314.- Cúmulo de penas. Si el autor de la rebelión se encuentra detenido por otra infracción, las penas pronunciadas por la rebelión se acumularán con las penas a las que fue o será condenado por cometer la infracción por la cual guarda prisión.

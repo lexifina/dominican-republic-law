@@ -1,0 +1,1 @@
+Artículo 75.- Premeditación. La premeditación consiste en el designio formado antes de la acción de atentar contra una persona determinada o contra la de aquel a quien se halle o encuentre, aun cuando ese designio dependa de alguna circunstancia o condición.

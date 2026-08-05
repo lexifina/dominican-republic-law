@@ -1,0 +1,2 @@
+Artículo 342.- Complicidad de evasión. Quien le procure a un detenido cualquier medio idóneo para evadirse o ayude al evasor a mantenerse en evasión será sancionado con dos a tres años de prisión menor y multa de nueve a quince salarios mínimos del sector público.
+Párrafo.- Si la ayuda o la asistencia brindada se acompañan de violencia, del uso de un arma, de alguna sustancia explosiva, incendiaria o tóxica, o de fractura, escalamiento o soborno, el culpable será sancionado con cinco a diez años de prisión mayor y multa de diez a veinte salarios mínimos del sector público.
