@@ -1,0 +1,18 @@
+Source of the legal texts: Consultoría Jurídica del Poder Ejecutivo (CJPE), República Dominicana,
+publisher of the Gaceta Oficial: https://www.consultoria.gov.do/consultas/constituciones
+
+Terms of use (https://www.consultoria.gov.do/terminos, checked 2026-10-28), section 4 "Propiedad intelectual y
+reutilización": "Los textos legales, decretos, resoluciones y gacetas publicadas en este portal son documentos
+de dominio público. Las marcas, emblemas institucionales y el diseño gráfico del portal pertenecen al Estado
+Dominicano y están protegidos por las leyes de propiedad intelectual." No emblem or design of the portal is
+reproduced here. Section 3 forbids "el uso de robots, scripts automatizados o técnicas de extracción no
+autorizada (scraping) que degraden el rendimiento de los servicios"; this build made a handful of single
+requests (see REPRODUCE.md). The repository is private until the user decides otherwise.
+
+Only the printed Gaceta Oficial is authoritative.
+
+Attribution for the legal texts: "Textos: Consultoría Jurídica del Poder Ejecutivo, República Dominicana,
+https://www.consultoria.gov.do/".
+
+The history (commits and commit messages), the tables and the tools are dedicated to the public domain under
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/legalcode

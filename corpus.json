@@ -1,0 +1,43 @@
+{
+  "corpus": "do/national/acts",
+  "name": "Dominican law: the Constitution (2010, reformed 2015 and 2024)",
+  "label": "Dominican Republic",
+  "language": "es",
+  "acts": [
+    "Constitución de la República Dominicana, votada y proclamada por la Asamblea Nacional el 26 de enero de 2010",
+    "Constitución de la República Dominicana, reformada y proclamada por la Asamblea Nacional Revisora el 13 de junio de 2015",
+    "Constitución de la República Dominicana, reformada y proclamada por la Asamblea Nacional Revisora el 27 de octubre de 2024"
+  ],
+  "history_from": "2010-01-26",
+  "record_to": "2026-10-28",
+  "record_note": "From the Constitution proclaimed on 26 January 2010 (in force 2010-01-26) to the reform proclaimed on 27 October 2024 (in force 2024-10-27); the Consultoría Jurídica del Poder Ejecutivo lists no later constitution on 2026-10-28, the day the data was retrieved and checked.",
+  "history": "in-force",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "checked_on": "2026-10-28",
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Proclaimed",
+      "Published",
+      "In-force-basis"
+    ],
+    "time": "12:00 America/Santo_Domingo (UTC-4; no summer time in the record)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "non-retroactivity: \"La ley sólo dispone y se aplica para lo porvenir\" (Constitución, art. 110)",
+      "meaning": "a law applies to the future only; it reaches back only when favourable to a person on trial or serving a sentence, and never to alter legal certainty arising from situations established under earlier law",
+      "authority": "Constitución de la República Dominicana (2010, 2015, 2024), artículo 110 (Irretroactividad de la ley)",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "(constitucion)/articulo-0*([0-9]+)\\.md",
+    "cites": "([Aa]rtículo|[Aa]rtículos|[Aa]rt\\.) {n}([^0-9]|$)"
+  }
+}
