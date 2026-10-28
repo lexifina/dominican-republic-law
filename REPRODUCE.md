@@ -2,35 +2,28 @@
 
 Data retrieved 2026-10-28. The build is deterministic: the same data gives the same commit hashes.
 
-## Sources and requests
+## Sources
 
 The Consultoría Jurídica del Poder Ejecutivo (https://www.consultoria.gov.do), publisher of the Gaceta Oficial. Its
 "Colección de constituciones" page reads its list from `GET /api/settings` (field `coleccion_constituciones`: id, title,
 date and `/uploads/...pdf` of each official text). The build reads:
-- `https://www.consultoria.gov.do/api/settings`, cached as `settings.json`, sha256 `f66baa97cea37449e5be5e184ae77a7cfd6fa38449f076df0bfa4aebbcbcbde6` (the list changes
+- `https://www.consultoria.gov.do/api/settings`, kept as `settings.json`, sha256 `f66baa97cea37449e5be5e184ae77a7cfd6fa38449f076df0bfa4aebbcbcbde6` (the list changes
   when the site's settings change; the build stops unless the three entries still have the dates it was written for);
-- constitucion/2010: `https://www.consultoria.gov.do/uploads/1786127675672-863979729.pdf` ("Constitución 2010", 26 de enero de 2010), cached as `2010.pdf`, sha256 `7946d51ac77f2e38f04761640feb9dadbc5d337d202f0c73e1a5f16c8f1b3b82`
-- reforma/2015: `https://www.consultoria.gov.do/uploads/1786127563508-283061414.pdf` ("Constitución 2015", 13 de junio de 2015), cached as `2015.pdf`, sha256 `b094363254d6d045a7d9ab99a9ef150f52943de8f284146a461c7e9f566a4bce`
-- reforma/2024: `https://www.consultoria.gov.do/uploads/1786127298458-819263307.pdf` ("Constitución 2024", 27 de octubre de 2024), cached as `2024.pdf`, sha256 `0f4da013601cbb9dda0cd6ec7695611180ec0d1af51550041ed67875f56dcaa3`
-
-**Fetch rate:** one request at a time, a pause of at least 2 seconds between requests, curl with `--compressed` and a
-User-Agent; 4 requests for the data. Before the build, the gate checks and exploration made about 20 further requests to
-consultoria.gov.do, one at a time: robots.txt, the home, constitutions, consultations and terms pages, three JavaScript
-chunks (to find `/api/settings`), `/api/consultas/document-types`, four PDFs looked at and not used (1844, 1966, 1994,
-round). All answers are cached in `cache/` (git-ignored) and never fetched twice; `--offline` uses the cache only.
+- constitucion/2010: `https://www.consultoria.gov.do/uploads/1786127675672-863979729.pdf` ("Constitución 2010", 26 de enero de 2010), kept as `2010.pdf`, sha256 `7946d51ac77f2e38f04761640feb9dadbc5d337d202f0c73e1a5f16c8f1b3b82`
+- reforma/2015: `https://www.consultoria.gov.do/uploads/1786127563508-283061414.pdf` ("Constitución 2015", 13 de junio de 2015), kept as `2015.pdf`, sha256 `b094363254d6d045a7d9ab99a9ef150f52943de8f284146a461c7e9f566a4bce`
+- reforma/2024: `https://www.consultoria.gov.do/uploads/1786127298458-819263307.pdf` ("Constitución 2024", 27 de octubre de 2024), kept as `2024.pdf`, sha256 `0f4da013601cbb9dda0cd6ec7695611180ec0d1af51550041ed67875f56dcaa3`
 
 ## Steps
 
-1. `python -X utf8 tools/build.py --repo <dir> --today 2026-10-28` (online once; then add `--offline`).
+1. `python -X utf8 tools/build.py --repo <dir> --today 2026-10-28` (with `--offline`, from the retrieved files only).
 2. `python -X utf8 tools/check_repo.py --repo <dir> --record` and `python -X utf8 tools/test_repo.py --repo <dir> --record`.
 3. Build again (the documentation then carries the results of step 2), then
    `python -X utf8 tools/build.py --repo <dir> --today 2026-10-28 --offline --verify-rebuild`.
 4. `python scripts/global-law/check_corpus.py <dir>` (in the lexifina repo).
 
 Tool versions: Python 3.12, PyMuPDF 2.0 (`pymupdf`, the build's PDF reader), pypdf 6.21 (the check's independent
-reader), git 2.46 (fast-import), curl (Windows). Builder blob hashes (`git hash-object`):
+reader), git 2.46 (fast-import). Builder blob hashes (`git hash-object`):
 - `build.py`: `7d32634e126938af1c39c2b21a4f0367c32eeffa`
-- `fetch.py`: `49fd8b88f7f93daa169322e00fb95787a8a029ec`
 - `parse.py`: `5fac9abe1942e84b285ee47ff19c472f8ebfc27e`
 - `reproduce.py`: `57688721dff52b5a2bbdb266b913433614af231c`
 - `check_repo.py`: `d2b4c41e22547e183cad7594d023408462c179f4`

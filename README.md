@@ -82,8 +82,8 @@ the article number and title ("Artículo 124.- Elección presidencial. ..."). `p
 ## What it does not show
 
 - The constitutions before 2010 (1844 to 2002); the image and OCR scans are not used.
-- The reform laws themselves (the "ley de declaratoria de necesidad de la reforma"), which the site's search hides
-  behind a challenge; the changes are read from the proclaimed texts.
+- The reform laws themselves (the "ley de declaratoria de necesidad de la reforma"), which are not used in this
+  record; the changes are read from the proclaimed texts.
 - Rulings of the Tribunal Constitucional and laws that change how the Constitution works without changing its words.
   Words unchanged does not mean law unchanged.
 

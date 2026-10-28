@@ -6,8 +6,8 @@ reutilización": "Los textos legales, decretos, resoluciones y gacetas publicada
 de dominio público. Las marcas, emblemas institucionales y el diseño gráfico del portal pertenecen al Estado
 Dominicano y están protegidos por las leyes de propiedad intelectual." No emblem or design of the portal is
 reproduced here. Section 3 forbids "el uso de robots, scripts automatizados o técnicas de extracción no
-autorizada (scraping) que degraden el rendimiento de los servicios"; this build made a handful of single
-requests (see REPRODUCE.md). The repository is private until the user decides otherwise.
+autorizada (scraping) que degraden el rendimiento de los servicios".
+The repository is private until the user decides otherwise.
 
 Only the printed Gaceta Oficial is authoritative.
 
