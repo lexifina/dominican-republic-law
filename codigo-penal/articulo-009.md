@@ -1,0 +1,1 @@
+Artículo 9.- Responsabilidad compartida. La responsabilidad penal de las personas jurídicas no excluye la de cualquier persona física que haya comprometido su propia responsabilidad en los mismos hechos, sea como autor o cómplice.
