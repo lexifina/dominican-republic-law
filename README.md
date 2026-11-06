@@ -1,5 +1,7 @@
 # The Constitution of the Dominican Republic, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Dominican Republic's national law, which global-law reads at `dominican-republic/national/acts/`.
+
 The Constitution of the Dominican Republic as a git repository, in Spanish, from the Constitution proclaimed on
 26 January 2010 through the reforms of 2015 and 2024. Each proclaimed text is one commit, credited to it and dated the
 day it took effect, at noon in Santo Domingo. Source: the official texts published by the Consultoría Jurídica del Poder
