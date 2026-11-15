@@ -24,7 +24,8 @@ The text is in Spanish, as the Consultoría Jurídica del Poder Ejecutivo publis
 
 - **[Ask Claude about Dominican law](https://global-law.lexifina.com/v1/try_claude?country=dominican-republic)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=dominican-republic)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=vacaciones&jurisdictions=dominican-republic)**: a search of Dominican law for "vacaciones", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Dominican law on our site](https://lexifina.com/law?country=dominican-republic&q=vacaciones)**: a search for "vacaciones", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=vacaciones&jurisdiction=dominican-republic)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Spanish or in English.
 
