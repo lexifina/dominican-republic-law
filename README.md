@@ -1,35 +1,41 @@
-# Dominican Republic: law history in git
+# República Dominicana: historia del derecho en git
 
+**Español** · [English](README.en.md)
 
-The Constitution of the Dominican Republic as a git history: one file per article, one commit per proclaimed text on the day it took effect, and that text as the commit's author. `git blame` names the text behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/es/effort-dark.svg">
+<img alt="El derecho dominicano en este repositorio: qué contiene, los cambios por año de entrada en vigor, la completitud frente a las fuentes oficiales y la exactitud de lo que contiene" src="data/es/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Dominican Republic's national law, which global-law reads at `dominican-republic/national/acts/`.
+La Constitución de la República Dominicana como historia de git: un archivo por artículo, un commit por texto proclamado el día en que entró en vigencia, y ese texto como autor del commit. `git blame` indica el texto que está detrás de cada párrafo; `git log` enumera todos los cambios de un artículo; al elegir una fecha se obtiene el texto vigente ese día.
 
-**What is in it now:** the Constitution, in three texts: the one proclaimed on 26 January 2010 and the reformed texts proclaimed on 13 June 2015 and 27 October 2024. In force today: 278 articles, 10 transitory provisions and the final provision. No other act is here yet. [`acts.csv`](acts.csv) lists the three texts and their official PDFs.
+Forma parte de [lexifina/global-law](https://github.com/lexifina/global-law), una única historia de git para el derecho de todos los países: este es el derecho nacional de la República Dominicana, que global-law lee en `dominican-republic/national/acts/`.
 
-Each provision is one file in `constitucion/`, one line per paragraph as printed: `articulo-081.md` is Article 81 (the Chamber of Deputies), `transitoria-01.md` the first transitory provision, `disposicion-final.md` the final provision; `preambulo.md` holds the preamble and `estructura.md` the titles, chapters and sections. The 2024 reform replaced the 20 transitory provisions of 2015 with 10 new ones, so `transitoria-01.md` to `transitoria-10.md` hold different provisions before and after it.
+**Qué contiene ahora:** la Constitución, en tres textos: el proclamado el 26 de enero de 2010 y los textos reformados proclamados el 13 de junio de 2015 y el 27 de octubre de 2024. Vigentes hoy: 278 artículos, 10 disposiciones transitorias y la disposición final. Todavía no hay ninguna otra norma. [`acts.csv`](acts.csv) enumera los tres textos y sus PDF oficiales.
 
-The text is in Spanish, as the Consultoría Jurídica del Poder Ejecutivo publishes it. An English translation is not part of this record.
+Cada disposición es un archivo en `constitucion/`, una línea por párrafo tal como está impreso: `articulo-081.md` es el Artículo 81 (la Cámara de Diputados), `transitoria-01.md` la primera disposición transitoria, `disposicion-final.md` la disposición final; `preambulo.md` contiene el preámbulo y `estructura.md` los títulos, capítulos y secciones. La reforma de 2024 sustituyó las 20 disposiciones transitorias de 2015 por 10 nuevas, por lo que `transitoria-01.md` a `transitoria-10.md` contienen disposiciones distintas antes y después de ella.
 
-## Questions as git commands
+El texto está en español, tal como lo publica la Consultoría Jurídica del Poder Ejecutivo. Este registro no incluye una traducción al inglés.
 
-| Question | Command |
+## Preguntas como comandos de git
+
+| Pregunta | Comando |
 | --- | --- |
-| Every change to Article 81 of the Constitution | `git log -p --word-diff -- constitucion/articulo-081.md` |
-| Which text wrote each line of Article 81? | `git blame constitucion/articulo-081.md` |
-| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitucion` |
-| Article 81 as in force on 1 January 2020 | `python tools/in_force_on.py 2020-01-01 constitucion/articulo-081.md` |
+| Todos los cambios del Artículo 81 de la Constitución | `git log -p --word-diff -- constitucion/articulo-081.md` |
+| ¿Qué texto escribió cada línea del Artículo 81? | `git blame constitucion/articulo-081.md` |
+| Todas las versiones de la Constitución, con el día en que entró en vigencia cada una | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitucion` |
+| El Artículo 81 vigente al 1 de enero de 2020 | `python tools/in_force_on.py 2020-01-01 constitucion/articulo-081.md` |
 
-**Outside git**, we also host this record publicly, for free:
+**Fuera de git**, también alojamos este registro de forma pública y gratuita:
 
-- **[Ask Claude about Dominican law](https://global-law.lexifina.com/v1/try_claude?country=dominican-republic)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=dominican-republic)**: the same question in ChatGPT.
-- **[Search Dominican law on our site](https://lexifina.com/law?country=dominican-republic&q=vacaciones)**: a search for "vacaciones", with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=vacaciones&jurisdiction=dominican-republic)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Preguntar a Claude sobre el derecho dominicano](https://global-law.lexifina.com/v1/try_claude?country=dominican-republic)**: abre Claude con una primera pregunta preparada.
+- **[Preguntar a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=dominican-republic)**: la misma pregunta en ChatGPT.
+- **[Buscar en el derecho dominicano en nuestro sitio](https://lexifina.com/law?country=dominican-republic&q=vacaciones)**: una búsqueda de "vacaciones", con el texto de cada disposición y sus versiones, sin necesidad de cuenta.
+- **[API REST para desarrolladores](https://global-law.lexifina.com/v1/search_law?query=vacaciones&jurisdiction=dominican-republic)**: la misma búsqueda en JSON, sin clave. Consulte la [documentación aquí](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Spanish or in English.
+Ambos asistentes leen el registro a través del conector gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); la primera vez, el chat le da el enlace para agregarlo. Pregunte en español o en inglés.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**Alójelo usted mismo fácilmente.** Solo hacen falta git y Python, y las herramientas se ejecutan en su equipo:
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -37,51 +43,53 @@ python3 tools/countries.py add dominican-republic/national/acts
 python3 tools/law.py show 2026-01-01 dominican-republic/national/acts/constitucion/articulo-081.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Abierto en Claude Code, Cursor, VS Code o Codex, el clon también inicia un servidor MCP local con las mismas herramientas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## Dates
+## Fechas
 
-Each commit is dated at noon, America/Santo_Domingo (UTC-4, no summer time since 2000), on the day the text took effect, and carries it in its `In-force:` trailer:
+Cada commit está fechado a las doce del mediodía, hora de America/Santo_Domingo (UTC-4, sin horario de verano desde 2000), del día en que el texto entró en vigencia, y lleva ese día en su trailer `In-force:`:
 
-- each text says in its Disposición final that it takes effect on its proclamation ("entrará en vigencia a partir de su proclamación"), so the day is the one its closing "DADA Y PROCLAMADA" paragraph gives, also kept in `Proclaimed:`;
-- the 2010 text was printed in Gaceta Oficial n.º 10561 the same day (`Published:`); the 2015 and 2024 PDFs carry no Gaceta number, so none is given;
-- `git log --before` compares commit times in your own time zone; ask for a date with `tools/in_force_on.py`, which reads `In-force:`.
+- cada texto dice en su Disposición final que entra en vigencia con su proclamación ("entrará en vigencia a partir de su proclamación"), por lo que el día es el que da su párrafo final "DADA Y PROCLAMADA", que también se conserva en `Proclaimed:`;
+- el texto de 2010 se publicó en la Gaceta Oficial n.º 10561 el mismo día (`Published:`); los PDF de 2015 y 2024 no indican ningún número de Gaceta, por lo que no se da ninguno;
+- `git log --before` compara las horas de los commits en su propia zona horaria; para consultar una fecha, use `tools/in_force_on.py`, que lee `In-force:`.
 
-Each commit is credited to the proclaimed text (`Reforma constitucional de 2015`), so `git blame` names it. Each reform is the whole text the Asamblea Nacional Revisora proclaimed, so the articles that differ only in spelling, capitalisation, punctuation or agreement (8 in 2015, 6 in 2024) are credited to it too; each commit message lists them apart.
+Cada commit se atribuye al texto proclamado (`Reforma constitucional de 2015`), de modo que `git blame` lo indica. Cada reforma es el texto completo que proclamó la Asamblea Nacional Revisora, por lo que los artículos que solo difieren en ortografía, uso de mayúsculas, puntuación o concordancia (8 en 2015, 6 en 2024) también se le atribuyen; el mensaje de cada commit los enumera por separado.
 
-## How it is checked
+## Cómo se verifica
 
-- `tools/check_repo.py` reads every version back from git and compares it with the official PDF, file by file and byte for byte, and again as letters and digits read by a second, independent PDF reader (pypdf).
-- The build stops unless each text's in-force day matches its "DADA Y PROCLAMADA" paragraph, and each reform changes exactly the files read by hand as changed in substance or in wording only.
-- `tools/test_repo.py` checks that blame, the dated tool and the citation rule work. The results are in [`REPRODUCE.md`](REPRODUCE.md); the same data gives the same commit hashes.
-- History is append-only: no merge commits, and the law commits are in date order.
+- `tools/check_repo.py` vuelve a leer desde git cada versión y la compara con el PDF oficial, archivo por archivo y byte por byte, y de nuevo como letras y dígitos leídos por un segundo lector de PDF independiente (pypdf).
+- La compilación se detiene si el día de entrada en vigencia de algún texto no coincide con su párrafo "DADA Y PROCLAMADA", o si alguna reforma no cambia exactamente los archivos que una lectura manual identificó como modificados en el fondo o solo en la redacción.
+- `tools/test_repo.py` verifica que funcionan blame, la herramienta de consulta por fecha y la regla de citación. Los resultados están en [`REPRODUCE.md`](REPRODUCE.md); los mismos datos producen los mismos hashes de commit.
+- La historia solo admite agregados: no hay commits de fusión (merge), y los commits de las normas están en orden cronológico.
 
-## What it does not show
+## Qué no muestra
 
-- **Constitutions before 2010** (1844 to 2002). The Consultoría publishes the 2002 text only as an image scan and the older ones as OCR scans, so the record starts with the 2010 text.
-- **Any other law.** The Consultoría's legislation database holds acts only as enacted, with no consolidated versions.
-- **The reform laws** (the "ley de declaratoria de necesidad de la reforma"): the changes are read from the proclaimed texts.
-- **Rulings of the Tribunal Constitucional**, and laws that change how the Constitution works without changing its words.
+- **Las Constituciones anteriores a 2010** (de 1844 a 2002). La Consultoría publica el texto de 2002 solo como imagen escaneada y los más antiguos como escaneos con OCR, por lo que el registro comienza con el texto de 2010.
+- **Ninguna otra ley.** La base de datos legislativa de la Consultoría contiene las normas solo tal como se promulgaron, sin versiones consolidadas.
+- **Las leyes de reforma** (la "ley de declaratoria de necesidad de la reforma"): los cambios se leen de los textos proclamados.
+- **Las sentencias del Tribunal Constitucional**, y las leyes que cambian el funcionamiento de la Constitución sin cambiar su texto.
 
-## Sources
+## Fuentes
 
-| Source | Kind | Past versions | Notes |
+| Fuente | Tipo | Versiones anteriores | Notas |
 | --- | --- | --- | --- |
-| [Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consultas/constituciones) | Official texts of the constitutions (publisher of the Gaceta Oficial) | yes, each proclaimed text: 2010, 2015, 2024 | Born-digital PDFs; only the printed Gaceta Oficial is authoritative |
+| [Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consultas/constituciones) | Textos oficiales de las constituciones (editora de la Gaceta Oficial) | sí, cada texto proclamado: 2010, 2015, 2024 | PDF nativos digitales; solo la Gaceta Oficial impresa es fehaciente |
 
-## Licence
+## Licencia
 
-See [`LICENSE`](LICENSE). The Consultoría's terms of use (section 4) say the legal texts it publishes are in the public domain. The history, tables and tools are CC0 1.0.
+Véase [`LICENSE`](LICENSE). Los términos de uso de la Consultoría (sección 4) dicen que los textos jurídicos que publica son de dominio público. La historia, las tablas y las herramientas son CC0 1.0.
 
-No AI model wrote legal text or runs at build time; the code was written by an AI model, Claude Opus 5.5 in Claude Code (see [`REPRODUCE.md`](REPRODUCE.md)).
+Ningún modelo de IA escribió texto normativo ni se ejecuta durante la compilación; el código lo escribió un modelo de IA, Claude Opus 5.5 en Claude Code (véase [`REPRODUCE.md`](REPRODUCE.md)).
 
-## More
+Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
+## Más información
 
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+Del repositorio [lexifina/global-law](https://github.com/lexifina/global-law) (páginas en inglés):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): todas las funciones y lo que cada corpus debe admitir (`git blame`, `law.py`, herramientas MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): preguntas y respuestas · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proponer cambios · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): cómo se ha construido · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): lo actualizado que está cada corpus · [Supervisión](https://github.com/lexifina/global-law/tree/main/monitoring): si las actualizaciones funcionan · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): cómo se vigila cada fuente oficial para detectar cambios
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidez de las herramientas, medida
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gráficos y conexiones a través del derecho de todo el mundo
+- [Vulnerabilidades](https://github.com/lexifina/global-law/tree/main/vulnerabilities): errores en las normas tal como se publicaron
