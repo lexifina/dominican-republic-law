@@ -61,6 +61,7 @@ Each commit is credited to the proclaimed text (`Reforma constitucional de 2015`
 - The build stops unless each text's in-force day matches its "DADA Y PROCLAMADA" paragraph, and each reform changes exactly the files read by hand as changed in substance or in wording only.
 - `tools/test_repo.py` checks that blame, the dated tool and the citation rule work. The results are in [`REPRODUCE.md`](REPRODUCE.md); the same data gives the same commit hashes.
 - History is append-only: no merge commits, and the law commits are in date order.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each commit is credited to the proclaimed text (`Reforma constitucional de 2015`
 See [`LICENSE`](LICENSE). The Consultoría's terms of use (section 4) say the legal texts it publishes are in the public domain. The history, tables and tools are CC0 1.0.
 
 No AI model wrote legal text or runs at build time; the code was written by an AI model, Claude Opus 5.5 in Claude Code (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
