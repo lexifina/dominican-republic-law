@@ -61,6 +61,7 @@ Cada commit se atribuye al texto proclamado (`Reforma constitucional de 2015`), 
 - La compilación se detiene si el día de entrada en vigencia de algún texto no coincide con su párrafo "DADA Y PROCLAMADA", o si alguna reforma no cambia exactamente los archivos que una lectura manual identificó como modificados en el fondo o solo en la redacción.
 - `tools/test_repo.py` verifica que funcionan blame, la herramienta de consulta por fecha y la regla de citación. Los resultados están en [`REPRODUCE.md`](REPRODUCE.md); los mismos datos producen los mismos hashes de commit.
 - La historia solo admite agregados: no hay commits de fusión (merge), y los commits de las normas están en orden cronológico.
+- [vulnerabilities/](vulnerabilities/): posibles errores de redacción en este derecho, hallados por los detectores de global-law y revisados a mano. Aún no se ha ejecutado.
 
 ## Qué no muestra
 
@@ -82,6 +83,10 @@ Véase [`LICENSE`](LICENSE). Los términos de uso de la Consultoría (sección 4
 Ningún modelo de IA escribió texto normativo ni se ejecuta durante la compilación; el código lo escribió un modelo de IA, Claude Opus 5.5 en Claude Code (véase [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
+
+## Visualizaciones
+
+- [visualisations/](visualisations/): gráficos hechos a partir de este repositorio. Aún no se han hecho.
 
 ## Más información
 
