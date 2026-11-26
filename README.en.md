@@ -7,11 +7,11 @@
 <img alt="Dominican law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
-The Constitution and the Código Penal of the Dominican Republic as a git history: one file per article, one commit per text on the day it took effect, and that text as the commit's author. `git blame` names the text behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+The Constitution, the Código Penal, the Código Tributario and Ley 53-07 of the Dominican Republic as a git history: one file per article, one commit per text on the day it took effect, and that text as the commit's author. `git blame` names the text behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Dominican Republic's national law, which global-law reads at `dominican-republic/national/acts/`.
 
-**What is in it now:** the Constitution, in three texts: the one proclaimed on 26 January 2010 and the reformed texts proclaimed on 13 June 2015 and 27 October 2024. In force today: 278 articles, 10 transitory provisions and the final provision. And the Código Penal (Ley 74-25 as modified by Ley 44-26, 393 articles in `codigo-penal/`), in force from 5 August 2026 and its articles 8 to 11 from 5 November 2026, from the unified text the Consultoría published as a special edition of the Gaceta Oficial (no. 11257). No other act is here yet. [`acts.csv`](acts.csv) lists the texts and their official PDFs.
+**What is in it now:** the Constitution, in three texts: the one proclaimed on 26 January 2010 and the reformed texts proclaimed on 13 June 2015 and 27 October 2024. In force today: 278 articles, 10 transitory provisions and the final provision. And the Código Penal (Ley 74-25 as modified by Ley 44-26, 393 articles in `codigo-penal/`), in force from 5 August 2026 and its articles 8 to 11 from 5 November 2026, from the unified text the Consultoría published as a special edition of the Gaceta Oficial (no. 11257). Also the Código Tributario (Ley 11-92) in the DGII consolidated text up to Ley 253-12 (in `codigo-tributario/`, in force from 2012) and Ley 53-07 on high-technology crimes (in `leyes/2007/ley-53-07/`, the WIPO Lex copy). No other act is here yet. [`acts.csv`](acts.csv) lists the texts and their PDFs.
 
 Each provision is one file in `constitucion/`, one line per paragraph as printed: `articulo-081.md` is Article 81 (the Chamber of Deputies), `transitoria-01.md` the first transitory provision, `disposicion-final.md` the final provision; `preambulo.md` holds the preamble and `estructura.md` the titles, chapters and sections. The 2024 reform replaced the 20 transitory provisions of 2015 with 10 new ones, so `transitoria-01.md` to `transitoria-10.md` hold different provisions before and after it.
 
@@ -76,6 +76,8 @@ Each commit is credited to the proclaimed text (`Reforma constitucional de 2015`
 | --- | --- | --- | --- |
 | [Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consultas/constituciones) | Official texts of the constitutions (publisher of the Gaceta Oficial) | yes, each proclaimed text: 2010, 2015, 2024 | Born-digital PDFs; only the printed Gaceta Oficial is authoritative |
 | [Gaceta Oficial no. 11257, special edition (CJPE), the copy the DGII publishes](https://dgii.gov.do/transparencia/CIGCN/Marco%20Legal%20CIGCN/Codigo%20Penal%20de%20la%20Rep%C3%BAblica%20Dominicana%20-%20Consolidado%20con%20modificaciones.pdf) | Official unified text of the Código Penal (Leyes 74-25 and 44-26), certified by the Consultor Jurídico del Poder Ejecutivo | no: only the text in force from 2026 | Born-digital PDF; the edition's footnotes are not copied |
+| [DGII: Código Tributario y leyes que lo modifican](https://dgii.gov.do/legislacion/leyesTributarias/Documents/Codigo%20Tributario%20y%20Leyes%20que%20lo%20modifican%20y%20complementan/11-92.pdf) | Consolidated text of the Código Tributario up to Ley 253-12 (secondary copy, not the Gaceta Oficial) | no: one text, in force from 15 November 2012 | Born-digital PDF; does not carry Ley 25-24 |
+| [WIPO Lex](https://www.wipo.int/wipolex/es/legislation/details/10198) | Ley 53-07 as enacted (secondary copy) | no | Born-digital PDF |
 
 ## Licence
 
