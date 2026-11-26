@@ -62,3 +62,7 @@ notes) and read the in-force rule. Decisions by hand:
 
 - check_repo.py: 3 versions: 890 files compared byte for byte with the official texts, 0 mismatches; independent pypdf letters-and-digits check (constitucion/2010 147566 letters and digits equal; reforma/2015 147935 letters and digits equal; reforma/2024 147786 letters and digits equal); 0 merges, dates in order, no CRs unless listed; 0 problems
 - test_repo.py: 7/7 passed
+
+## Rebuild of 26 November 2026
+
+On 2026-11-26 main was rebuilt once, in in-force order, and force-pushed, approved by Alan (Lexifina) that day. The old main is kept as the tag `pre-rebuild-2026-11-26` (1e69106). Two acts in force before 2026 were added: Ley 53-07 (2007-05-09, WIPO Lex copy) and the Código Tributario in the DGII consolidated text (2012-11-15). The five earlier law commits (Constitution 2010, 2015, 2024; Código Penal 2026-08-05 and 2026-11-05) keep their messages, authors, dates and law text byte for byte; their hashes changed because their parents changed. The documentation commits were replayed with the same messages and dates. The tags constitucion/2010, reforma/2015 and reforma/2024 point to the rebuilt commits. Held, with reasons, in SOURCES.md.

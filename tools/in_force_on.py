@@ -56,11 +56,18 @@ def main():
     dt.date.fromisoformat(day)
     global FOLDER
     target = sys.argv[2].rstrip('/')
-    FOLDER = target.split('/')[0]
-    one = sys.argv[3] if len(sys.argv) > 3 else (target.split('/', 1)[1] if '/' in target else '')
+    last = target.rsplit('/', 1)[-1]
+    if len(sys.argv) > 3:
+        FOLDER, one = target, sys.argv[3]
+    elif '/' in target and (last.endswith('.md') or last.split('-')[0] in ('articulo', 'transitoria', 'disposicion', 'preambulo', 'estructura')):
+        FOLDER, one = target.rsplit('/', 1)
+    else:
+        FOLDER, one = target, ''
     c, since = commit_on(day)
     if not c:
-        sys.exit(f'{FOLDER} is not in the record on {day} (the record starts on 2010-01-26).')
+        sys.exit(f'{FOLDER} is not in the record on {day}.')
+    if not git('ls-tree', '--name-only', c, FOLDER + '/').strip():
+        sys.exit(f'{FOLDER} is not in the record on {day}.')
     if one:
         name = fname(one)
         try:
@@ -68,7 +75,7 @@ def main():
         except subprocess.CalledProcessError:
             sys.exit(f'{FOLDER}/{name} was not in the text in force on {day} (text in force since {since}).')
         return
-    names = [n.split('/', 1)[1] for n in git('ls-tree', '-r', '--name-only', c, FOLDER + '/').split('\n') if n]
+    names = [n[len(FOLDER) + 1:] for n in git('ls-tree', '-r', '--name-only', c, FOLDER + '/').split('\n') if n]
     if not names:
         sys.exit(f'{FOLDER} is not in the record on {day}.')
     text = blobs(c, names)
