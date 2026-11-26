@@ -7,11 +7,11 @@
 <img alt="Dominican law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
-The Constitution of the Dominican Republic as a git history: one file per article, one commit per proclaimed text on the day it took effect, and that text as the commit's author. `git blame` names the text behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+The Constitution and the Código Penal of the Dominican Republic as a git history: one file per article, one commit per text on the day it took effect, and that text as the commit's author. `git blame` names the text behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Dominican Republic's national law, which global-law reads at `dominican-republic/national/acts/`.
 
-**What is in it now:** the Constitution, in three texts: the one proclaimed on 26 January 2010 and the reformed texts proclaimed on 13 June 2015 and 27 October 2024. In force today: 278 articles, 10 transitory provisions and the final provision. No other act is here yet. [`acts.csv`](acts.csv) lists the three texts and their official PDFs.
+**What is in it now:** the Constitution, in three texts: the one proclaimed on 26 January 2010 and the reformed texts proclaimed on 13 June 2015 and 27 October 2024. In force today: 278 articles, 10 transitory provisions and the final provision. And the Código Penal (Ley 74-25 as modified by Ley 44-26, 393 articles in `codigo-penal/`), in force from 5 August 2026 and its articles 8 to 11 from 5 November 2026, from the unified text the Consultoría published as a special edition of the Gaceta Oficial (no. 11257). No other act is here yet. [`acts.csv`](acts.csv) lists the texts and their official PDFs.
 
 Each provision is one file in `constitucion/`, one line per paragraph as printed: `articulo-081.md` is Article 81 (the Chamber of Deputies), `transitoria-01.md` the first transitory provision, `disposicion-final.md` the final provision; `preambulo.md` holds the preamble and `estructura.md` the titles, chapters and sections. The 2024 reform replaced the 20 transitory provisions of 2015 with 10 new ones, so `transitoria-01.md` to `transitoria-10.md` hold different provisions before and after it.
 
@@ -57,7 +57,7 @@ Each commit is credited to the proclaimed text (`Reforma constitucional de 2015`
 
 ## How it is checked
 
-- `tools/check_repo.py` reads every version back from git and compares it with the official PDF, file by file and byte for byte, and again as letters and digits read by a second, independent PDF reader (pypdf).
+- `tools/check_repo.py` reads every version of the Constitution back from git and compares it with the official PDF, file by file and byte for byte, and again as letters and digits read by a second, independent PDF reader (pypdf).
 - The build stops unless each text's in-force day matches its "DADA Y PROCLAMADA" paragraph, and each reform changes exactly the files read by hand as changed in substance or in wording only.
 - `tools/test_repo.py` checks that blame, the dated tool and the citation rule work. The results are in [`REPRODUCE.md`](REPRODUCE.md); the same data gives the same commit hashes.
 - History is append-only: no merge commits, and the law commits are in date order.
@@ -66,7 +66,7 @@ Each commit is credited to the proclaimed text (`Reforma constitucional de 2015`
 ## What it does not show
 
 - **Constitutions before 2010** (1844 to 2002). The Consultoría publishes the 2002 text only as an image scan and the older ones as OCR scans, so the record starts with the 2010 text.
-- **Any other law.** The Consultoría's legislation database holds acts only as enacted, with no consolidated versions.
+- **Any other law or code**, nor the Código Penal of 1884 that Ley 74-25 replaced. The Consultoría's legislation database holds acts only as enacted, with no consolidated versions, and its search does not answer automated tools. Texts in force before 5 August 2026 cannot be added after the 2026 commits without breaking the history's date order.
 - **The reform laws** (the "ley de declaratoria de necesidad de la reforma"): the changes are read from the proclaimed texts.
 - **Rulings of the Tribunal Constitucional**, and laws that change how the Constitution works without changing its words.
 
@@ -75,6 +75,7 @@ Each commit is credited to the proclaimed text (`Reforma constitucional de 2015`
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consultas/constituciones) | Official texts of the constitutions (publisher of the Gaceta Oficial) | yes, each proclaimed text: 2010, 2015, 2024 | Born-digital PDFs; only the printed Gaceta Oficial is authoritative |
+| [Gaceta Oficial no. 11257, special edition (CJPE), the copy the DGII publishes](https://dgii.gov.do/transparencia/CIGCN/Marco%20Legal%20CIGCN/Codigo%20Penal%20de%20la%20Rep%C3%BAblica%20Dominicana%20-%20Consolidado%20con%20modificaciones.pdf) | Official unified text of the Código Penal (Leyes 74-25 and 44-26), certified by the Consultor Jurídico del Poder Ejecutivo | no: only the text in force from 2026 | Born-digital PDF; the edition's footnotes are not copied |
 
 ## Licence
 
