@@ -15,7 +15,7 @@ import re
 import subprocess
 import sys
 
-FOLDER = 'constitucion'
+FOLDER = 'constitucion'  # or the first part of the path given (e.g. codigo-penal)
 
 
 def git(*args: str) -> str:
@@ -54,7 +54,9 @@ def main():
         sys.exit(__doc__)
     day = sys.argv[1]
     dt.date.fromisoformat(day)
+    global FOLDER
     target = sys.argv[2].rstrip('/')
+    FOLDER = target.split('/')[0]
     one = sys.argv[3] if len(sys.argv) > 3 else (target.split('/', 1)[1] if '/' in target else '')
     c, since = commit_on(day)
     if not c:
@@ -67,13 +69,15 @@ def main():
             sys.exit(f'{FOLDER}/{name} was not in the text in force on {day} (text in force since {since}).')
         return
     names = [n.split('/', 1)[1] for n in git('ls-tree', '-r', '--name-only', c, FOLDER + '/').split('\n') if n]
+    if not names:
+        sys.exit(f'{FOLDER} is not in the record on {day}.')
     text = blobs(c, names)
     heads = {}
     for line in text['estructura.md'].splitlines():
         m = re.fullmatch(r'(.*) \[([a-z0-9-]+\.md)\]', line)
         if m:
             heads.setdefault(m.group(2), []).append(m.group(1))
-    sys.stdout.write('PREÁMBULO\n' + text['preambulo.md'])
+    sys.stdout.write(('PREÁMBULO\n' if FOLDER == 'constitucion' else '') + text.get('preambulo.md', ''))
     for n in sorted((n for n in names if order(n)[0] < 2 or n == 'disposicion-final.md'), key=order):
         for h in heads.get(n, []):
             sys.stdout.write(h + '\n')

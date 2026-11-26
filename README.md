@@ -7,11 +7,11 @@
 <img alt="El derecho dominicano en este repositorio: qué contiene, los cambios por año de entrada en vigor, la completitud frente a las fuentes oficiales y la exactitud de lo que contiene" src="data/es/effort-light.svg" width="880">
 </picture>
 
-La Constitución de la República Dominicana como historia de git: un archivo por artículo, un commit por texto proclamado el día en que entró en vigencia, y ese texto como autor del commit. `git blame` indica el texto que está detrás de cada párrafo; `git log` enumera todos los cambios de un artículo; al elegir una fecha se obtiene el texto vigente ese día.
+La Constitución y el Código Penal de la República Dominicana como historia de git: un archivo por artículo, un commit por texto el día en que entró en vigencia, y ese texto como autor del commit. `git blame` indica el texto que está detrás de cada párrafo; `git log` enumera todos los cambios de un artículo; al elegir una fecha se obtiene el texto vigente ese día.
 
 Forma parte de [lexifina/global-law](https://github.com/lexifina/global-law), una única historia de git para el derecho de todos los países: este es el derecho nacional de la República Dominicana, que global-law lee en `dominican-republic/national/acts/`.
 
-**Qué contiene ahora:** la Constitución, en tres textos: el proclamado el 26 de enero de 2010 y los textos reformados proclamados el 13 de junio de 2015 y el 27 de octubre de 2024. Vigentes hoy: 278 artículos, 10 disposiciones transitorias y la disposición final. Todavía no hay ninguna otra norma. [`acts.csv`](acts.csv) enumera los tres textos y sus PDF oficiales.
+**Qué contiene ahora:** la Constitución, en tres textos: el proclamado el 26 de enero de 2010 y los textos reformados proclamados el 13 de junio de 2015 y el 27 de octubre de 2024. Vigentes hoy: 278 artículos, 10 disposiciones transitorias y la disposición final. Y el Código Penal (Ley núm. 74-25 con las modificaciones de la Ley núm. 44-26, 393 artículos en `codigo-penal/`), vigente desde el 5 de agosto de 2026 y sus artículos 8 a 11 desde el 5 de noviembre de 2026, según el texto unificado que la Consultoría publicó como edición especial de la Gaceta Oficial (n.º 11257). Todavía no hay ninguna otra norma. [`acts.csv`](acts.csv) enumera los textos y sus PDF oficiales.
 
 Cada disposición es un archivo en `constitucion/`, una línea por párrafo tal como está impreso: `articulo-081.md` es el Artículo 81 (la Cámara de Diputados), `transitoria-01.md` la primera disposición transitoria, `disposicion-final.md` la disposición final; `preambulo.md` contiene el preámbulo y `estructura.md` los títulos, capítulos y secciones. La reforma de 2024 sustituyó las 20 disposiciones transitorias de 2015 por 10 nuevas, por lo que `transitoria-01.md` a `transitoria-10.md` contienen disposiciones distintas antes y después de ella.
 
@@ -57,7 +57,7 @@ Cada commit se atribuye al texto proclamado (`Reforma constitucional de 2015`), 
 
 ## Cómo se verifica
 
-- `tools/check_repo.py` vuelve a leer desde git cada versión y la compara con el PDF oficial, archivo por archivo y byte por byte, y de nuevo como letras y dígitos leídos por un segundo lector de PDF independiente (pypdf).
+- `tools/check_repo.py` vuelve a leer desde git cada versión de la Constitución y la compara con el PDF oficial, archivo por archivo y byte por byte, y de nuevo como letras y dígitos leídos por un segundo lector de PDF independiente (pypdf).
 - La compilación se detiene si el día de entrada en vigencia de algún texto no coincide con su párrafo "DADA Y PROCLAMADA", o si alguna reforma no cambia exactamente los archivos que una lectura manual identificó como modificados en el fondo o solo en la redacción.
 - `tools/test_repo.py` verifica que funcionan blame, la herramienta de consulta por fecha y la regla de citación. Los resultados están en [`REPRODUCE.md`](REPRODUCE.md); los mismos datos producen los mismos hashes de commit.
 - La historia solo admite agregados: no hay commits de fusión (merge), y los commits de las normas están en orden cronológico.
@@ -66,7 +66,7 @@ Cada commit se atribuye al texto proclamado (`Reforma constitucional de 2015`), 
 ## Qué no muestra
 
 - **Las Constituciones anteriores a 2010** (de 1844 a 2002). La Consultoría publica el texto de 2002 solo como imagen escaneada y los más antiguos como escaneos con OCR, por lo que el registro comienza con el texto de 2010.
-- **Ninguna otra ley.** La base de datos legislativa de la Consultoría contiene las normas solo tal como se promulgaron, sin versiones consolidadas.
+- **Ninguna otra ley ni otro código**, ni el Código Penal de 1884 que la Ley núm. 74-25 sustituyó. La base de datos legislativa de la Consultoría contiene las normas solo tal como se promulgaron, sin versiones consolidadas, y su búsqueda no responde a herramientas automáticas. Los textos anteriores al 5 de agosto de 2026 no pueden agregarse después de los commits de 2026 sin romper el orden cronológico de la historia.
 - **Las leyes de reforma** (la "ley de declaratoria de necesidad de la reforma"): los cambios se leen de los textos proclamados.
 - **Las sentencias del Tribunal Constitucional**, y las leyes que cambian el funcionamiento de la Constitución sin cambiar su texto.
 
@@ -75,6 +75,7 @@ Cada commit se atribuye al texto proclamado (`Reforma constitucional de 2015`), 
 | Fuente | Tipo | Versiones anteriores | Notas |
 | --- | --- | --- | --- |
 | [Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consultas/constituciones) | Textos oficiales de las constituciones (editora de la Gaceta Oficial) | sí, cada texto proclamado: 2010, 2015, 2024 | PDF nativos digitales; solo la Gaceta Oficial impresa es fehaciente |
+| [Gaceta Oficial n.º 11257, edición especial (CJPE), copia publicada por la DGII](https://dgii.gov.do/transparencia/CIGCN/Marco%20Legal%20CIGCN/Codigo%20Penal%20de%20la%20Rep%C3%BAblica%20Dominicana%20-%20Consolidado%20con%20modificaciones.pdf) | Texto unificado oficial del Código Penal (Leyes núm. 74-25 y 44-26), certificado por el Consultor Jurídico del Poder Ejecutivo | no: solo el texto vigente desde 2026 | PDF nativo digital; sin las notas al pie de la edición |
 
 ## Licencia
 
