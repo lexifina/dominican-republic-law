@@ -1,6 +1,6 @@
 {
   "corpus": "do/national/acts",
-  "name": "Dominican law: the Constitution (2010, 2015, 2024), the Código Penal (2025), the Código Tributario (DGII text to 2012) and Ley 53-07",
+  "name": "Dominican law: the Constitution (2010, 2015, 2024), the Código Penal (2025), the Código Procesal Penal (2025), the Código Tributario (DGII text to 2012), Ley 479-08 (DGII text to 2011) and Ley 53-07",
   "label": "Dominican Republic",
   "language": "es",
   "acts": [
@@ -9,15 +9,17 @@
     "Constitución de la República Dominicana, reformada y proclamada por la Asamblea Nacional Revisora el 27 de octubre de 2024",
     "Ley núm. 74-25, Orgánica que instituye el Código Penal de la República Dominicana, con las modificaciones de la Ley núm. 44-26 (Gaceta Oficial n.º 11257, edición especial)",
     "Ley núm. 11-92, Código Tributario de la República Dominicana (texto consolidado de la DGII hasta la Ley núm. 253-12)",
-    "Ley núm. 53-07 contra Crímenes y Delitos de Alta Tecnología"
+    "Ley núm. 53-07 contra Crímenes y Delitos de Alta Tecnología",
+    "Ley núm. 479-08, General de las Sociedades Comerciales y Empresas Individuales de Responsabilidad Limitada (texto consolidado de la DGII hasta la Ley núm. 31-11)",
+    "Ley orgánica núm. 97-25, que instituye el Código Procesal Penal de la República Dominicana"
   ],
   "history_from": "2007-05-09",
-  "record_to": "2026-11-26",
-  "record_note": "Ley 53-07 from 2007-05-09 (as enacted); the Constitution from 2010-01-26 to the 2024 reform; the Código Tributario in the DGII consolidated text from 2012-11-15 (later changes such as Ley 25-24 not held); the Código Penal from 2026-08-05 (articles 8 to 11 2026-11-05). Checked on 2026-11-26.",
+  "record_to": "2026-11-27",
+  "record_note": "Ley 53-07 from 2007-05-09 (as enacted); the Constitution from 2010-01-26 to the 2024 reform; Ley 479-08 in the DGII consolidated text from 2011-02-12; the Código Tributario in the DGII consolidated text from 2012-11-15 (later changes such as Ley 25-24 not held); the Código Procesal Penal (Ley 97-25) from 2025-12-10 (publisher OCR text); the Código Penal from 2026-08-05 (articles 8 to 11 2026-11-05). Checked on 2026-11-27.",
   "history": "in-force",
   "in_force_trailer": "In-force",
   "has_future_branch": false,
-  "checked_on": "2026-11-26",
+  "checked_on": "2026-11-27",
   "built": "2026-10-28",
   "dates": {
     "commit": "in-force",
@@ -40,7 +42,7 @@
   },
   "tool": "tools/in_force_on.py",
   "citation": {
-    "file": "(constitucion|codigo-penal|codigo-tributario|leyes/[0-9]{4}/[a-z0-9-]+)/articulo-0*([0-9]+)\\.md",
+    "file": "(constitucion|codigo-penal|codigo-procesal-penal|codigo-tributario|leyes/[0-9]{4}/[a-z0-9-]+)/articulo-0*([0-9]+)\\.md",
     "cites": "([Aa]rtículo|[Aa]rtículos|[Aa]rt\\.) {n}([^0-9]|$)"
   }
 }
